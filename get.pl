@@ -13,6 +13,11 @@ $tfile3 = "gov.uk_api_organisations-augmented.tsv";
 $ufile = "gov.uk_government_organisations-replacement-urls.csv";
 $jfile = "gov.uk_api_organisations.json";
 $apiurl = "https://gov.uk/api/organisations";
+$readme = "README.md";
+%count;
+$count{'GB-GOVUK'} = 0;
+$count{'GB-GOVUKAPI-CURRENT'} = 0;
+$count{'GB-GOVUKAPI-TOTAL'} = 0;
 if(!-e $file || (time() - (stat $file)[9] >= 86400/2)){
 	print "Getting $url...\n";
 	`wget -q --no-check-certificate -O $file "$url"`;
@@ -84,6 +89,7 @@ while($content =~ s/<li class="organisations-list__item"(.*?)<\/li//){
 	#$orgs{$ohref} = {'id'=>$id,'name'=>$name,'url'=>($url||$href),'href'=>$href};
 	$orgs{$href} = {'id'=>$id,'name'=>$name,'url'=>($url||$href),'href'=>$href};
 	$csv .= "$id,\"$name\",$href,$url\n";
+	$count{'GB-GOVUK'}++;
 }
 
 
@@ -116,9 +122,9 @@ open(FILE,">",$tfile2);
 print FILE $tsv;
 close(FILE);
 
-$n = 0;
 $csv = "GB-GOR,Name,Type,GOVUK URL,URL,Updated\n";
 $tsv = "GB-GOR\tName\tType\tGOVUK URL\tURL\tUpdated\n";
+$count{'GB-GOVUKAPI-TOTAL'} = @results;
 for($r = 0; $r < @results; $r++){
 	if($results[$r]{'details'}{'closed_at'} !~ /[0-9]{4}/){
 		$name = $results[$r]{'title'};
@@ -137,7 +143,7 @@ for($r = 0; $r < @results; $r++){
 			$csv .= "$results[$r]{'analytics_identifier'},\"$name\",$format,$href,$url,$update\n";
 			$tsv .= "$results[$r]{'analytics_identifier'}\t$name\t$format\t$href\t$url\t$update\n";
 	#	}
-		$n++;
+		$count{'GB-GOVUKAPI-CURRENT'}++;
 	}
 }
 
@@ -149,8 +155,18 @@ open(FILE,">",$tfile3);
 print FILE $tsv;
 close(FILE);
 
-print "Total: $n\n";
+print "Total: $count{'GB-GOVUKAPI-CURRENT'}\n";
 
+open(FILE,$readme);
+@lines = <FILE>;
+close(FILE);
+$str = join("",@lines);
+foreach $key (keys(%count)){
+	$str =~ s/(<!--$key-->)[^\<]*(<!--END $key-->)/$1$count{$key}$2/g;	
+}
+open(FILE,">",$readme);
+print FILE $str;
+close(FILE);
 
 
 
