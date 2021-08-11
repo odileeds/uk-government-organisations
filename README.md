@@ -1,6 +1,6 @@
 # UK Government organisations
 
-Combining lists of UK Government organisations to make useful CSV files.
+Combining lists of UK Government organisations to make useful CSV files. Automatically updates on the 1st of the month.
 
 ## Sources
 
