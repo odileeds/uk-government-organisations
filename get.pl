@@ -18,10 +18,10 @@ $readme = "README.md";
 $count{'GB-GOVUK'} = 0;
 $count{'GB-GOVUKAPI-CURRENT'} = 0;
 $count{'GB-GOVUKAPI-TOTAL'} = 0;
-if(!-e $file || (time() - (stat $file)[9] >= 86400/2)){
+#if(!-e $file || (time() - (stat $file)[9] >= 86400/2)){
 	print "Getting $url...\n";
 	`wget -q --no-check-certificate -O $file "$url"`;
-}
+#}
 
 @results = getAPIresults();
 
@@ -181,7 +181,7 @@ sub getAPIresults {
 	$json = {'next_page_url'=>$apiurl};
 	$results->{'results'} = ();
 	
-	if(!-e $jfile || (time() - (stat $jfile)[9] >= 86400*30)){
+#	if(!-e $jfile || (time() - (stat $jfile)[9] >= 86400*30)){
 
 		while($json->{'next_page_url'} && $json->{'next_page_url'} ne $lastpage){
 
@@ -209,13 +209,13 @@ sub getAPIresults {
 		open(FILE,">",$jfile);
 		print FILE $json_text;
 		close(FILE);
-	}else{
-	
-		open(FILE,$jfile);
-		@lines = <FILE>;
-		close(FILE);
-		$results = JSON::XS->new->utf8->decode(join("",@lines));
-	}
+#	}else{
+#	
+#		open(FILE,$jfile);
+#		@lines = <FILE>;
+#		close(FILE);
+#		$results = JSON::XS->new->utf8->decode(join("",@lines));
+#	}
 
 	for($f = 0; $f < @files; $f++){
 		`rm $files[$f]`;

@@ -643,12 +643,16 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Architects Registration Board",
-         "updated_at" : "2014-10-15T15:35:39.000+01:00",
+         "updated_at" : "2021-09-24T14:14:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/architects-registration-board"
       },
       {
@@ -1094,7 +1098,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Birmingham Organising Committee for the 2022 Commonwealth Games Ltd",
-         "updated_at" : "2018-10-08T10:57:21.000+01:00",
+         "updated_at" : "2021-09-13T16:25:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/birmingham-organising-committee-for-the-2022-commonwealth-games-ltd"
       },
       {
@@ -1598,6 +1602,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -9513,34 +9521,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/kitts-green-and-shard-end-education-action-zone"
       },
       {
-         "analytics_identifier" : "EA752",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "41684df9-c665-4e39-9818-1aa3a4c1bc74",
-            "govuk_closed_status" : "devolved",
-            "govuk_status" : "devolved",
-            "logo_formatted_name" : "Labour Relations Agency",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "labour-relations-agency"
-         },
-         "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/labour-relations-agency",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
-               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
-            }
-         ],
-         "title" : "Labour Relations Agency",
-         "updated_at" : "2014-10-15T15:37:34.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/labour-relations-agency"
-      },
-      {
          "analytics_identifier" : "EA700",
          "child_organisations" : [],
          "details" : {
@@ -10116,6 +10096,104 @@
          "title" : "Ministry of Defence Police and Guarding Agency",
          "updated_at" : "2014-10-15T15:37:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence-police-and-guarding-agency"
+      },
+      {
+         "analytics_identifier" : "D4",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/queen-elizabeth-ii-conference-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/queen-elizabeth-ii-conference-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-regulations-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/building-regulations-advisory-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/homes-and-communities-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/homes-and-communities-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/architects-registration-board",
+               "web_url" : "https://www.gov.uk/government/organisations/architects-registration-board"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/audit-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/audit-commission"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/housing-ombudsman",
+               "web_url" : "https://www.gov.uk/government/organisations/housing-ombudsman"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/leasehold-advisory-service",
+               "web_url" : "https://www.gov.uk/government/organisations/leasehold-advisory-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/london-thames-gateway-development-corporation",
+               "web_url" : "https://www.gov.uk/government/organisations/london-thames-gateway-development-corporation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service",
+               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-west-northamptonshire-development-corporation",
+               "web_url" : "https://www.gov.uk/government/organisations/the-west-northamptonshire-development-corporation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/local-government-ombudsman",
+               "web_url" : "https://www.gov.uk/government/organisations/local-government-ombudsman"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ebbsfleet-development-corporation",
+               "web_url" : "https://www.gov.uk/government/organisations/ebbsfleet-development-corporation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-for-england",
+               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-for-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-holocaust-memorial-foundation",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-holocaust-memorial-foundation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/homes-england",
+               "web_url" : "https://www.gov.uk/government/organisations/homes-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/windrush-commemoration-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/windrush-commemoration-committee"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "MHCLG",
+            "closed_at" : "2021-09-20T00:00:00.000+01:00",
+            "content_id" : "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Ministry of Housing,\r\nCommunities &\r\nLocal Government",
+            "organisation_brand_colour_class_name" : "department-for-communities-and-local-government",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "ministry-of-housing-communities-and-local-government"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-the-environment-transport-and-the-regions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-the-environment-transport-and-the-regions"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+            }
+         ],
+         "title" : "Ministry of Housing, Communities & Local Government",
+         "updated_at" : "2021-09-24T15:17:36.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
       },
       {
          "analytics_identifier" : "PB255",
@@ -13205,6 +13283,43 @@
          "title" : "Public Accounts Commission",
          "updated_at" : "2014-10-15T15:37:04.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/public-accounts-commission"
+      },
+      {
+         "analytics_identifier" : "EA480",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "PHE",
+            "closed_at" : "2021-10-01T00:00:00.000+01:00",
+            "content_id" : "1343f283-19e9-4fbb-86b1-58c7549d874b",
+            "govuk_closed_status" : "split",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Public Health \r\nEngland",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "public-health-england"
+         },
+         "format" : "Executive agency",
+         "id" : "https://www.gov.uk/api/organisations/public-health-england",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-health-security-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-health-improvement-and-disparities",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities"
+            }
+         ],
+         "title" : "Public Health England",
+         "updated_at" : "2021-10-01T08:44:15.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/public-health-england"
       },
       {
          "analytics_identifier" : "EA660",
@@ -16644,7 +16759,12 @@
       },
       {
          "analytics_identifier" : "D550",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-the-internal-market",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
+            }
+         ],
          "details" : {
             "abbreviation" : "CMA",
             "closed_at" : null,
@@ -17115,7 +17235,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Crown Commercial Service",
-         "updated_at" : "2021-05-18T10:21:23.000+01:00",
+         "updated_at" : "2021-10-01T15:47:15.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/crown-commercial-service"
       },
       {
@@ -18486,6 +18606,87 @@
          "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
       },
       {
+         "analytics_identifier" : "D1342",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/regulator-of-social-housing",
+               "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/housing-ombudsman",
+               "web_url" : "https://www.gov.uk/government/organisations/housing-ombudsman"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/queen-elizabeth-ii-conference-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/queen-elizabeth-ii-conference-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ebbsfleet-development-corporation",
+               "web_url" : "https://www.gov.uk/government/organisations/ebbsfleet-development-corporation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/homes-england",
+               "web_url" : "https://www.gov.uk/government/organisations/homes-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/leasehold-advisory-service",
+               "web_url" : "https://www.gov.uk/government/organisations/leasehold-advisory-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-for-england",
+               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-for-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service",
+               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-regulations-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/building-regulations-advisory-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/architects-registration-board",
+               "web_url" : "https://www.gov.uk/government/organisations/architects-registration-board"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/local-government-ombudsman",
+               "web_url" : "https://www.gov.uk/government/organisations/local-government-ombudsman"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-holocaust-memorial-foundation",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-holocaust-memorial-foundation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/windrush-commemoration-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/windrush-commemoration-committee"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "DLUHC",
+            "closed_at" : null,
+            "content_id" : "c45c316a-a4f5-42c7-b94d-d7f1821be18e",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Department for Levelling Up,\r\nHousing & Communities\r\n",
+            "organisation_brand_colour_class_name" : "department-for-communities-and-local-government",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "department-for-levelling-up-housing-and-communities"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Department for Levelling Up, Housing and Communities ",
+         "updated_at" : "2021-10-01T09:14:18.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+      },
+      {
          "analytics_identifier" : "OT1174",
          "child_organisations" : [],
          "details" : {
@@ -19144,7 +19345,7 @@
             }
          ],
          "title" : "Department of Justice (Northern Ireland)",
-         "updated_at" : "2020-10-13T10:02:12.000+01:00",
+         "updated_at" : "2021-09-30T10:06:01.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-justice-northern-ireland"
       },
       {
@@ -19504,7 +19705,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2020-12-30T15:45:06.000+00:00",
+         "updated_at" : "2021-09-13T08:50:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -19555,6 +19756,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -19802,6 +20007,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
                "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-forecasting-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
             }
          ],
          "details" : {
@@ -20627,7 +20836,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "flood-forecasting-centre"
          },
-         "format" : "Other",
+         "format" : "Civil Service",
          "id" : "https://www.gov.uk/api/organisations/flood-forecasting-centre",
          "parent_organisations" : [
             {
@@ -20642,7 +20851,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Flood Forecasting Centre",
-         "updated_at" : "2021-07-21T15:33:06.000+01:00",
+         "updated_at" : "2021-09-29T13:24:51.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
       },
       {
@@ -21106,7 +21315,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Geospatial Commission",
-         "updated_at" : "2020-06-19T10:01:27.000+01:00",
+         "updated_at" : "2021-08-19T11:53:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
       },
       {
@@ -22368,8 +22577,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/hm-prison-service"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/national-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/national-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/probation-service"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/youth-custody-service",
@@ -23390,6 +23599,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [
@@ -23507,12 +23720,16 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Housing Ombudsman",
-         "updated_at" : "2014-10-15T15:36:14.000+01:00",
+         "updated_at" : "2021-09-24T12:24:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/housing-ombudsman"
       },
       {
@@ -24537,6 +24754,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-internal-audit-profession"
       },
       {
+         "analytics_identifier" : "OT1338",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "Invest NI",
+            "closed_at" : null,
+            "content_id" : "325d6110-af70-4a59-9eda-c995d3fd6839",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Invest Northern Ireland",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "invest-northern-ireland"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/invest-northern-ireland",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Invest Northern Ireland",
+         "updated_at" : "2021-08-16T16:21:42.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/invest-northern-ireland"
+      },
+      {
          "analytics_identifier" : "OT1257",
          "child_organisations" : [],
          "details" : {
@@ -24765,6 +25005,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/judicial-office"
       },
       {
+         "analytics_identifier" : "EA752",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "LRA",
+            "closed_at" : null,
+            "content_id" : "41684df9-c665-4e39-9818-1aa3a4c1bc74",
+            "govuk_closed_status" : "devolved",
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Labour Relations Agency (Northern Ireland)",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "labour-relations-agency"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/labour-relations-agency",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-the-economy-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-the-economy-northern-ireland"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
+         "title" : "Labour Relations Agency (Northern Ireland)",
+         "updated_at" : "2021-09-02T08:21:33.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/labour-relations-agency"
+      },
+      {
          "analytics_identifier" : "OT220",
          "child_organisations" : [],
          "details" : {
@@ -24891,6 +25164,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -25069,12 +25346,16 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Local Government and Social Care Ombudsman",
-         "updated_at" : "2018-07-05T15:00:33.000+01:00",
+         "updated_at" : "2021-09-24T14:15:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/local-government-ombudsman"
       },
       {
@@ -25729,103 +26010,6 @@
          "title" : "Ministry of Defence",
          "updated_at" : "2021-05-13T15:43:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-      },
-      {
-         "analytics_identifier" : "D4",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/queen-elizabeth-ii-conference-centre",
-               "web_url" : "https://www.gov.uk/government/organisations/queen-elizabeth-ii-conference-centre"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/building-regulations-advisory-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/building-regulations-advisory-committee"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/homes-and-communities-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/homes-and-communities-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/architects-registration-board",
-               "web_url" : "https://www.gov.uk/government/organisations/architects-registration-board"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/audit-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/audit-commission"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/housing-ombudsman",
-               "web_url" : "https://www.gov.uk/government/organisations/housing-ombudsman"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/leasehold-advisory-service",
-               "web_url" : "https://www.gov.uk/government/organisations/leasehold-advisory-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/london-thames-gateway-development-corporation",
-               "web_url" : "https://www.gov.uk/government/organisations/london-thames-gateway-development-corporation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service",
-               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-service-for-england-valuation-tribunal-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-west-northamptonshire-development-corporation",
-               "web_url" : "https://www.gov.uk/government/organisations/the-west-northamptonshire-development-corporation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/local-government-ombudsman",
-               "web_url" : "https://www.gov.uk/government/organisations/local-government-ombudsman"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/ebbsfleet-development-corporation",
-               "web_url" : "https://www.gov.uk/government/organisations/ebbsfleet-development-corporation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/valuation-tribunal-for-england",
-               "web_url" : "https://www.gov.uk/government/organisations/valuation-tribunal-for-england"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-holocaust-memorial-foundation",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-holocaust-memorial-foundation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/homes-england",
-               "web_url" : "https://www.gov.uk/government/organisations/homes-england"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/regulator-of-social-housing",
-               "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/windrush-commemoration-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/windrush-commemoration-committee"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "MHCLG",
-            "closed_at" : null,
-            "content_id" : "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Ministry of Housing,\r\nCommunities &\r\nLocal Government",
-            "organisation_brand_colour_class_name" : "department-for-communities-and-local-government",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "ministry-of-housing-communities-and-local-government"
-         },
-         "format" : "Ministerial department",
-         "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
-         "parent_organisations" : [],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-the-environment-transport-and-the-regions",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-the-environment-transport-and-the-regions"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Ministry of Housing, Communities & Local Government",
-         "updated_at" : "2018-10-02T15:15:19.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
       },
       {
          "analytics_identifier" : "D18",
@@ -26689,6 +26873,29 @@
          "title" : "National security and intelligence",
          "updated_at" : "2021-06-30T10:42:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-security"
+      },
+      {
+         "analytics_identifier" : "OT1343",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NSTIx",
+            "closed_at" : null,
+            "content_id" : "6f4ae471-3ce0-4439-83b4-b8cfb3d985f1",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "National Security Technology and Innovation Exchange",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "national-security-technology-and-innovation-exchange"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/national-security-technology-and-innovation-exchange",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Security Technology and Innovation Exchange",
+         "updated_at" : "2021-09-24T10:37:55.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-security-technology-and-innovation-exchange"
       },
       {
          "analytics_identifier" : "PB202",
@@ -28079,6 +28286,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-for-communications-data-authorisations"
       },
       {
+         "analytics_identifier" : "OT1341",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OHID",
+            "closed_at" : null,
+            "content_id" : "e85f9a3f-451d-4a3e-9b63-17b13149269f",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Office for Health\r\nImprovement \r\n& Disparities",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-health-improvement-and-disparities"
+         },
+         "format" : "Sub-organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-health-improvement-and-disparities",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/public-health-england",
+               "web_url" : "https://www.gov.uk/government/organisations/public-health-england"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Office for Health Improvement and Disparities",
+         "updated_at" : "2021-10-04T09:36:21.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities"
+      },
+      {
          "analytics_identifier" : "OT1332",
          "child_organisations" : [],
          "details" : {
@@ -28256,6 +28496,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-for-students"
       },
       {
+         "analytics_identifier" : "OT1340",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OIM",
+            "closed_at" : null,
+            "content_id" : "b1123ceb-77e4-40fc-9526-83ad0ba7cf01",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Office for the Internal Market",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "office-for-the-internal-market"
+         },
+         "format" : "Sub-organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-the-internal-market",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/competition-and-markets-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for the Internal Market",
+         "updated_at" : "2021-09-21T11:00:15.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
+      },
+      {
          "analytics_identifier" : "OT1301",
          "child_organisations" : [],
          "details" : {
@@ -28309,10 +28577,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-low-emission-vehicles",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-low-emission-vehicles"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Office for Zero Emission Vehicles",
-         "updated_at" : "2020-12-09T11:23:52.000+00:00",
+         "updated_at" : "2021-08-20T10:03:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles"
       },
       {
@@ -28900,7 +29173,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofqual",
-         "updated_at" : "2020-08-11T14:46:31.000+01:00",
+         "updated_at" : "2021-09-01T09:03:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofqual"
       },
       {
@@ -28963,11 +29236,11 @@
          "analytics_identifier" : "CS1337",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "OIT",
             "closed_at" : null,
             "content_id" : "ac5eeba3-1597-4a4c-8b13-4886d2c9df29",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Open Innovation Team",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -28984,7 +29257,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Open Innovation Team",
-         "updated_at" : "2021-07-26T17:25:21.000+01:00",
+         "updated_at" : "2021-09-23T17:42:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
       },
       {
@@ -29838,34 +30111,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/public-health-agency-northern-ireland"
       },
       {
-         "analytics_identifier" : "EA480",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "PHE",
-            "closed_at" : null,
-            "content_id" : "1343f283-19e9-4fbb-86b1-58c7549d874b",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Public Health \r\nEngland",
-            "organisation_brand_colour_class_name" : "department-of-health",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "public-health-england"
-         },
-         "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/public-health-england",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Public Health England",
-         "updated_at" : "2020-03-24T14:32:22.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/public-health-england"
-      },
-      {
          "analytics_identifier" : "OT1077",
          "child_organisations" : [],
          "details" : {
@@ -29922,6 +30167,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/public-prosecution-service-for-northern-ireland"
       },
       {
+         "analytics_identifier" : "OT1344",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "21a5f359-5254-4f2f-8084-ee093a989ca3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Public Services Ombudsman for Wales",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "public-services-ombudsman-for-wales"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/public-services-ombudsman-for-wales",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Public Services Ombudsman for Wales",
+         "updated_at" : "2021-10-05T12:06:16.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/public-services-ombudsman-for-wales"
+      },
+      {
          "analytics_identifier" : "OT1192",
          "child_organisations" : [],
          "details" : {
@@ -29946,7 +30214,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Pubs Code Adjudicator",
-         "updated_at" : "2018-09-21T13:29:25.000+01:00",
+         "updated_at" : "2021-08-18T12:14:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/pubs-code-adjudicator"
       },
       {
@@ -29969,12 +30237,16 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Queen Elizabeth II Conference Centre",
-         "updated_at" : "2019-02-14T16:01:42.000+00:00",
+         "updated_at" : "2021-09-24T14:07:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/queen-elizabeth-ii-conference-centre"
       },
       {
@@ -30198,7 +30470,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Regional Schools Commissioners",
-         "updated_at" : "2019-09-30T08:28:34.000+01:00",
+         "updated_at" : "2021-09-29T14:46:56.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/regional-schools-commissioners"
       },
       {
@@ -30219,8 +30491,8 @@
          "id" : "https://www.gov.uk/api/organisations/regulator-of-social-housing",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [
@@ -30935,7 +31207,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Security Industry Authority",
-         "updated_at" : "2020-10-26T09:30:46.000+00:00",
+         "updated_at" : "2021-09-15T13:37:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/security-industry-authority"
       },
       {
@@ -33054,10 +33326,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade-defence-and-security-organisation",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade-defence-and-security-organisation"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "UK Defence and Security Exports",
-         "updated_at" : "2020-07-15T13:36:24.000+01:00",
+         "updated_at" : "2021-09-14T08:52:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
       },
       {
@@ -33160,7 +33437,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/public-health-england",
+               "web_url" : "https://www.gov.uk/government/organisations/public-health-england"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "UK Health Security Agency",
          "updated_at" : "2021-04-01T08:18:02.000+01:00",
@@ -33186,6 +33468,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -33736,6 +34022,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -33764,6 +34054,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
@@ -34269,6 +34563,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-and-local-government",
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
