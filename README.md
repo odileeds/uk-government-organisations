@@ -7,7 +7,7 @@ Combining lists of UK Government organisations to make useful CSV files. Automat
 Data on UK Government organisations is published in a couple of places under the Open Government Licence:
 
   * [gov.uk/government/organisations](https://www.gov.uk/government/organisations) - this is an HTML page listing <!--GB-GOVUK-->584<!--END GB-GOVUK--> departments, agencies and public bodies. It isn't clear how up-to-date this source is. It has a note if the organisation has a separate website (separate to gov.uk/government/organisations) although these separate website URLs can only be found by following the links and extracting the link from the subsequent webpage. These "real" URLs are saved in [gov.uk_government_organisations-replacement-urls.csv](gov.uk_government_organisations-replacement-urls).
-  * [gov.uk/api/organisations](https://www.gov.uk/api/organisations) - this is a paged JSON endpoint that provides more data on <!--GB-GOVUKAPI-TOTAL-->1141<!--END GB-GOVUKAPI-TOTAL--> organisations including some which are no longer operating. It provides an ID that seems to match [GB-GOR](http://org-id.guide/list/GB-GOR) as well as useful metadata about update/closed dates.
+  * [gov.uk/api/organisations](https://www.gov.uk/api/organisations) - this is a paged JSON endpoint that provides more data on <!--GB-GOVUKAPI-TOTAL-->1142<!--END GB-GOVUKAPI-TOTAL--> organisations including some which are no longer operating. It provides an ID that seems to match [GB-GOR](http://org-id.guide/list/GB-GOR) as well as useful metadata about update/closed dates.
 
 It isn't clear if these use the same source or are independently maintained.
 
