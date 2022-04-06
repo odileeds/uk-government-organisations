@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta charset="utf-8" />
+	<link rel="icon" href="https://open-innovations.org/resources/images/logos/oi-square-5.svg" />
+	<title>UK Government Organisations</title>
+	<link rel="StyleSheet" href="resources/style.css" type="text/css" />
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@OpenInnovates">
+	<meta name="twitter:url" property="og:url" content="https://open-innovations.github.io/government-organisation-website-emissions/">
+	<meta name="twitter:title" property="og:title" content="Homepage emissions: UK Government Organisations">
+	<meta name="twitter:description" property="og:description" content="How are UK Government organisations impacting the planet? You may not think of websites as sources of carbon emissions but they are.">
+	<meta name="description" content="How are UK Government organisations impacting the planet? You may not think of websites as sources of carbon emissions but they are.">
+	<meta name="twitter:image" property="og:image" content="https://open-innovations.org/resources/images/logos/oi-square-5.png">
+	<script src="resources/oi.stepped.js"></script>
+</head>
+<body class="b1-bg">
+
+
+	<header>
+		<div class="b1-bg padded">
+			<div class="holder" style="text-align:center;">
+				<a href="https://open-innovations.org/"><img src="https://open-innovations.org/resources/images/logos/oi-square-5.svg" width="100px" height="100px" style="margin-bottom:1em;" /></a>
+				<h1>UK Government Organisations: Timeline</h1>
+			</div>
+		</div>
+	</header>
+
+	<div class="b6-bg">
+		<div class="tallpadded">
+			<div class="holder-wide">
+
+				<div id="timeline">
+				
+				
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="b1-bg">
+		<div class="holder tallpadded">
+			<h2 id="notes">Notes</h2>
+			<p>We compiled UK Government organisations from <a href="https://www.gov.uk/government/organisations">gov.uk/government/organisations</a> with added data from <a href="https://www.gov.uk/api/organisations">gov.uk/api/organisations</a>.</p>
+
+			<h2>Credits</h2>
+			<p>Visualisation &copy; 2021 <a href="https://odileeds.org/">ODI Leeds</a>. Code released under an MIT license. <a href="https://github.com/odileeds/learning-provider-website-emissions/">Source on Github</a>.</p>
+		</div>
+	</footer>
+	<script>
+	function ready(fn){
+		if(document.readyState != 'loading') fn();
+		else document.addEventListener('DOMContentLoaded', fn);
+	};
+	var timeline;
+	ready(function(){
+	
+		fetch("gov.uk_api_organisations.json").then(response => {
+			if(!response.ok) throw new Error('Network response was not OK');
+			return response.json();
+		}).then(json => {
+
+			timeline = document.getElementById('timeline');
+			var orgs = {};
+			var open = 0;
+			var total = 0;
+			var firstdate = new Date('2012-01-01');
+			var now = new Date();
+			for(i = 0; i < json.results.length; i++){
+				orgs[json.results[i].id] = json.results[i];
+				// Count how many are open
+				if(json.results[i].details.govuk_closed_status || json.results[i].details.govuk_status == "closed"){
+				
+				}else{
+					open++;
+				}
+
+				total++;
+			}
+
+
+			range = (now-firstdate);
+			months = Math.ceil(12*(now-firstdate)/(86400000*365.25));
+
+			timeline.style['display'] = 'grid';
+			timeline.style['grid-template-columns'] = 'repeat('+months+',1fr)';
+			timeline.style['grid-template-rows'] = 'repeat('+open+',1fr)';
+
+			function getPreviousOrgs(id,attr){
+				if(typeof attr!=="object") attr = {'orgs':[],'date':''};
+				if(orgs[id].details.closed_at) attr.date = orgs[id].details.closed_at;
+				if(orgs[id].previous){
+					attr.orgs.push(orgs[id].previous);
+					if(orgs[orgs[id].previous].previous) attr = getPreviousOrgs(orgs[id].previous,attr);
+				}else{
+					attr.orgs.push(id);
+				}
+				return attr;
+			}
+
+			for(id in orgs){
+				if(orgs[id].details.govuk_closed_status == "changed_name" && orgs[id].superseding_organisations.length==1){
+					sid = orgs[id].superseding_organisations[0].id;
+					// Set this id as the previous name for the superseding org
+					orgs[sid].previous = id;
+				}
+			}
+
+			var status = {};
+			var steps = OI.Stepped({'id':'tutorial'});
+			for(id in orgs){
+				orgs[id].el = document.createElement('div');
+				orgs[id].el.classList.add('org');
+				orgs[id].el.setAttribute('title',orgs[id].title);
+				orgs[id].el.setAttribute('id',orgs[id].analytics_identifier);
+
+				orgs[id].s = null;
+				orgs[id].e = null;
+
+				if(orgs[id].details.govuk_status == "live") orgs[id].e = now;
+				if(orgs[id].details.closed_at) orgs[id].e = new Date(orgs[id].details.closed_at);
+				if(orgs[id].details.govuk_closed_status == "no_longer_exists" && !orgs[id].details.closed_at) orgs[id].e = new Date(orgs[id].updated_at);
+				if(orgs[id].details.govuk_closed_status == "replaced" && !orgs[id].details.closed_at) orgs[id].e = new Date(orgs[id].updated_at);
+				if(orgs[id].details.govuk_closed_status == "merged" && !orgs[id].details.closed_at) orgs[id].e = new Date(orgs[id].updated_at);
+				if(orgs[id].details.govuk_closed_status == "split" && !orgs[id].details.closed_at) orgs[id].e = new Date(orgs[id].updated_at);
+
+				// If the organisation has changed its name we don't include it
+				if(orgs[id].details.govuk_closed_status == "changed_name" && orgs[id].superseding_organisations.length==1){
+					
+					
+				}else{
+				
+					title = orgs[id].title;
+					var prev = {'date':''};
+					
+					if(orgs[id].previous){
+						prev = getPreviousOrgs(id);
+						title += ' (previously ';
+						for(o = 0; o < prev.orgs.length; o++){
+							title += (o > 0 ? ', ':'')+orgs[prev.orgs[o]].title;
+						}
+						title += ')';
+						if(prev.date){
+						console.log('previous',id,prev.date,new Date(prev.date));
+							orgs[id].s = new Date(prev.date);
+						}
+						
+					}
+
+					if(!orgs[id].s && orgs[id].superseded_organisations.length > 0){
+						// Loop over superseded_organisations
+						//console.log(id,'superseded_organisations',orgs[id].superseded_organisations);
+						startdate = "";
+						for(o = 0; o < orgs[id].superseded_organisations.length; o++){
+							sid = orgs[id].superseded_organisations[o].id;
+							if(orgs[sid].details.closed_at && orgs[sid].details.closed_at > startdate){
+						//		console.log(o,sid,orgs[sid].details.closed_at);
+								startdate = orgs[sid].details.closed_at;
+							}
+						}
+						if(startdate){
+							orgs[id].s = new Date(startdate);
+						}
+					}
+
+					scol = -1;
+					ecol = -1;
+
+					if(orgs[id].s){
+						scol = Math.floor(((orgs[id].s - firstdate)/range) * months);
+					}
+					if(orgs[id].e){
+						ecol = Math.floor(((orgs[id].e - firstdate)/range) * months);
+					}else{
+						ecol = months;
+					}
+					span = ecol-scol;
+
+						if(prev.date){
+							console.warn(id,orgs[id].s,scol,ecol,span);
+						}
+
+					if(scol < 1) scol = 1;
+
+					if(scol >= 0) orgs[id].el.style['grid-column-start'] = scol+1;
+					if(ecol >= 0){
+						orgs[id].el.style['grid-column-end'] = ecol+1;
+						if(span == 1) scol = ecol - 20;
+						if(scol < 1) scol = 1;
+						orgs[id].el.style['grid-column-start'] = scol;
+					}
+
+					if(orgs[id].details.govuk_closed_status){
+						orgs[id].el.classList.add(orgs[id].details.govuk_closed_status);
+						if(!status[orgs[id].details.govuk_closed_status]) status[orgs[id].details.govuk_closed_status] = 0;
+						status[orgs[id].details.govuk_closed_status]++;
+						
+					}
+					html = title;
+
+					
+					
+					orgs[id].el.innerHTML = ''+html+'';
+					
+					// Define the steps
+					steps.add(orgs[id].el,'','bottom');
+					orgs[id].el.setAttribute('data-step',steps.steps.length-1);
+					orgs[id].el.setAttribute('data-id',id);
+
+					orgs[id].el.addEventListener('click',function(e){
+						var match = e.target.getAttribute('data-id');
+						var step = e.target.getAttribute('data-step');
+						if(match){
+							var html = "";
+							html += '<div style="">';
+							html += '<div class="logo" style="background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAaCAMAAAB4vXe4AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAEIUExURUdwTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCMNygAAABXdFJOUwCGwP1oba8BjoufvekNnHbw0SOi3XiDEAbKq17OfreWe7Oo5GP3NUeZUbmApU4rPHAJ9GUEAsMgzDjtiddE+lYUWkwd1TI6GHSSWMYuU+DP2iYnP9MSYcLPCvgAAAJBSURBVBgZXcCFdtoAAAXQlxAPFiwEd3caKMHqxWp07fv/Pxk7dKfdLv4VN1QA6tTFT1eJ+htOVMgaXACzNH64kBpRyQVm0nW+cy13L4CKjG/qtfW8SLlvsn3bDvYClSWAttJU8UWVYt6Lb9dvBurN0MOxlwbsOVka4swt+ksmnUi7UGwoiq71cDVh2KOALw36Q9XV7P717tKyYhIQiJZCZTouzgor7lfsDjW5LQy0GhDoBxdkJokTu37zfukjmbAVPznaP4y7u1QpFWMbJ26rHK+NeZJT+NwpWryTJ1qmmguaN1IfWFIfTHXS50Qp6sLmU6Fu8MR6qOjsIVFPp289ko7pFSZK9kVzXvItkh3IR6uA4VJGiewY3iKvOYakNfKx1nYbpicJleEN7Di6JJVHnXFhm88LenRlzNWaRV99twMO2ZrIUY76ZyatG5omphIcQIqtGEtA/sBjyQzSH4/1AwtxkwvGi9kGu9j7FtU7Q9ZtwB7muBVzQJFxrRPKJcLlIcbmg5OZimkAAcGfUCujVCgRNrfrseDneLaJ6slgWUrObgGZNQDLoNhsmqOWuR9lx8XBAZFCX1yHukCWh2QSiAjzyE7LZGLSMBo9AG4tW24sr4Db8vPdpxsPkyIwL0agkcw/AvrkCn+kjc2TSSplrqftQv/oqyphvjbtzjvOnhQfX+uRlXWwB4WjLXLdm5CZ7BBnkag1f0TSaa1n6dB91/BPkRw4rXsVfyVxEiJZHZFM4eQC//sQHL/neb+CEXz7DZppYqdvm4RTAAAAAElFTkSuQmCC) no-repeat 6px 0; background-size: auto; background-size: auto 26px;filter:invert(1);color:black;border-left: 2px solid #0b0c0c;padding-top: 25px;padding-left: 7px;">'+orgs[match].details.logo_formatted_name.replace(/\r\n/g,'<br />')+'</div>'
+							html += '<p>ID: '+orgs[match].analytics_identifier+'</a></p>';
+							if(orgs[match].s) html += '<p>Open (before?): '+orgs[match].s.toISOString().substr(0,10)+'</p>';
+							if(orgs[match].details.closed_at){
+								html += '<p>Closed: '+(orgs[match].details.closed_at).substr(0,10)+'</p>';
+							}
+							html += '<p>Updated: '+orgs[match].updated_at.substr(0,10)+'</p>';
+							html += '<p>Format: '+orgs[match].format+'</p>';
+							if(orgs[match].details.govuk_closed_status){
+								html += '<p class="org '+orgs[match].details.govuk_closed_status+' status">Status: ';
+								if(orgs[match].details.govuk_closed_status == "replaced" && orgs[match].superseding_organisations.length==1){
+									html += '<a href="'+orgs[match].superseding_organisations[0].web_url+'">'+orgs[match].details.govuk_closed_status+' by '+orgs[orgs[match].superseding_organisations[0].id].title+'</a>';
+								}else{
+									html += orgs[match].details.govuk_closed_status;
+								}
+								html += '</p>';
+							
+							}
+							html += '<p><a href="'+orgs[match].web_url+'">Website</a></p>';
+							
+							
+							html += '</div>';
+							steps.steps[step].html = html;
+							steps.steps[step].open();
+						}
+					});
+					timeline.appendChild(orgs[id].el);
+				}
+			}
+			console.log(orgs,status,firstdate,open,total);
+			
+
+
+		}).catch(error => {
+			console.error('Unable to load the data',error);
+		});
+	});
+	</script>
+
+
+<!--
+	<link title="timeline-styles" rel="stylesheet" href="resources/timeline.css">      
+	<div id='timeline-embed' style="width: 100%; height: 600px"></div>
+	<script src="resources/timeline.js"></script>
+	<script type="text/javascript">
+	</script>
+-->
+
+	<script src="https://open-innovations.org/resources/oi.log.js"></script>
+	<script>
+	OI.log.setup({'id':'odileeds','target':['odileeds.github.io','open-innovations.github.io']}).add('action=view');
+	</script>
+
+
+</body>
+</html>
