@@ -54,14 +54,15 @@
 	};
 	var timeline;
 	ready(function(){
-	
+
+		var orgs = {};
+
 		fetch("gov.uk_api_organisations.json").then(response => {
 			if(!response.ok) throw new Error('Network response was not OK');
 			return response.json();
 		}).then(json => {
 
 			timeline = document.getElementById('timeline');
-			var orgs = {};
 			var open = 0;
 			var total = 0;
 			var firstdate = new Date('2012-01-01');
@@ -211,31 +212,7 @@
 						var match = e.target.getAttribute('data-id');
 						var step = e.target.getAttribute('data-step');
 						if(match){
-							var html = "";
-							html += '<div style="">';
-							html += '<div class="logo" style="background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAaCAMAAAB4vXe4AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAEIUExURUdwTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCMNygAAABXdFJOUwCGwP1oba8BjoufvekNnHbw0SOi3XiDEAbKq17OfreWe7Oo5GP3NUeZUbmApU4rPHAJ9GUEAsMgzDjtiddE+lYUWkwd1TI6GHSSWMYuU+DP2iYnP9MSYcLPCvgAAAJBSURBVBgZXcCFdtoAAAXQlxAPFiwEd3caKMHqxWp07fv/Pxk7dKfdLv4VN1QA6tTFT1eJ+htOVMgaXACzNH64kBpRyQVm0nW+cy13L4CKjG/qtfW8SLlvsn3bDvYClSWAttJU8UWVYt6Lb9dvBurN0MOxlwbsOVka4swt+ksmnUi7UGwoiq71cDVh2KOALw36Q9XV7P717tKyYhIQiJZCZTouzgor7lfsDjW5LQy0GhDoBxdkJokTu37zfukjmbAVPznaP4y7u1QpFWMbJ26rHK+NeZJT+NwpWryTJ1qmmguaN1IfWFIfTHXS50Qp6sLmU6Fu8MR6qOjsIVFPp289ko7pFSZK9kVzXvItkh3IR6uA4VJGiewY3iKvOYakNfKx1nYbpicJleEN7Di6JJVHnXFhm88LenRlzNWaRV99twMO2ZrIUY76ZyatG5omphIcQIqtGEtA/sBjyQzSH4/1AwtxkwvGi9kGu9j7FtU7Q9ZtwB7muBVzQJFxrRPKJcLlIcbmg5OZimkAAcGfUCujVCgRNrfrseDneLaJ6slgWUrObgGZNQDLoNhsmqOWuR9lx8XBAZFCX1yHukCWh2QSiAjzyE7LZGLSMBo9AG4tW24sr4Db8vPdpxsPkyIwL0agkcw/AvrkCn+kjc2TSSplrqftQv/oqyphvjbtzjvOnhQfX+uRlXWwB4WjLXLdm5CZ7BBnkag1f0TSaa1n6dB91/BPkRw4rXsVfyVxEiJZHZFM4eQC//sQHL/neb+CEXz7DZppYqdvm4RTAAAAAElFTkSuQmCC) no-repeat 6px 0; background-size: auto; background-size: auto 26px;filter:invert(1);color:black;border-left: 2px solid #0b0c0c;padding-top: 25px;padding-left: 7px;">'+orgs[match].details.logo_formatted_name.replace(/\r\n/g,'<br />')+'</div>'
-							html += '<p>ID: '+orgs[match].analytics_identifier+'</a></p>';
-							if(orgs[match].s) html += '<p>Open (before?): '+orgs[match].s.toISOString().substr(0,10)+'</p>';
-							if(orgs[match].details.closed_at){
-								html += '<p>Closed: '+(orgs[match].details.closed_at).substr(0,10)+'</p>';
-							}
-							html += '<p>Updated: '+orgs[match].updated_at.substr(0,10)+'</p>';
-							html += '<p>Format: '+orgs[match].format+'</p>';
-							if(orgs[match].details.govuk_closed_status){
-								html += '<p class="org '+orgs[match].details.govuk_closed_status+' status">Status: ';
-								if(orgs[match].details.govuk_closed_status == "replaced" && orgs[match].superseding_organisations.length==1){
-									html += '<a href="'+orgs[match].superseding_organisations[0].web_url+'">'+orgs[match].details.govuk_closed_status+' by '+orgs[orgs[match].superseding_organisations[0].id].title+'</a>';
-								}else{
-									html += orgs[match].details.govuk_closed_status;
-								}
-								html += '</p>';
-							
-							}
-							html += '<p><a href="'+orgs[match].web_url+'">Website</a></p>';
-							
-							
-							html += '</div>';
-							steps.steps[step].html = html;
+							steps.steps[step].html = buildTooltip(match);
 							steps.steps[step].open();
 						}
 					});
@@ -249,7 +226,44 @@
 		}).catch(error => {
 			console.error('Unable to load the data',error);
 		});
+
+		function buildTooltip(i){
+			
+			var html = "";
+			html += '<div style="">';
+			html += '<div class="logo" style="background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAaCAMAAAB4vXe4AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAEIUExURUdwTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJCMNygAAABXdFJOUwCGwP1oba8BjoufvekNnHbw0SOi3XiDEAbKq17OfreWe7Oo5GP3NUeZUbmApU4rPHAJ9GUEAsMgzDjtiddE+lYUWkwd1TI6GHSSWMYuU+DP2iYnP9MSYcLPCvgAAAJBSURBVBgZXcCFdtoAAAXQlxAPFiwEd3caKMHqxWp07fv/Pxk7dKfdLv4VN1QA6tTFT1eJ+htOVMgaXACzNH64kBpRyQVm0nW+cy13L4CKjG/qtfW8SLlvsn3bDvYClSWAttJU8UWVYt6Lb9dvBurN0MOxlwbsOVka4swt+ksmnUi7UGwoiq71cDVh2KOALw36Q9XV7P717tKyYhIQiJZCZTouzgor7lfsDjW5LQy0GhDoBxdkJokTu37zfukjmbAVPznaP4y7u1QpFWMbJ26rHK+NeZJT+NwpWryTJ1qmmguaN1IfWFIfTHXS50Qp6sLmU6Fu8MR6qOjsIVFPp289ko7pFSZK9kVzXvItkh3IR6uA4VJGiewY3iKvOYakNfKx1nYbpicJleEN7Di6JJVHnXFhm88LenRlzNWaRV99twMO2ZrIUY76ZyatG5omphIcQIqtGEtA/sBjyQzSH4/1AwtxkwvGi9kGu9j7FtU7Q9ZtwB7muBVzQJFxrRPKJcLlIcbmg5OZimkAAcGfUCujVCgRNrfrseDneLaJ6slgWUrObgGZNQDLoNhsmqOWuR9lx8XBAZFCX1yHukCWh2QSiAjzyE7LZGLSMBo9AG4tW24sr4Db8vPdpxsPkyIwL0agkcw/AvrkCn+kjc2TSSplrqftQv/oqyphvjbtzjvOnhQfX+uRlXWwB4WjLXLdm5CZ7BBnkag1f0TSaa1n6dB91/BPkRw4rXsVfyVxEiJZHZFM4eQC//sQHL/neb+CEXz7DZppYqdvm4RTAAAAAElFTkSuQmCC) no-repeat 6px 0; background-size: auto; background-size: auto 26px;filter:invert(1);color:black;border-left: 2px solid #0b0c0c;padding-top: 25px;padding-left: 7px;">'+orgs[i].details.logo_formatted_name.replace(/\r\n/g,'<br />')+'</div>'
+			html += '<p>ID: '+orgs[i].analytics_identifier+'</a></p>';
+			if(orgs[i].s) html += '<p>Open (before?): '+orgs[i].s.toISOString().substr(0,10)+'</p>';
+			if(orgs[i].details.closed_at){
+				html += '<p>Closed: '+(orgs[i].details.closed_at).substr(0,10)+'</p>';
+			}
+			html += '<p>Updated: '+orgs[i].updated_at.substr(0,10)+'</p>';
+			html += '<p>Format: '+orgs[i].format+'</p>';
+			if(orgs[i].details.govuk_closed_status){
+				html += '<p class="org '+orgs[i].details.govuk_closed_status+' status">Status: ';
+				if(orgs[i].details.govuk_closed_status == "replaced" && orgs[i].superseding_organisations.length==1){
+					html += '<a href="'+orgs[i].superseding_organisations[0].web_url+'">'+orgs[i].details.govuk_closed_status+' by '+orgs[orgs[i].superseding_organisations[0].id].title+'</a>';
+				}else{
+					html += orgs[i].details.govuk_closed_status;
+				}
+				html += '</p>';
+			
+			}
+			if(orgs[i].superseding_organisations.length > 0){
+				html += '<p>Superceded by: '
+				for(var o = 0; o < orgs[i].superseding_organisations.length; o++){
+					html += (o >0 ? ' / ':'')+orgs[orgs[i].superseding_organisations[o].id].title;
+				}
+				html += '</p>'
+			}
+			html += '<p><a href="'+orgs[i].web_url+'">Website</a></p>';
+			
+			html += '</div>';
+			return html;
+		}
+
 	});
+	
 	</script>
 
 
