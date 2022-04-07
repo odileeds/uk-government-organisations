@@ -1,11 +1,12 @@
 (function(root){
-	// Version 1.1
+	// Version 1.2
 	if(!root.OI) root.OI = {};
 
 	function Stepped(opt){
 		if(!opt) opt = {};
 		if(!opt.id) opt.id = "step";
 		if(!opt.width) opt.width = 300;
+		if(!opt.duration) opt.duration = 0;
 		this.steps = [];
 		var popup = document.getElementById(opt.id);
 		this.active = -1;
@@ -31,6 +32,9 @@
 			document.body.appendChild(popup);
 			popup.addEventListener('click',function(){ _obj.close(); });
 		}
+		var styles = document.createElement('style');
+		styles.setAttribute('id','stepped-styles');
+		document.head.appendChild(styles);
 
 		function Step(n,el,txt,placement){
 			this.el = el;
@@ -39,8 +43,6 @@
 			if(!this.el){
 				console.error('No DOM element to attach to.',el);
 			}
-			var styles = document.createElement('style');
-			document.head.appendChild(styles);
 			this.open = function(){
 				if(transitioning){
 					popup.removeEventListener('transitionend',_obj.transition);
@@ -54,8 +56,6 @@
 					popup.innerHTML = content;
 					popup.setAttribute('data',n);
 					
-					console.log(this.html,popup,content)
-
 					// Update the position
 					this.position();
 
@@ -72,8 +72,15 @@
 				var m = "";
 				var arrow = "";
 				var off = "1.25em";
+				var placement = this.placement;
 
-				switch (this.placement){
+				if(x - opt.width*0.5 < 0){
+					placement = "right";
+				}else if(x + opt.width*0.5 > document.body.clientWidth){
+					placement = "left";
+				}
+					
+				switch (placement){
 					case "left":
 						x -= domRect.width/2;
 						t = "translate3d(calc(-100% - "+off+"),-50%,0)";
@@ -99,17 +106,29 @@
 				popup.style.transform = t;
 				popup.style.opacity = "1";
 				popup.style.display = "";
-				styles.innerHTML = '#'+opt.id+' {filter:drop-shadow(1px 1px 2px rgba(0,0,0,0.5));max-width:'+opt.width+'px;} #'+opt.id+' *:last-child { margin-bottom: 0; max-width: '+opt.width+'px; } #'+opt.id+'::before { content:""; position: absolute; width: 0em; height: 0em; '+arrow+' }';
 
-				if(x - opt.width*0.5 < 0){
-					// If the box would go off the left of the screen we adjust the width
-					popup.style.width = (x * 1.8)+"px";
-				}else if(x + opt.width*0.5 > document.body.clientWidth){
-					// If the box would go off the right of the screen we adjust the width
-					popup.style.width = (Math.min(opt.width,(document.body.clientWidth - x)*1.8))+"px";
-				}else{
-					popup.style.width = "";
+				var txt = styles.innerHTML;
+				// Remove any existing styles for this ID
+				if(txt.match('#'+opt.id+' ')){
+					txt = txt.replace(new RegExp("#"+opt.id+'[^\{]* {[^\}]*}'),"");
 				}
+				txt += '#'+opt.id+' {filter:drop-shadow(1px 1px 2px rgba(0,0,0,0.5));max-width:'+opt.width+'px; transition: all '+opt.duration+'s ease-in} #'+opt.id+' *:last-child { margin-bottom: 0; max-width: '+opt.width+'px; } #'+opt.id+'::before { content:""; position: absolute; width: 0em; height: 0em; '+arrow+' }';
+				styles.innerHTML = txt;
+
+				if(placement !="left" && placement != "right"){
+					if(x - opt.width*0.5 < 0){
+						// If the box would go off the left of the screen we adjust the width
+						popup.style.width = (x * 1.8)+"px";
+					}else if(x + opt.width*0.5 > document.body.clientWidth){
+						// If the box would go off the right of the screen we adjust the width
+						popup.style.width = (Math.min(opt.width,(document.body.clientWidth - x)*1.8))+"px";
+					}else{
+						popup.style.width = Math.min(document.body.clientWidth*0.9,opt.width)+"px";
+					}
+				}else{
+					popup.style.width = Math.min(document.body.clientWidth*0.9,opt.width)+"px";
+				}
+
 				popup.style.left = x+"px";
 				popup.style.top = y+"px";
 			};

@@ -21,7 +21,11 @@
 	<header>
 		<div class="b1-bg padded">
 			<div class="holder" style="text-align:center;">
-				<a href="https://open-innovations.org/"><img src="https://open-innovations.org/resources/images/logos/oi-square-5.svg" width="100px" height="100px" style="margin-bottom:1em;" /></a>
+				<a href="https://open-innovations.org/">
+				<svg width="100" height="100" overflow="auto" viewBox="-32 -32 64 64" xmlns="http://www.w3.org/2000/svg">
+				<mask id="oi-person"><path d="m-32-32h64v64h-12v-24a4 4 0 0 0 -4 -4h-8a4 4 0 0 0 -4 4v24h-36zm44 27m-8 0a8 8 0 1 0 16 0 8 8 0 1 0-16 0" fill="#fff"></path></mask>
+				<g id="oi-logo" fill="#1DD3A7"><circle r="32" mask="url(#oi-person)"></circle></g>
+				</svg></a>
 				<h1>UK Government Organisations: Timeline</h1>
 			</div>
 		</div>
@@ -108,7 +112,7 @@
 			}
 
 			var status = {};
-			var steps = OI.Stepped({'id':'tutorial'});
+			var steps = OI.Stepped({'id':'tutorial','width':400,'duration':0.2});
 			for(id in orgs){
 				orgs[id].el = document.createElement('div');
 				orgs[id].el.classList.add('org');
@@ -142,7 +146,7 @@
 						}
 						title += ')';
 						if(prev.date){
-						console.log('previous',id,prev.date,new Date(prev.date));
+							//console.log('previous',id,prev.date,new Date(prev.date));
 							orgs[id].s = new Date(prev.date);
 						}
 						
@@ -204,7 +208,7 @@
 					orgs[id].el.innerHTML = ''+html+'';
 					
 					// Define the steps
-					steps.add(orgs[id].el,'','bottom');
+					steps.add(orgs[id].el,'',(ecol < months*0.2 ? 'right' : (scol > months*0.8 ? 'left' : 'bottom')));
 					orgs[id].el.setAttribute('data-step',steps.steps.length-1);
 					orgs[id].el.setAttribute('data-id',id);
 
@@ -219,7 +223,7 @@
 					timeline.appendChild(orgs[id].el);
 				}
 			}
-			console.log(orgs,status,firstdate,open,total);
+			//console.log(orgs,status,firstdate,open,total);
 			
 
 
