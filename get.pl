@@ -1,7 +1,9 @@
 #!/usr/bin/perl
 
+use utf8;
 use JSON::XS;
 use Data::Dumper;
+use open qw/ :std :encoding(utf8) /; # To avoid "Wide character warning"
 
 $url = "https://www.gov.uk/government/organisations";
 $file = "gov.uk_government_organisations.html";
@@ -199,7 +201,7 @@ sub getAPIresults {
 			close(FILE);
 			
 			$json_text = join("",@lines);
-			$json = JSON::XS->new->utf8->decode($json_text);
+			$json = JSON::XS->new->decode($json_text);
 
 			push(@{$results->{'results'}},@{$json->{'results'}});
 		
@@ -209,11 +211,15 @@ sub getAPIresults {
 		open(FILE,">",$jfile);
 		print FILE $json_text;
 		close(FILE);
+		`cp $jfile docs/$jfile`;
 #	}else{
 #	
 #		open(FILE,$jfile);
 #		@lines = <FILE>;
 #		close(FILE);
+#		print $jfile."\n";
+#
+#
 #		$results = JSON::XS->new->utf8->decode(join("",@lines));
 #	}
 
