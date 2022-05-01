@@ -197,34 +197,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-business-appointments"
       },
       {
-         "analytics_identifier" : "OT522",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "ACCEA",
-            "closed_at" : null,
-            "content_id" : "aee6b528-c1f5-404c-bc69-d584e63e20a5",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Advisory Committee on \r\nClinical Excellence \r\nAwards",
-            "organisation_brand_colour_class_name" : "department-of-health",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "advisory-committee-on-clinical-excellence-awards"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-clinical-excellence-awards",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Advisory Committee on Clinical Excellence Awards",
-         "updated_at" : "2014-10-15T15:36:41.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-excellence-awards"
-      },
-      {
          "analytics_identifier" : "PB1354",
          "child_organisations" : [],
          "details" : {
@@ -232,7 +204,7 @@
             "closed_at" : null,
             "content_id" : "d3eb23ce-23ad-4d26-88b2-b088c525dbb0",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee on Clinical Impact Awards",
             "organisation_brand_colour_class_name" : "department-of-health",
             "organisation_logo_type_class_name" : "no-identity",
@@ -246,10 +218,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-clinical-excellence-awards",
+               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-excellence-awards"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Clinical Impact Awards",
-         "updated_at" : "2022-04-01T13:46:20.000+01:00",
+         "updated_at" : "2022-04-13T15:15:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-impact-awards"
       },
       {
@@ -1682,10 +1659,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-business-appointments"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-england",
-               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-england"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/house-of-lords-appointments-commission",
                "web_url" : "https://www.gov.uk/government/organisations/house-of-lords-appointments-commission"
             },
@@ -1708,10 +1681,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-the-leader-of-the-house-of-lords",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-the-leader-of-the-house-of-lords"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-wales",
-               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-wales"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/national-security",
@@ -3127,6 +3096,39 @@
          "title" : "Advantage West Midlands",
          "updated_at" : "2014-10-15T15:38:17.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/advantage-west-midlands"
+      },
+      {
+         "analytics_identifier" : "OT522",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ACCEA",
+            "closed_at" : "2022-04-13T00:00:00.000+01:00",
+            "content_id" : "aee6b528-c1f5-404c-bc69-d584e63e20a5",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Advisory Committee on \r\nClinical Excellence \r\nAwards",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "advisory-committee-on-clinical-excellence-awards"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-clinical-excellence-awards",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-clinical-impact-awards",
+               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-impact-awards"
+            }
+         ],
+         "title" : "Advisory Committee on Clinical Excellence Awards",
+         "updated_at" : "2022-04-13T15:35:11.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-excellence-awards"
       },
       {
          "analytics_identifier" : "PB208",
@@ -17281,7 +17283,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2022-03-02T16:46:11.000+00:00",
+         "updated_at" : "2022-04-11T11:27:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18708,10 +18710,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/national-college-for-school-leadership"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/office-of-the-schools-adjudicator",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-schools-adjudicator"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/schools-commissioners-group",
                "web_url" : "https://www.gov.uk/government/organisations/schools-commissioners-group"
             },
@@ -18790,6 +18788,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/social-work-england",
                "web_url" : "https://www.gov.uk/government/organisations/social-work-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-schools-adjudicator",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-schools-adjudicator"
             }
          ],
          "details" : {
@@ -18818,7 +18820,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Education",
-         "updated_at" : "2021-12-03T17:11:22.000+00:00",
+         "updated_at" : "2022-04-25T12:24:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
       },
       {
@@ -22191,7 +22193,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Economic Service",
-         "updated_at" : "2022-02-03T15:57:49.000+00:00",
+         "updated_at" : "2022-04-14T10:42:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-economic-service"
       },
       {
@@ -27967,7 +27969,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northern Ireland Cancer Registry",
-         "updated_at" : "2022-04-05T11:19:32.000+01:00",
+         "updated_at" : "2022-04-14T11:00:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-cancer-registry"
       },
       {
@@ -28677,7 +28679,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2022-02-21T16:29:49.000+00:00",
+         "updated_at" : "2022-04-08T11:06:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -28879,6 +28881,34 @@
          "title" : "Office for Communications Data Authorisations",
          "updated_at" : "2021-11-02T16:03:25.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-communications-data-authorisations"
+      },
+      {
+         "analytics_identifier" : "PB1356",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OEP",
+            "closed_at" : null,
+            "content_id" : "d08a10e5-8954-4b55-8c93-a4645f541945",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Office for\r\nEnvironmental\r\nProtection",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "office-for-environmental-protection"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/office-for-environmental-protection",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for Environmental Protection",
+         "updated_at" : "2022-04-28T09:37:14.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-environmental-protection"
       },
       {
          "analytics_identifier" : "OT1341",
@@ -29120,7 +29150,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Internal Market",
-         "updated_at" : "2021-12-22T14:44:39.000+00:00",
+         "updated_at" : "2022-04-11T11:26:01.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
       },
       {
