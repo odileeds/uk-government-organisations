@@ -141,6 +141,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/admiralty-court"
       },
       {
+         "analytics_identifier" : "PB1364",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ARIA",
+            "closed_at" : null,
+            "content_id" : "330bdc96-a584-450e-9536-5932691e5cd7",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Advanced Research and Invention Agency",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "advanced-research-and-invention-agency"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Advanced Research and Invention Agency",
+         "updated_at" : "2022-07-19T09:24:41.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/advanced-research-and-invention-agency"
+      },
+      {
          "analytics_identifier" : "PB573",
          "child_organisations" : [],
          "details" : {
@@ -2366,7 +2394,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Child Safeguarding Practice Review Panel",
-         "updated_at" : "2019-04-05T16:39:41.000+01:00",
+         "updated_at" : "2022-07-25T12:07:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/child-safeguarding-practice-review-panel"
       },
       {
@@ -11367,6 +11395,53 @@
          "web_url" : "https://www.gov.uk/government/organisations/nhs-estates"
       },
       {
+         "analytics_identifier" : "PB1199",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
+            }
+         ],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2022-07-01T00:00:00.000+01:00",
+            "content_id" : "cc7a2d0a-07dd-46a3-a12d-c63642e570fa",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "NHS Improvement",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "nhs-improvement"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/monitor",
+               "web_url" : "https://www.gov.uk/government/organisations/monitor"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/nhs-trust-development-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-trust-development-authority"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/nhs-commissioning-board",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-commissioning-board"
+            }
+         ],
+         "title" : "NHS Improvement",
+         "updated_at" : "2022-07-01T14:27:56.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/nhs-improvement"
+      },
+      {
          "analytics_identifier" : "OT899",
          "child_organisations" : [],
          "details" : {
@@ -17090,7 +17165,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Radioactive Waste Management",
-         "updated_at" : "2021-03-30T10:36:33.000+01:00",
+         "updated_at" : "2022-07-21T08:14:02.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
       },
       {
@@ -18160,7 +18235,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2021-03-31T15:39:01.000+01:00",
+         "updated_at" : "2022-07-14T16:26:27.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -18437,7 +18512,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Business, Energy & Industrial Strategy",
-         "updated_at" : "2022-03-30T16:42:53.000+01:00",
+         "updated_at" : "2022-07-04T15:01:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
       },
       {
@@ -18884,7 +18959,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Education",
-         "updated_at" : "2022-04-25T12:24:40.000+01:00",
+         "updated_at" : "2022-07-05T15:26:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
       },
       {
@@ -19053,6 +19128,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
                "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-environmental-protection",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-environmental-protection"
             }
          ],
          "details" : {
@@ -19116,8 +19195,8 @@
          "analytics_identifier" : "D1196",
          "child_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/export-control-organisation",
-               "web_url" : "https://www.gov.uk/government/organisations/export-control-organisation"
+               "id" : "https://www.gov.uk/api/organisations/export-control-joint-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/export-control-joint-unit"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-international-trade-defence-and-security-organisation",
@@ -19235,6 +19314,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/planning-inspectorate",
                "web_url" : "https://www.gov.uk/government/organisations/planning-inspectorate"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-wales",
+               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-wales"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-england",
+               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-england"
             }
          ],
          "details" : {
@@ -19743,8 +19830,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/nhs-blood-and-transplant"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/nhs-commissioning-board",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-commissioning-board"
+               "id" : "https://www.gov.uk/api/organisations/nhs-england",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-england"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/nhs-litigation-authority",
@@ -19773,10 +19860,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/independent-reconfiguration-panel",
                "web_url" : "https://www.gov.uk/government/organisations/independent-reconfiguration-panel"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/nhs-business-services-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-business-services-authority"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/review-body-on-doctors-and-dentists-remuneration",
@@ -20619,7 +20702,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Environment Agency",
-         "updated_at" : "2022-02-04T14:08:37.000+00:00",
+         "updated_at" : "2022-07-06T12:14:33.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/environment-agency"
       },
       {
@@ -20632,7 +20715,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Equality and Human Rights Commission",
-            "organisation_brand_colour_class_name" : "department-for-international-development",
+            "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "equality-and-human-rights-commission"
          },
@@ -20640,14 +20723,14 @@
          "id" : "https://www.gov.uk/api/organisations/equality-and-human-rights-commission",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-international-development",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-development"
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Equality and Human Rights Commission",
-         "updated_at" : "2019-03-26T14:37:35.000+00:00",
+         "updated_at" : "2019-04-04T15:03:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/equality-and-human-rights-commission"
       },
       {
@@ -21628,7 +21711,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forensic Science Regulator",
-         "updated_at" : "2020-05-21T11:56:10.000+01:00",
+         "updated_at" : "2022-07-25T08:55:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/forensic-science-regulator"
       },
       {
@@ -23144,8 +23227,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/nhs-commissioning-board",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-commissioning-board"
+               "id" : "https://www.gov.uk/api/organisations/nhs-england",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-england"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
@@ -23911,10 +23994,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/reclaim-fund-ltd",
                "web_url" : "https://www.gov.uk/government/organisations/reclaim-fund-ltd"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/evaluation-task-force",
-               "web_url" : "https://www.gov.uk/government/organisations/evaluation-task-force"
             }
          ],
          "details" : {
@@ -25732,7 +25811,7 @@
             "content_id" : "954d8f53-a399-415b-b198-ad17144c320d",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Leadership\r\nCollege for \r\nGovernment",
+            "logo_formatted_name" : "Leadership College \r\nfor Government",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "leadership-college-for-government"
@@ -25752,7 +25831,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Leadership College for Government",
-         "updated_at" : "2022-02-02T15:20:45.000+00:00",
+         "updated_at" : "2022-07-11T13:20:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/leadership-college-for-government"
       },
       {
@@ -25887,7 +25966,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "LGBT Veterans Independent Review",
-         "updated_at" : "2022-06-22T11:28:21.000+01:00",
+         "updated_at" : "2022-07-21T17:18:14.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/lgbt-veterans-independent-review"
       },
       {
@@ -26177,7 +26256,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Maritime and Coastguard Agency",
-         "updated_at" : "2021-05-20T16:08:54.000+01:00",
+         "updated_at" : "2022-07-29T07:56:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
       },
       {
@@ -26947,7 +27026,7 @@
             "closed_at" : null,
             "content_id" : "d965471b-56e2-4995-8790-ab47924f6071",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "National Counter Terrorism Security Office",
             "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "no-identity",
@@ -26964,7 +27043,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Counter Terrorism Security Office",
-         "updated_at" : "2022-05-06T12:32:38.000+01:00",
+         "updated_at" : "2022-07-11T13:55:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-counter-terrorism-security-office"
       },
       {
@@ -27253,10 +27332,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/highways-england",
+               "web_url" : "https://www.gov.uk/government/organisations/highways-england"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "National Highways",
-         "updated_at" : "2021-12-01T15:47:46.000+00:00",
+         "updated_at" : "2022-07-11T17:04:25.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-highways"
       },
       {
@@ -27733,12 +27817,7 @@
          },
          "format" : "Special health authority",
          "id" : "https://www.gov.uk/api/organisations/nhs-business-services-authority",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "NHS Business Services Authority",
@@ -27813,34 +27892,6 @@
       },
       {
          "analytics_identifier" : "PB481",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "f07b4bb8-8af6-42da-a161-3d90027e980c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "NHS England",
-            "organisation_brand_colour_class_name" : "department-of-health",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "nhs-commissioning-board"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/nhs-commissioning-board",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "NHS England",
-         "updated_at" : "2014-10-15T15:36:34.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/nhs-commissioning-board"
-      },
-      {
-         "analytics_identifier" : "PB1199",
          "child_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
@@ -27850,16 +27901,16 @@
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
-            "content_id" : "cc7a2d0a-07dd-46a3-a12d-c63642e570fa",
+            "content_id" : "f07b4bb8-8af6-42da-a161-3d90027e980c",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : "NHS Improvement",
+            "logo_formatted_name" : "NHS England",
             "organisation_brand_colour_class_name" : "department-of-health",
             "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "nhs-improvement"
+            "slug" : "nhs-england"
          },
          "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
+         "id" : "https://www.gov.uk/api/organisations/nhs-england",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
@@ -27868,18 +27919,18 @@
          ],
          "superseded_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/monitor",
-               "web_url" : "https://www.gov.uk/government/organisations/monitor"
+               "id" : "https://www.gov.uk/api/organisations/national-information-board",
+               "web_url" : "https://www.gov.uk/government/organisations/national-information-board"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/nhs-trust-development-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-trust-development-authority"
+               "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-improvement"
             }
          ],
          "superseding_organisations" : [],
-         "title" : "NHS Improvement",
-         "updated_at" : "2022-03-04T13:40:38.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/nhs-improvement"
+         "title" : "NHS England",
+         "updated_at" : "2022-07-07T11:59:25.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/nhs-england"
       },
       {
          "analytics_identifier" : "PB531",
@@ -33810,6 +33861,34 @@
          "title" : "UK Atomic Energy Authority",
          "updated_at" : "2022-06-22T15:52:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
+      },
+      {
+         "analytics_identifier" : "OT1365",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "4ebcb104-6126-49be-bfc0-10b09a3016b8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "UK Commission on\r\nCovid Commemoration",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "uk-commission-on-covid-commemoration"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/uk-commission-on-covid-commemoration",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "UK Commission on Covid Commemoration",
+         "updated_at" : "2022-07-28T13:07:36.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-commission-on-covid-commemoration"
       },
       {
          "analytics_identifier" : "OT1268",
