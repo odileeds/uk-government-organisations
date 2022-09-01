@@ -34,6 +34,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice"
       },
       {
+         "analytics_identifier" : "OT1369",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ACE",
+            "closed_at" : null,
+            "content_id" : "92bbe2da-8d5f-480b-8da1-50b18e317654",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Accelerated Capability Environment",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "accelerated-capability-environment"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/accelerated-capability-environment",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Accelerated Capability Environment",
+         "updated_at" : "2022-08-30T14:14:31.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/accelerated-capability-environment"
+      },
+      {
          "analytics_identifier" : "EA1350",
          "child_organisations" : [],
          "details" : {
@@ -16960,7 +16988,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Commission for Countering Extremism",
-         "updated_at" : "2019-04-08T16:06:58.000+01:00",
+         "updated_at" : "2022-08-17T15:00:41.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/commission-for-countering-extremism"
       },
       {
@@ -18484,6 +18512,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/north-sea-transition-authority",
                "web_url" : "https://www.gov.uk/government/organisations/north-sea-transition-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/advanced-research-and-invention-agency"
             }
          ],
          "details" : {
@@ -18512,7 +18544,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Business, Energy & Industrial Strategy",
-         "updated_at" : "2022-07-04T15:01:40.000+01:00",
+         "updated_at" : "2022-08-18T17:54:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
       },
       {
@@ -18931,6 +18963,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-the-schools-adjudicator",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-the-schools-adjudicator"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/regional-department-for-education-dfe-directors",
+               "web_url" : "https://www.gov.uk/government/organisations/regional-department-for-education-dfe-directors"
             }
          ],
          "details" : {
@@ -19959,7 +19995,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department of Health and Social Care",
-         "updated_at" : "2022-05-06T12:33:16.000+01:00",
+         "updated_at" : "2022-08-17T11:57:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
       },
       {
@@ -20376,7 +20412,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2022-02-21T10:40:26.000+00:00",
+         "updated_at" : "2022-08-22T09:27:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -23307,7 +23343,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Her Majestyâs Prison and Probation Service",
-         "updated_at" : "2022-05-04T15:57:58.000+01:00",
+         "updated_at" : "2022-08-31T14:58:50.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
       },
       {
@@ -23872,7 +23908,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Prison Service",
-         "updated_at" : "2020-06-11T12:08:54.000+01:00",
+         "updated_at" : "2022-08-24T15:35:09.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-prison-service"
       },
       {
@@ -24992,7 +25028,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Reconfiguration Panel",
-         "updated_at" : "2022-03-03T15:14:02.000+00:00",
+         "updated_at" : "2022-08-03T10:18:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-reconfiguration-panel"
       },
       {
@@ -25352,7 +25388,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Intellectual Property Office",
-         "updated_at" : "2015-02-17T11:00:13.000+00:00",
+         "updated_at" : "2022-08-10T09:25:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/intellectual-property-office"
       },
       {
@@ -26458,6 +26494,29 @@
          "title" : "Military Aviation Authority",
          "updated_at" : "2015-03-18T16:01:40.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/military-aviation-authority"
+      },
+      {
+         "analytics_identifier" : "OT1368",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "MEXE",
+            "closed_at" : null,
+            "content_id" : "64dedfbf-e256-4443-bd8b-c3f2733bb377",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Military Engineering Experimental Establishment",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "military-engineering-experimental-establishment"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/military-engineering-experimental-establishment",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Military Engineering Experimental Establishment",
+         "updated_at" : "2022-08-08T11:23:33.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/military-engineering-experimental-establishment"
       },
       {
          "analytics_identifier" : "D17",
@@ -28840,7 +28899,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2022-04-08T11:06:11.000+01:00",
+         "updated_at" : "2022-08-22T09:54:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -29311,7 +29370,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Internal Market",
-         "updated_at" : "2022-04-11T11:26:01.000+01:00",
+         "updated_at" : "2022-08-15T09:28:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
       },
       {
@@ -29796,7 +29855,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Schools Adjudicator",
-         "updated_at" : "2017-08-31T22:35:41.000+01:00",
+         "updated_at" : "2022-08-17T15:54:17.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-schools-adjudicator"
       },
       {
@@ -30912,6 +30971,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/public-prosecution-service-for-northern-ireland"
       },
       {
+         "analytics_identifier" : "EA1366",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "PSFA",
+            "closed_at" : null,
+            "content_id" : "1c03c968-5c22-498a-8db0-22d2515fccba",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Public Sector\r\nFraud Authority",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "public-sector-fraud-authority"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/public-sector-fraud-authority",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Public Sector Fraud Authority",
+         "updated_at" : "2022-08-17T14:48:37.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/public-sector-fraud-authority"
+      },
+      {
          "analytics_identifier" : "OT1344",
          "child_organisations" : [],
          "details" : {
@@ -31157,6 +31248,34 @@
          "title" : "Reclaim Fund Ltd",
          "updated_at" : "2021-06-28T14:11:43.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/reclaim-fund-ltd"
+      },
+      {
+         "analytics_identifier" : "OT1367",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "d1e421ee-1cfc-44b4-9948-305266d1838d",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Regional Department for Education (DfE) Directors ",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "regional-department-for-education-dfe-directors"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/regional-department-for-education-dfe-directors",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Regional Department for Education (DfE) Directors ",
+         "updated_at" : "2022-08-04T12:27:27.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/regional-department-for-education-dfe-directors"
       },
       {
          "analytics_identifier" : "OT1293",
@@ -32337,7 +32456,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Social Security Advisory Committee",
-         "updated_at" : "2020-02-21T10:03:44.000+00:00",
+         "updated_at" : "2022-08-23T16:54:56.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/social-security-advisory-committee"
       },
       {
@@ -33654,7 +33773,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Traffic Commissioners for Great Britain",
-         "updated_at" : "2022-06-09T11:16:48.000+01:00",
+         "updated_at" : "2022-08-03T11:28:05.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/traffic-commissioners"
       },
       {
@@ -34252,7 +34371,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Screening Committee",
-         "updated_at" : "2021-06-29T15:27:15.000+01:00",
+         "updated_at" : "2022-08-15T15:13:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
       },
       {
