@@ -58,7 +58,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Accelerated Capability Environment",
-         "updated_at" : "2022-08-30T14:14:31.000+01:00",
+         "updated_at" : "2022-10-24T14:40:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/accelerated-capability-environment"
       },
       {
@@ -86,7 +86,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Active Travel England",
-         "updated_at" : "2022-09-08T11:20:56.000+01:00",
+         "updated_at" : "2022-10-24T09:31:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/active-travel-england"
       },
       {
@@ -1619,6 +1619,34 @@
          "title" : "British Transport Police Authority",
          "updated_at" : "2021-07-09T15:21:01.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/british-transport-police-authority"
+      },
+      {
+         "analytics_identifier" : "OT1374",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "0bd81f00-f0b2-4066-9cd5-5fac842e32be",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "British Wool",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "british-wool"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/british-wool",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "British Wool",
+         "updated_at" : "2022-10-31T15:35:22.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/british-wool"
       },
       {
          "analytics_identifier" : "OT216",
@@ -18567,6 +18595,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
                "web_url" : "https://www.gov.uk/government/organisations/advanced-research-and-invention-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
+               "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
             }
          ],
          "details" : {
@@ -19151,10 +19183,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/plant-varieties-and-seeds-tribunal",
                "web_url" : "https://www.gov.uk/government/organisations/plant-varieties-and-seeds-tribunal"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/drinking-water-inspectorate",
-               "web_url" : "https://www.gov.uk/government/organisations/drinking-water-inspectorate"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/the-water-services-regulation-authority",
@@ -20841,7 +20869,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Equality Hub",
-         "updated_at" : "2021-12-31T11:05:16.000+00:00",
+         "updated_at" : "2022-10-14T16:19:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
       },
       {
@@ -22435,7 +22463,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Equalities Office",
-         "updated_at" : "2019-06-21T16:05:03.000+01:00",
+         "updated_at" : "2022-10-12T16:04:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-equalities-office"
       },
       {
@@ -22717,6 +22745,34 @@
          "title" : "Government Office for Science",
          "updated_at" : "2019-04-16T16:00:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-office-for-science"
+      },
+      {
+         "analytics_identifier" : "OT1372",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "GOTT",
+            "closed_at" : null,
+            "content_id" : "b9e7b282-1c89-4c2f-9aff-35b258a5bab5",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Government Office for\r\nTechnology Transfer",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-office-for-technology-transfer"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Government Office for Technology Transfer",
+         "updated_at" : "2022-10-04T17:38:51.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
       },
       {
          "analytics_identifier" : "OT1042",
@@ -23157,6 +23213,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/great-britain-china-centre"
       },
       {
+         "analytics_identifier" : "PB1373",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "d1c5117f-3277-46a6-98a5-0ff6af37e3d9",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Great British Nuclear",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "great-british-nuclear"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Great British Nuclear",
+         "updated_at" : "2022-10-31T11:40:16.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
+      },
+      {
          "analytics_identifier" : "OT551",
          "child_organisations" : [],
          "details" : {
@@ -23307,29 +23391,6 @@
          "title" : "Healthcare UK",
          "updated_at" : "2020-03-24T14:32:30.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
-      },
-      {
-         "analytics_identifier" : "OT1209",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "HMGCC",
-            "closed_at" : null,
-            "content_id" : "0fd1fd4f-5779-4cf4-ac37-6fe1a91ad15c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Her Majesty's Government Communications Centre",
-            "organisation_brand_colour_class_name" : "foreign-commonwealth-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "her-majestys-government-communications-centre"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/her-majestys-government-communications-centre",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Her Majesty's Government Communications Centre",
-         "updated_at" : "2017-01-19T11:31:43.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/her-majestys-government-communications-centre"
       },
       {
          "analytics_identifier" : "PB460",
@@ -23584,8 +23645,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/court-of-appeal-criminal-division"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/queens-bench-division-of-the-high-court",
-               "web_url" : "https://www.gov.uk/government/organisations/queens-bench-division-of-the-high-court"
+               "id" : "https://www.gov.uk/api/organisations/kings-bench-division-of-the-high-court",
+               "web_url" : "https://www.gov.uk/government/organisations/kings-bench-division-of-the-high-court"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/administrative-court",
@@ -23685,6 +23746,29 @@
          "title" : "HM Crown Prosecution Service Inspectorate",
          "updated_at" : "2014-10-15T15:36:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-crown-prosecution-service-inspectorate"
+      },
+      {
+         "analytics_identifier" : "OT1209",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "HMGCC",
+            "closed_at" : null,
+            "content_id" : "0fd1fd4f-5779-4cf4-ac37-6fe1a91ad15c",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "HM Government Communications Centre",
+            "organisation_brand_colour_class_name" : "foreign-commonwealth-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "hm-government-communications-centre"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/hm-government-communications-centre",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "HM Government Communications Centre",
+         "updated_at" : "2022-10-06T13:50:54.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/hm-government-communications-centre"
       },
       {
          "analytics_identifier" : "OT1241",
@@ -23800,7 +23884,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Land Registry",
-         "updated_at" : "2021-12-16T09:51:47.000+00:00",
+         "updated_at" : "2022-09-23T09:33:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/land-registry"
       },
       {
@@ -23889,10 +23973,10 @@
             "logo_formatted_name" : "HM Prison & Probation Service",
             "organisation_brand_colour_class_name" : "ministry-of-justice",
             "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "her-majestys-prison-and-probation-service"
+            "slug" : "hm-prison-and-probation-service"
          },
          "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
+         "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/ministry-of-justice",
@@ -23907,8 +23991,8 @@
          ],
          "superseding_organisations" : [],
          "title" : "HM Prison and Probation Service",
-         "updated_at" : "2022-09-28T13:28:02.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+         "updated_at" : "2022-10-04T12:33:39.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
       },
       {
          "analytics_identifier" : "EA321",
@@ -25745,10 +25829,10 @@
             "logo_formatted_name" : "King's Bench Division of the High Court",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "queens-bench-division-of-the-high-court"
+            "slug" : "kings-bench-division-of-the-high-court"
          },
          "format" : "Court",
-         "id" : "https://www.gov.uk/api/organisations/queens-bench-division-of-the-high-court",
+         "id" : "https://www.gov.uk/api/organisations/kings-bench-division-of-the-high-court",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/hm-courts-and-tribunals-service",
@@ -25758,8 +25842,36 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "King's Bench Division of the High Court",
-         "updated_at" : "2022-09-09T16:50:24.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/queens-bench-division-of-the-high-court"
+         "updated_at" : "2022-10-06T14:37:39.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/kings-bench-division-of-the-high-court"
+      },
+      {
+         "analytics_identifier" : "OT581",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "KHM",
+            "closed_at" : null,
+            "content_id" : "deaee9ef-4979-45b9-afc6-6cdb56abd2e3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "King's Harbour Master",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "queens-harbour-master"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/queens-harbour-master",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "King's Harbour Master",
+         "updated_at" : "2022-10-03T14:33:23.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/queens-harbour-master"
       },
       {
          "analytics_identifier" : "EA752",
@@ -26467,7 +26579,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Medicines and Healthcare products Regulatory Agency",
-         "updated_at" : "2021-11-18T12:56:39.000+00:00",
+         "updated_at" : "2022-10-20T15:03:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency"
       },
       {
@@ -26787,6 +26899,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-cyber-force",
                "web_url" : "https://www.gov.uk/government/organisations/national-cyber-force"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/sheffield-forgemasters-international-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/sheffield-forgemasters-international-ltd"
             }
          ],
          "details" : {
@@ -26811,7 +26927,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Defence",
-         "updated_at" : "2021-12-17T11:56:24.000+00:00",
+         "updated_at" : "2022-10-14T13:56:32.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
       },
       {
@@ -26978,8 +27094,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/insolvency-rules-committee"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice",
@@ -30878,8 +30994,8 @@
          "id" : "https://www.gov.uk/api/organisations/probation-service",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
             }
          ],
          "superseded_organisations" : [],
@@ -31143,34 +31259,6 @@
          "title" : "Queen Elizabeth II Conference Centre",
          "updated_at" : "2021-09-24T14:07:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/queen-elizabeth-ii-conference-centre"
-      },
-      {
-         "analytics_identifier" : "OT581",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "QHM",
-            "closed_at" : null,
-            "content_id" : "deaee9ef-4979-45b9-afc6-6cdb56abd2e3",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Queen's Harbour Master",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "mod",
-            "slug" : "queens-harbour-master"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/queens-harbour-master",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Queen's Harbour Master",
-         "updated_at" : "2014-11-20T14:32:50.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/queens-harbour-master"
       },
       {
          "analytics_identifier" : "OT1254",
@@ -33107,7 +33195,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2020-02-17T09:08:53.000+00:00",
+         "updated_at" : "2022-10-17T13:55:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -34321,7 +34409,7 @@
             "closed_at" : null,
             "content_id" : "f8028bf4-9ea1-4436-b558-9e5b71300f71",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "UK National Authority for Counter-Eavesdropping",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -34338,7 +34426,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Authority for Counter-Eavesdropping",
-         "updated_at" : "2021-04-19T10:44:48.000+01:00",
+         "updated_at" : "2022-10-13T08:57:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-authority-for-counter-eavesdropping"
       },
       {
@@ -34650,7 +34738,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "United Kingdom Security Vetting",
-         "updated_at" : "2020-12-02T14:12:51.000+00:00",
+         "updated_at" : "2022-10-03T10:35:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-security-vetting"
       },
       {
