@@ -41,7 +41,7 @@
             "closed_at" : null,
             "content_id" : "92bbe2da-8d5f-480b-8da1-50b18e317654",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Accelerated Capability Environment",
             "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "custom",
@@ -58,7 +58,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Accelerated Capability Environment",
-         "updated_at" : "2022-10-24T14:40:28.000+01:00",
+         "updated_at" : "2022-11-14T11:23:08.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/accelerated-capability-environment"
       },
       {
@@ -1628,10 +1628,10 @@
             "closed_at" : null,
             "content_id" : "0bd81f00-f0b2-4066-9cd5-5fac842e32be",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "British Wool",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "british-wool"
          },
          "format" : "Other",
@@ -1645,7 +1645,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "British Wool",
-         "updated_at" : "2022-10-31T15:35:22.000+00:00",
+         "updated_at" : "2022-11-01T14:43:43.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/british-wool"
       },
       {
@@ -1701,7 +1701,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Building Digital UK",
-         "updated_at" : "2022-04-01T11:23:44.000+01:00",
+         "updated_at" : "2022-11-18T11:21:25.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -14640,7 +14640,7 @@
             "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "13670958-b893-46a7-8044-af0d6a873e7e",
-            "govuk_closed_status" : "no_longer_exists",
+            "govuk_closed_status" : "split",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Scottish Office",
             "organisation_brand_colour_class_name" : null,
@@ -14651,9 +14651,18 @@
          "id" : "https://www.gov.uk/api/organisations/scottish-office",
          "parent_organisations" : [],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-scottish-government",
+               "web_url" : "https://www.gov.uk/government/organisations/the-scottish-government"
+            }
+         ],
          "title" : "Scottish Office",
-         "updated_at" : "2015-03-09T20:00:55.000+00:00",
+         "updated_at" : "2022-11-10T11:38:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/scottish-office"
       },
       {
@@ -17449,6 +17458,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-the-internal-market",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/subsidy-advice-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/subsidy-advice-unit"
             }
          ],
          "details" : {
@@ -17473,7 +17486,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2022-04-11T11:27:28.000+01:00",
+         "updated_at" : "2022-11-29T09:20:41.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18599,6 +18612,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
                "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+               "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
             }
          ],
          "details" : {
@@ -19251,6 +19268,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-environmental-protection",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-environmental-protection"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/british-wool",
+               "web_url" : "https://www.gov.uk/government/organisations/british-wool"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-re",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-re"
             }
          ],
          "details" : {
@@ -19348,6 +19373,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-investment",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/trade-and-agriculture-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/trade-and-agriculture-commission"
             }
          ],
          "details" : {
@@ -20063,6 +20092,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-clinical-impact-awards",
                "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-impact-awards"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/nhs-business-services-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-business-services-authority"
             }
          ],
          "details" : {
@@ -21645,6 +21678,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
       },
       {
+         "analytics_identifier" : "OT1375",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "fe11b6b8-df05-4f65-8d59-0affc50f44b2",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Flood Re",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "flood-re"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/flood-re",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Flood Re",
+         "updated_at" : "2022-11-01T16:25:09.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/flood-re"
+      },
+      {
          "analytics_identifier" : "D102",
          "child_organisations" : [
             {
@@ -22430,7 +22491,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Economic Service",
-         "updated_at" : "2022-04-14T10:42:18.000+01:00",
+         "updated_at" : "2022-11-10T11:53:03.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-economic-service"
       },
       {
@@ -22799,7 +22860,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Operational Research Service",
-         "updated_at" : "2022-09-26T11:48:26.000+01:00",
+         "updated_at" : "2022-11-04T16:03:43.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-operational-research-service"
       },
       {
@@ -23216,17 +23277,17 @@
          "analytics_identifier" : "PB1373",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "GBN",
             "closed_at" : null,
             "content_id" : "d1c5117f-3277-46a6-98a5-0ff6af37e3d9",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Great British Nuclear",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "great-british-nuclear"
          },
-         "format" : "Executive non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
          "parent_organisations" : [
             {
@@ -23237,7 +23298,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Great British Nuclear",
-         "updated_at" : "2022-10-31T11:40:16.000+00:00",
+         "updated_at" : "2022-11-29T14:12:44.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
       },
       {
@@ -24012,8 +24073,8 @@
          "id" : "https://www.gov.uk/api/organisations/hm-prison-service",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
             }
          ],
          "superseded_organisations" : [],
@@ -25324,7 +25385,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Infrastructure and Projects Authority",
-         "updated_at" : "2019-11-25T10:51:47.000+00:00",
+         "updated_at" : "2022-11-22T12:17:23.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority"
       },
       {
@@ -28055,7 +28116,12 @@
          },
          "format" : "Special health authority",
          "id" : "https://www.gov.uk/api/organisations/nhs-business-services-authority",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "NHS Business Services Authority",
@@ -28819,7 +28885,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northern Ireland Office",
-         "updated_at" : "2017-12-30T12:57:35.000+00:00",
+         "updated_at" : "2022-11-24T15:57:14.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-office"
       },
       {
@@ -29050,7 +29116,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2022-08-22T09:54:52.000+01:00",
+         "updated_at" : "2022-11-15T11:48:01.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -32380,7 +32446,7 @@
             "content_id" : "4930da96-9a35-493a-9a75-57402247e93d",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : " Sheffield Forgemasters International Ltd",
+            "logo_formatted_name" : "Sheffield Forgemasters International Ltd",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "sheffield-forgemasters-international-ltd"
@@ -32395,8 +32461,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : " Sheffield Forgemasters International Ltd",
-         "updated_at" : "2022-09-29T10:38:29.000+01:00",
+         "title" : "Sheffield Forgemasters International Ltd",
+         "updated_at" : "2022-11-03T13:18:14.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/sheffield-forgemasters-international-ltd"
       },
       {
@@ -32891,7 +32957,7 @@
             "content_id" : "6ed4a64f-1ce5-4527-9b1f-06d763eb8451",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Submarine Delivery Agency",
+            "logo_formatted_name" : "Submarine \r\nDelivery Agency",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "mod",
             "slug" : "submarine-delivery-agency"
@@ -32907,8 +32973,36 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Submarine Delivery Agency",
-         "updated_at" : "2020-12-02T14:28:35.000+00:00",
+         "updated_at" : "2022-11-07T16:00:09.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/submarine-delivery-agency"
+      },
+      {
+         "analytics_identifier" : "OT1377",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "SAU",
+            "closed_at" : null,
+            "content_id" : "b716dd3f-9aec-427b-9926-270322b03a9a",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Subsidy Advice Unit",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "subsidy-advice-unit"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/subsidy-advice-unit",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/competition-and-markets-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Subsidy Advice Unit",
+         "updated_at" : "2022-11-30T10:35:02.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/subsidy-advice-unit"
       },
       {
          "analytics_identifier" : "D435",
@@ -33839,6 +33933,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/the-water-services-regulation-authority"
       },
       {
+         "analytics_identifier" : "OT1376",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "TAC",
+            "closed_at" : null,
+            "content_id" : "bc2ea18e-ff22-4698-9941-01d087ab544b",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Trade and Agriculture Commission",
+            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "trade-and-agriculture-commission"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/trade-and-agriculture-commission",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Trade and Agriculture Commission",
+         "updated_at" : "2022-11-09T10:58:55.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/trade-and-agriculture-commission"
+      },
+      {
          "analytics_identifier" : "PB1327",
          "child_organisations" : [],
          "details" : {
@@ -34588,7 +34710,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2022-04-01T08:26:38.000+01:00",
+         "updated_at" : "2022-11-30T12:08:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
@@ -35497,8 +35619,8 @@
          "id" : "https://www.gov.uk/api/organisations/youth-custody-service",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
             }
          ],
          "superseded_organisations" : [],
