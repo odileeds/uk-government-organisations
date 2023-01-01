@@ -20504,7 +20504,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2022-08-22T09:27:16.000+01:00",
+         "updated_at" : "2022-12-28T09:18:38.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -28885,7 +28885,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northern Ireland Office",
-         "updated_at" : "2022-11-24T15:57:14.000+00:00",
+         "updated_at" : "2022-12-20T14:36:16.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-office"
       },
       {
@@ -29528,6 +29528,29 @@
          "title" : "Office for Nuclear Regulation",
          "updated_at" : "2014-10-15T15:38:50.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-nuclear-regulation"
+      },
+      {
+         "analytics_identifier" : "OT1378",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OFP",
+            "closed_at" : null,
+            "content_id" : "8ee46356-a76a-4a5a-81a0-584a291d1917",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Office for Place",
+            "organisation_brand_colour_class_name" : "department-for-levelling-up-housing-and-communities",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-place"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/office-for-place",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for Place",
+         "updated_at" : "2022-12-13T16:07:29.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
       },
       {
          "analytics_identifier" : "OT1246",
@@ -31529,7 +31552,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Regulatory Policy Committee",
-         "updated_at" : "2022-01-26T13:56:04.000+00:00",
+         "updated_at" : "2022-12-20T15:43:31.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
       },
       {
@@ -32984,7 +33007,7 @@
             "closed_at" : null,
             "content_id" : "b716dd3f-9aec-427b-9926-270322b03a9a",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Subsidy Advice Unit",
             "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
             "organisation_logo_type_class_name" : "custom",
@@ -33001,7 +33024,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Subsidy Advice Unit",
-         "updated_at" : "2022-11-30T10:35:02.000+00:00",
+         "updated_at" : "2022-12-13T12:08:18.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/subsidy-advice-unit"
       },
       {
@@ -33783,7 +33806,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest",
-         "updated_at" : "2014-10-15T15:36:16.000+01:00",
+         "updated_at" : "2022-12-13T13:13:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-reviewing-committee-on-the-export-of-works-of-art-and-objects-of-cultural-interest"
       },
       {
@@ -34860,7 +34883,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "United Kingdom Security Vetting",
-         "updated_at" : "2022-10-03T10:35:30.000+01:00",
+         "updated_at" : "2022-12-09T14:51:40.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-security-vetting"
       },
       {
