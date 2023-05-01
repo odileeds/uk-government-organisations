@@ -191,8 +191,8 @@
          "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -2177,8 +2177,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [],
@@ -2569,8 +2569,8 @@
          "id" : "https://www.gov.uk/api/organisations/civil-nuclear-police-authority",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -4985,6 +4985,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/commission-on-race-and-ethnic-disparities"
       },
       {
+         "analytics_identifier" : "OT1264",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "5a8aeb98-54e2-4c49-b9d9-1a1d44cf1966",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Commissioner for Shale Gas",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "shale-commissioner"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/shale-commissioner",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Commissioner for Shale Gas",
+         "updated_at" : "2023-04-19T11:11:24.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/shale-commissioner"
+      },
+      {
          "analytics_identifier" : "OT760",
          "child_organisations" : [],
          "details" : {
@@ -6147,7 +6175,7 @@
             }
          ],
          "details" : {
-            "abbreviation" : "DCMS",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "fd62c5a4-714d-47fe-a612-595d1739251c",
             "govuk_closed_status" : "split",
@@ -6181,7 +6209,7 @@
             }
          ],
          "title" : "Department for Digital, Culture, Media & Sport",
-         "updated_at" : "2023-03-27T13:43:03.000+01:00",
+         "updated_at" : "2023-04-18T09:56:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
       },
       {
@@ -13998,7 +14026,7 @@
             }
          ],
          "title" : "Public Health England",
-         "updated_at" : "2023-03-09T12:12:14.000+00:00",
+         "updated_at" : "2023-04-21T11:38:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/public-health-england"
       },
       {
@@ -17128,8 +17156,8 @@
          "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -17279,34 +17307,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/commissioner-for-public-appointments"
       },
       {
-         "analytics_identifier" : "OT1264",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "5a8aeb98-54e2-4c49-b9d9-1a1d44cf1966",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Commissioner for Shale Gas",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "shale-commissioner"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/shale-commissioner",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Commissioner for Shale Gas",
-         "updated_at" : "2018-11-08T13:57:34.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/shale-commissioner"
-      },
-      {
          "analytics_identifier" : "PB196",
          "child_organisations" : [],
          "details" : {
@@ -17324,8 +17324,8 @@
          "id" : "https://www.gov.uk/api/organisations/committee-on-climate-change",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -17352,8 +17352,8 @@
          "id" : "https://www.gov.uk/api/organisations/committee-on-fuel-poverty",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [
@@ -17417,8 +17417,8 @@
          "id" : "https://www.gov.uk/api/organisations/committee-on-radioactive-waste-management",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -17536,7 +17536,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Companies House ",
-         "updated_at" : "2023-03-17T14:37:12.000+00:00",
+         "updated_at" : "2023-04-18T14:00:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/companies-house"
       },
       {
@@ -17629,7 +17629,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2023-03-29T08:57:34.000+01:00",
+         "updated_at" : "2023-04-25T08:47:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -17748,7 +17748,7 @@
          "analytics_identifier" : "PB198",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "CCWater",
+            "abbreviation" : "CCW",
             "closed_at" : null,
             "content_id" : "49856c04-7866-41a9-ad46-341c94be1962",
             "govuk_closed_status" : null,
@@ -17769,7 +17769,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Consumer Council for Water",
-         "updated_at" : "2014-10-15T15:35:46.000+01:00",
+         "updated_at" : "2023-04-13T12:13:31.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/consumer-council-for-water"
       },
       {
@@ -17790,8 +17790,8 @@
          "id" : "https://www.gov.uk/api/organisations/copyright-tribunal",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -17872,12 +17872,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/council-for-science-and-technology",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Council for Science and Technology",
@@ -18554,7 +18549,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defra's Science Advisory Council",
-         "updated_at" : "2023-03-02T10:26:55.000+00:00",
+         "updated_at" : "2023-04-26T12:41:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/science-advisory-council"
       },
       {
@@ -18591,10 +18586,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-defence-and-security-exports",
                "web_url" : "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/trade-and-agriculture-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/trade-and-agriculture-commission"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/competition-and-markets-authority",
@@ -18651,6 +18642,26 @@
             {
                "id" : "https://www.gov.uk/api/organisations/competition-service",
                "web_url" : "https://www.gov.uk/government/organisations/competition-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/british-hallmarking-council",
+               "web_url" : "https://www.gov.uk/government/organisations/british-hallmarking-council"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/post-office",
+               "web_url" : "https://www.gov.uk/government/organisations/post-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/centre-for-connected-and-autonomous-vehicles",
+               "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-zero-emission-vehicles",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
+               "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
             }
          ],
          "details" : {
@@ -18670,7 +18681,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department for Business and Trade",
-         "updated_at" : "2023-03-20T15:17:33.000+00:00",
+         "updated_at" : "2023-04-21T09:14:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       {
@@ -19144,7 +19155,7 @@
             }
          ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DCMS",
             "closed_at" : null,
             "content_id" : "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c",
             "govuk_closed_status" : null,
@@ -19165,7 +19176,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2023-03-29T11:40:40.000+01:00",
+         "updated_at" : "2023-04-18T09:57:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -19335,6 +19346,62 @@
             {
                "id" : "https://www.gov.uk/api/organisations/nuclear-decommissioning-authority",
                "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning",
+               "web_url" : "https://www.gov.uk/government/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ofgem",
+               "web_url" : "https://www.gov.uk/government/organisations/ofgem"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-nuclear-police-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-nuclear-police-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/committee-on-climate-change",
+               "web_url" : "https://www.gov.uk/government/organisations/committee-on-climate-change"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/salix-finance-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/salix-finance-ltd"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/committee-on-fuel-poverty",
+               "web_url" : "https://www.gov.uk/government/organisations/committee-on-fuel-poverty"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/committee-on-radioactive-waste-management",
+               "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+               "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/north-sea-transition-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/north-sea-transition-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-atomic-energy-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-nuclear-laboratory",
+               "web_url" : "https://www.gov.uk/government/organisations/national-nuclear-laboratory"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/low-carbon-contracts-company",
+               "web_url" : "https://www.gov.uk/government/organisations/low-carbon-contracts-company"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/electricity-settlements-company",
+               "web_url" : "https://www.gov.uk/government/organisations/electricity-settlements-company"
             }
          ],
          "details" : {
@@ -19344,7 +19411,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for\r\nEnergy Security\r\n& Net Zero",
-            "organisation_brand_colour_class_name" : null,
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-energy-security-and-net-zero"
          },
@@ -19354,7 +19421,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2023-03-20T12:45:23.000+00:00",
+         "updated_at" : "2023-04-25T08:15:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -19786,6 +19853,62 @@
             {
                "id" : "https://www.gov.uk/api/organisations/met-office",
                "web_url" : "https://www.gov.uk/government/organisations/met-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ofcom",
+               "web_url" : "https://www.gov.uk/government/organisations/ofcom"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/phone-paid-services-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/phone-paid-services-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/information-commissioner-s-office",
+               "web_url" : "https://www.gov.uk/government/organisations/information-commissioner-s-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-life-sciences",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-life-sciences"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
+               "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-chemist",
+               "web_url" : "https://www.gov.uk/government/organisations/government-chemist"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/research-collaboration-advice-team",
+               "web_url" : "https://www.gov.uk/government/organisations/research-collaboration-advice-team"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/advanced-research-and-invention-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/intellectual-property-office",
+               "web_url" : "https://www.gov.uk/government/organisations/intellectual-property-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-research-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-research-and-innovation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ordnance-survey",
+               "web_url" : "https://www.gov.uk/government/organisations/ordnance-survey"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/copyright-tribunal",
+               "web_url" : "https://www.gov.uk/government/organisations/copyright-tribunal"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-physical-laboratory",
+               "web_url" : "https://www.gov.uk/government/organisations/national-physical-laboratory"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-shared-business-services-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-shared-business-services-ltd"
             }
          ],
          "details" : {
@@ -19795,17 +19918,22 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for\r\nScience, Innovation\r\n& Technology",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-science-innovation-and-technology"
          },
          "format" : "Ministerial department",
          "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
          "parent_organisations" : [],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Department for Science, Innovation and Technology",
-         "updated_at" : "2023-02-24T17:02:46.000+00:00",
+         "updated_at" : "2023-04-28T13:31:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       {
@@ -20907,6 +21035,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
       },
       {
+         "analytics_identifier" : "OT1390",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ESC",
+            "closed_at" : null,
+            "content_id" : "efd723bb-e459-4482-b626-e280c7f32411",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Electricity Settlements Company",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "electricity-settlements-company"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/electricity-settlements-company",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Electricity Settlements Company",
+         "updated_at" : "2023-04-21T11:51:42.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/electricity-settlements-company"
+      },
+      {
          "analytics_identifier" : "OT1267",
          "child_organisations" : [],
          "details" : {
@@ -20916,7 +21072,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Employment Agency Standards Inspectorate",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "uk-trade-investment",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "employment-agency-standards-inspectorate"
          },
@@ -20924,14 +21080,14 @@
          "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Employment Agency Standards Inspectorate",
-         "updated_at" : "2019-01-02T08:43:57.000+00:00",
+         "updated_at" : "2023-04-21T09:55:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
       },
       {
@@ -22063,10 +22219,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/bbc-world-service"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/chevening-foundation",
-               "web_url" : "https://www.gov.uk/government/organisations/chevening-foundation"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/government-communications-headquarters",
                "web_url" : "https://www.gov.uk/government/organisations/government-communications-headquarters"
             },
@@ -22521,8 +22673,8 @@
          "id" : "https://www.gov.uk/api/organisations/government-chemist",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -22713,7 +22865,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Digital Service",
-         "updated_at" : "2017-12-21T09:51:19.000+00:00",
+         "updated_at" : "2023-04-19T16:15:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
       },
       {
@@ -23075,8 +23227,8 @@
          "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -23353,7 +23505,12 @@
       },
       {
          "analytics_identifier" : "OT1321",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/leadership-college-for-government",
+               "web_url" : "https://www.gov.uk/government/organisations/leadership-college-for-government"
+            }
+         ],
          "details" : {
             "abbreviation" : "GSCU",
             "closed_at" : null,
@@ -23380,7 +23537,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Skills and Curriculum Unit",
-         "updated_at" : "2021-01-15T08:15:04.000+00:00",
+         "updated_at" : "2023-04-05T15:54:38.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-skills-and-curriculum-unit"
       },
       {
@@ -23541,8 +23698,8 @@
          "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -25783,8 +25940,8 @@
          "id" : "https://www.gov.uk/api/organisations/intellectual-property-office",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -26617,6 +26774,34 @@
          "title" : "London and Continental Railways Limited",
          "updated_at" : "2017-11-17T11:12:31.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/london-and-continental-railways-ltd"
+      },
+      {
+         "analytics_identifier" : "OT1389",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "LCCC",
+            "closed_at" : null,
+            "content_id" : "20c1fc42-c423-43ee-b574-b27cad58fe1a",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Low Carbon Contracts Company",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "low-carbon-contracts-company"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/low-carbon-contracts-company",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Low Carbon Contracts Company",
+         "updated_at" : "2023-04-21T11:44:54.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/low-carbon-contracts-company"
       },
       {
          "analytics_identifier" : "PB122",
@@ -28053,6 +28238,62 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-museums-liverpool"
       },
       {
+         "analytics_identifier" : "PC1388",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NNL",
+            "closed_at" : null,
+            "content_id" : "4df8abbc-33ff-4c9b-ac7d-21a3a84365bc",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "National Nuclear Laboratory",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "national-nuclear-laboratory"
+         },
+         "format" : "Public corporation",
+         "id" : "https://www.gov.uk/api/organisations/national-nuclear-laboratory",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Nuclear Laboratory",
+         "updated_at" : "2023-04-21T11:28:56.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-nuclear-laboratory"
+      },
+      {
+         "analytics_identifier" : "PC1387",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NPL",
+            "closed_at" : null,
+            "content_id" : "e4283b2f-69d4-4ebd-be59-5de9850c550b",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "National Physical Laboratory",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "national-physical-laboratory"
+         },
+         "format" : "Public corporation",
+         "id" : "https://www.gov.uk/api/organisations/national-physical-laboratory",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Physical Laboratory",
+         "updated_at" : "2023-04-21T06:59:22.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-physical-laboratory"
+      },
+      {
          "analytics_identifier" : "PB179",
          "child_organisations" : [],
          "details" : {
@@ -28613,18 +28854,23 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "north-sea-transition-authority"
          },
-         "format" : "Other",
+         "format" : "Executive non-departmental public body",
          "id" : "https://www.gov.uk/api/organisations/north-sea-transition-authority",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/oil-and-gas-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/oil-and-gas-authority"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "North Sea Transition Authority",
-         "updated_at" : "2022-03-21T16:16:08.000+00:00",
+         "updated_at" : "2023-04-19T11:05:05.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/north-sea-transition-authority"
       },
       {
@@ -29409,12 +29655,7 @@
          },
          "format" : "Advisory non-departmental public body",
          "id" : "https://www.gov.uk/api/organisations/nuclear-liabilities-financing-assurance-board",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Liabilities Financing Assurance Board",
@@ -29737,8 +29978,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -29822,13 +30063,18 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-place"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/office-for-place",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Place",
-         "updated_at" : "2023-01-19T12:00:41.000+00:00",
+         "updated_at" : "2023-04-18T16:00:38.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
       },
       {
@@ -29970,8 +30216,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [
@@ -30479,8 +30725,8 @@
          "id" : "https://www.gov.uk/api/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -30507,8 +30753,8 @@
          "id" : "https://www.gov.uk/api/organisations/ofgem",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -30680,14 +30926,14 @@
          "id" : "https://www.gov.uk/api/organisations/ordnance-survey",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Ordnance Survey",
-         "updated_at" : "2017-10-02T12:18:09.000+01:00",
+         "updated_at" : "2023-04-19T11:23:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ordnance-survey"
       },
       {
@@ -31152,6 +31398,34 @@
          "title" : "Porton Biopharma Limited",
          "updated_at" : "2016-02-12T12:39:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/porton-biopharma-limited"
+      },
+      {
+         "analytics_identifier" : "PC1386",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "e33a4c98-6188-4b4a-9a9d-00063ad3bfbc",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Post Office",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "post-office"
+         },
+         "format" : "Public corporation",
+         "id" : "https://www.gov.uk/api/organisations/post-office",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Post Office",
+         "updated_at" : "2023-04-03T15:15:27.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/post-office"
       },
       {
          "analytics_identifier" : "OT1210",
@@ -31862,8 +32136,8 @@
          "id" : "https://www.gov.uk/api/organisations/research-collaboration-advice-team",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-skills",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [],
@@ -32291,8 +32565,8 @@
          "id" : "https://www.gov.uk/api/organisations/salix-finance-ltd",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -32807,7 +33081,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2020-07-21T16:29:07.000+01:00",
+         "updated_at" : "2023-04-03T13:35:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
@@ -33257,7 +33531,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Student Loans Company",
-         "updated_at" : "2022-06-23T11:44:16.000+01:00",
+         "updated_at" : "2023-04-26T12:15:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/student-loans-company"
       },
       {
@@ -33586,7 +33860,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Charity Commission \r\n",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
             "slug" : "charity-commission"
          },
@@ -33601,7 +33875,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2022-10-17T13:55:03.000+01:00",
+         "updated_at" : "2023-04-21T09:40:39.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -33738,7 +34012,7 @@
          "analytics_identifier" : "EA32",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "the Insolvency Service",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "c8406408-8376-45e0-95b4-7e74cef2c260",
             "govuk_closed_status" : null,
@@ -33759,7 +34033,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Insolvency Service",
-         "updated_at" : "2023-03-17T14:27:27.000+00:00",
+         "updated_at" : "2023-04-18T12:09:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/insolvency-service"
       },
       {
@@ -34260,12 +34534,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/trade-and-agriculture-commission",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Trade and Agriculture Commission",
@@ -34528,8 +34797,8 @@
          "id" : "https://www.gov.uk/api/organisations/uk-atomic-energy-authority",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [],
@@ -34832,7 +35101,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Hydrographic Office",
-         "updated_at" : "2020-03-24T14:30:30.000+00:00",
+         "updated_at" : "2023-04-18T08:28:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
@@ -34982,8 +35251,8 @@
          "id" : "https://www.gov.uk/api/organisations/uk-research-and-innovation",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
          "superseded_organisations" : [
@@ -34996,6 +35265,34 @@
          "title" : "UK Research and Innovation",
          "updated_at" : "2019-07-18T12:59:13.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-research-and-innovation"
+      },
+      {
+         "analytics_identifier" : "OT1391",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "UKSBS",
+            "closed_at" : null,
+            "content_id" : "666e939a-a9f8-4659-8063-a49089603afe",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "UK Shared Business Services Ltd",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "uk-shared-business-services-ltd"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/uk-shared-business-services-ltd",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "UK Shared Business Services Ltd",
+         "updated_at" : "2023-04-21T11:57:41.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-shared-business-services-ltd"
       },
       {
          "analytics_identifier" : "EA31",
@@ -35499,7 +35796,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Veterinary Medicines Directorate",
-         "updated_at" : "2021-10-22T08:27:54.000+01:00",
+         "updated_at" : "2023-04-05T10:31:04.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/veterinary-medicines-directorate"
       },
       {
