@@ -5975,6 +5975,72 @@
          "web_url" : "https://www.gov.uk/government/organisations/dental-vocational-training-authority"
       },
       {
+         "analytics_identifier" : "D1198",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-low-emission-vehicles",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-low-emission-vehicles"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/insolvency-practitioners-tribunal",
+               "web_url" : "https://www.gov.uk/government/organisations/insolvency-practitioners-tribunal"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-green-investment-bank",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-green-investment-bank"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/oil-and-gas-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/oil-and-gas-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/shale-commissioner",
+               "web_url" : "https://www.gov.uk/government/organisations/shale-commissioner"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "BEIS",
+            "closed_at" : null,
+            "content_id" : "2bde479a-97f2-42b5-986a-287a623c2a1c",
+            "govuk_closed_status" : "split",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Department for\r\nBusiness, Energy\r\n& Industrial Strategy",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "department-for-business-energy-and-industrial-strategy"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-energy-climate-change",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-skills",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "title" : "Department for Business, Energy & Industrial Strategy",
+         "updated_at" : "2023-05-15T10:55:53.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+      },
+      {
          "analytics_identifier" : "D611",
          "child_organisations" : [],
          "details" : {
@@ -6359,6 +6425,56 @@
          "title" : "Department for International Development",
          "updated_at" : "2020-09-08T14:09:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-international-development"
+      },
+      {
+         "analytics_identifier" : "D1196",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade-defence-and-security-organisation",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade-defence-and-security-organisation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/life-sciences-organisation",
+               "web_url" : "https://www.gov.uk/government/organisations/life-sciences-organisation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/trade-remedies-investigations-directorate",
+               "web_url" : "https://www.gov.uk/government/organisations/trade-remedies-investigations-directorate"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "DIT",
+            "closed_at" : null,
+            "content_id" : "082092f1-656c-470e-b024-229dc6e750e9",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Department for\r\nInternational Trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "dbt",
+            "slug" : "department-for-international-trade"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-trade-investment",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-trade-investment"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "title" : "Department for International Trade",
+         "updated_at" : "2023-05-11T16:08:06.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
       },
       {
          "analytics_identifier" : "OT1026",
@@ -17521,7 +17637,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Companies House ",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "companies-house"
          },
@@ -17614,7 +17730,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Competition and \r\nMarkets Authority",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "competition-and-markets-authority"
          },
@@ -18339,7 +18455,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Defence Equipment and Support",
-         "updated_at" : "2023-03-21T17:19:06.000+00:00",
+         "updated_at" : "2023-05-02T11:02:46.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-equipment-and-support"
       },
       {
@@ -18656,12 +18772,16 @@
                "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/office-for-zero-emission-vehicles",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
                "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-regulator-of-community-interest-companies",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-manpower-economics",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
             }
          ],
          "details" : {
@@ -18671,275 +18791,27 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for\r\nBusiness & Trade",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
-            "organisation_logo_type_class_name" : "dit",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "department-for-business-and-trade"
          },
          "format" : "Ministerial department",
          "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
          "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Department for Business and Trade",
-         "updated_at" : "2023-04-21T09:14:48.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
-      },
-      {
-         "analytics_identifier" : "D1198",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/nuclear-decommissioning-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-life-sciences",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-life-sciences"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-low-emission-vehicles",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-low-emission-vehicles"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-chemist",
-               "web_url" : "https://www.gov.uk/government/organisations/government-chemist"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/ordnance-survey",
-               "web_url" : "https://www.gov.uk/government/organisations/ordnance-survey"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/land-registry",
-               "web_url" : "https://www.gov.uk/government/organisations/land-registry"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/competition-and-markets-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/companies-house",
-               "web_url" : "https://www.gov.uk/government/organisations/companies-house"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/met-office",
-               "web_url" : "https://www.gov.uk/government/organisations/met-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/acas",
-               "web_url" : "https://www.gov.uk/government/organisations/acas"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/british-hallmarking-council",
-               "web_url" : "https://www.gov.uk/government/organisations/british-hallmarking-council"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/intellectual-property-office",
-               "web_url" : "https://www.gov.uk/government/organisations/intellectual-property-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-space-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/insolvency-service",
-               "web_url" : "https://www.gov.uk/government/organisations/insolvency-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/competition-service",
-               "web_url" : "https://www.gov.uk/government/organisations/competition-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-atomic-energy-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/council-for-science-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/council-for-science-and-technology"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/industrial-development-advisory-board",
-               "web_url" : "https://www.gov.uk/government/organisations/industrial-development-advisory-board"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/land-registration-rule-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/land-registration-rule-committee"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/low-pay-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/low-pay-commission"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/regulatory-policy-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/central-arbitration-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/central-arbitration-committee"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/competition-appeal-tribunal",
-               "web_url" : "https://www.gov.uk/government/organisations/competition-appeal-tribunal"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/copyright-tribunal",
-               "web_url" : "https://www.gov.uk/government/organisations/copyright-tribunal"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/insolvency-practitioners-tribunal",
-               "web_url" : "https://www.gov.uk/government/organisations/insolvency-practitioners-tribunal"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/british-business-bank",
-               "web_url" : "https://www.gov.uk/government/organisations/british-business-bank"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/certification-officer",
-               "web_url" : "https://www.gov.uk/government/organisations/certification-officer"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/independent-complaints-reviewer",
-               "web_url" : "https://www.gov.uk/government/organisations/independent-complaints-reviewer"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-of-manpower-economics",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-of-the-regulator-of-community-interest-companies",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-green-investment-bank",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-green-investment-bank"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-office-for-science",
-               "web_url" : "https://www.gov.uk/government/organisations/government-office-for-science"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/groceries-code-adjudicator",
-               "web_url" : "https://www.gov.uk/government/organisations/groceries-code-adjudicator"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-nuclear-police-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-nuclear-police-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/nuclear-liabilities-financing-assurance-board",
-               "web_url" : "https://www.gov.uk/government/organisations/nuclear-liabilities-financing-assurance-board"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/committee-on-climate-change",
-               "web_url" : "https://www.gov.uk/government/organisations/committee-on-climate-change"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/committee-on-radioactive-waste-management",
-               "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/committee-on-fuel-poverty",
-               "web_url" : "https://www.gov.uk/government/organisations/committee-on-fuel-poverty"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/oil-and-gas-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/oil-and-gas-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-research-and-innovation",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-research-and-innovation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/centre-for-connected-and-autonomous-vehicles",
-               "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/small-business-commissioner",
-               "web_url" : "https://www.gov.uk/government/organisations/small-business-commissioner"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-product-safety-and-standards",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/ofgem",
-               "web_url" : "https://www.gov.uk/government/organisations/ofgem"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/pubs-code-adjudicator",
-               "web_url" : "https://www.gov.uk/government/organisations/pubs-code-adjudicator"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/financial-reporting-council",
-               "web_url" : "https://www.gov.uk/government/organisations/financial-reporting-council"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning",
-               "web_url" : "https://www.gov.uk/government/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/shale-commissioner",
-               "web_url" : "https://www.gov.uk/government/organisations/shale-commissioner"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
-               "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-zero-emission-vehicles",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-zero-emission-vehicles"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/salix-finance-ltd",
-               "web_url" : "https://www.gov.uk/government/organisations/salix-finance-ltd"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/north-sea-transition-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/north-sea-transition-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/advanced-research-and-invention-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/advanced-research-and-invention-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-office-for-technology-transfer",
-               "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
-               "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "BEIS",
-            "closed_at" : null,
-            "content_id" : "2bde479a-97f2-42b5-986a-287a623c2a1c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Department for\r\nBusiness, Energy\r\n& Industrial Strategy",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "department-for-business-energy-and-industrial-strategy"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-         "parent_organisations" : [],
          "superseded_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-of-energy-climate-change",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-energy-climate-change"
+               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-skills",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
             }
          ],
          "superseding_organisations" : [],
-         "title" : "Department for Business, Energy & Industrial Strategy",
-         "updated_at" : "2023-02-13T15:12:08.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+         "title" : "Department for Business and Trade",
+         "updated_at" : "2023-05-31T13:57:47.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       {
          "analytics_identifier" : "OT1173",
@@ -19421,7 +19293,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2023-04-25T08:15:34.000+01:00",
+         "updated_at" : "2023-05-03T08:44:44.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -19658,75 +19530,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/department-for-infrastructure-northern-ireland"
       },
       {
-         "analytics_identifier" : "D1196",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/export-control-joint-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/export-control-joint-unit"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade-defence-and-security-organisation",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade-defence-and-security-organisation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/life-sciences-organisation",
-               "web_url" : "https://www.gov.uk/government/organisations/life-sciences-organisation"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-national-contact-point",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-national-contact-point"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/trade-remedies-investigations-directorate",
-               "web_url" : "https://www.gov.uk/government/organisations/trade-remedies-investigations-directorate"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-defence-and-security-exports",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/trade-remedies-authority",
-               "web_url" : "https://www.gov.uk/government/organisations/trade-remedies-authority"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-investment",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/trade-and-agriculture-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/trade-and-agriculture-commission"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "DIT",
-            "closed_at" : null,
-            "content_id" : "082092f1-656c-470e-b024-229dc6e750e9",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Department for\r\nInternational Trade",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
-            "organisation_logo_type_class_name" : "dit",
-            "slug" : "department-for-international-trade"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
-         "parent_organisations" : [],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-trade-investment",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-trade-investment"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Department for International Trade",
-         "updated_at" : "2023-02-13T15:09:55.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
-      },
-      {
          "analytics_identifier" : "D1342",
          "child_organisations" : [
             {
@@ -19792,6 +19595,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-england",
                "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-place",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
             }
          ],
          "details" : {
@@ -21297,7 +21104,12 @@
       },
       {
          "analytics_identifier" : "OT1324",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-equalities-office",
+               "web_url" : "https://www.gov.uk/government/organisations/government-equalities-office"
+            }
+         ],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -21315,22 +21127,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/cabinet-office",
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-equalities-office",
-               "web_url" : "https://www.gov.uk/government/organisations/government-equalities-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/social-mobility-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/social-mobility-commission"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/race-disparity-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/race-disparity-unit"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/disability-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/disability-unit"
             }
          ],
          "superseded_organisations" : [],
@@ -22898,12 +22694,7 @@
       },
       {
          "analytics_identifier" : "OT506",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
-               "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : "GEO",
             "closed_at" : null,
@@ -22921,6 +22712,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/cabinet-office",
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
+               "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
             }
          ],
          "superseded_organisations" : [],
@@ -23051,7 +22846,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Internal Audit Agency",
-         "updated_at" : "2023-03-14T15:09:33.000+00:00",
+         "updated_at" : "2023-05-26T14:56:32.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-internal-audit-agency"
       },
       {
@@ -23705,7 +23500,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Great British Nuclear",
-         "updated_at" : "2022-11-29T14:12:44.000+00:00",
+         "updated_at" : "2023-05-25T12:53:00.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
       },
       {
@@ -23840,10 +23635,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/nhs-england",
@@ -24337,7 +24128,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "HM Land Registry",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-levelling-up-housing-and-communities",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "land-registry"
          },
@@ -24345,14 +24136,14 @@
          "id" : "https://www.gov.uk/api/organisations/land-registry",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Land Registry",
-         "updated_at" : "2023-03-17T12:51:04.000+00:00",
+         "updated_at" : "2023-06-01T00:06:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/land-registry"
       },
       {
@@ -25209,6 +25000,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-custody"
       },
       {
+         "analytics_identifier" : "PB210",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "IAAP",
+            "closed_at" : null,
+            "content_id" : "7a1b7347-6040-4b8c-9687-b18a0125b5e6",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Independent Agricultural \r\nAppeals Panel",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "independent-agricultural-appeals-panel"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/rural-payments-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/rural-payments-agency"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Independent Agricultural Appeals Panel",
+         "updated_at" : "2023-05-23T17:53:18.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
+      },
+      {
          "analytics_identifier" : "IM1123",
          "child_organisations" : [],
          "details" : {
@@ -25359,12 +25182,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/independent-complaints-reviewer",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Complaints Reviewer",
@@ -25660,18 +25478,13 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "industrial-development-advisory-board"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/industrial-development-advisory-board",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Industrial Development Advisory Board",
-         "updated_at" : "2016-07-25T15:11:43.000+01:00",
+         "updated_at" : "2023-05-11T07:56:05.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/industrial-development-advisory-board"
       },
       {
@@ -26413,12 +26226,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/land-registration-rule-committee",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Land Registration Rule Committee",
@@ -26636,17 +26444,12 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Life Sciences Organisation",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "dit",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "life-sciences-organisation"
          },
-         "format" : "Sub organisation",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/life-sciences-organisation",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-international-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-international-trade"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/ukti-life-sciences-organisation",
@@ -26655,7 +26458,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Life Sciences Organisation",
-         "updated_at" : "2018-10-11T11:47:19.000+01:00",
+         "updated_at" : "2023-05-24T08:28:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/life-sciences-organisation"
       },
       {
@@ -29636,7 +29439,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2023-03-31T16:13:07.000+01:00",
+         "updated_at" : "2023-05-22T11:07:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -30053,7 +29856,7 @@
          "analytics_identifier" : "OT1378",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "OFP",
+            "abbreviation" : "OfP",
             "closed_at" : null,
             "content_id" : "8ee46356-a76a-4a5a-81a0-584a291d1917",
             "govuk_closed_status" : null,
@@ -30074,7 +29877,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Place",
-         "updated_at" : "2023-04-18T16:00:38.000+01:00",
+         "updated_at" : "2023-05-04T14:13:14.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
       },
       {
@@ -30137,6 +29940,34 @@
          "title" : "Office for Students",
          "updated_at" : "2018-03-14T10:49:48.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-students"
+      },
+      {
+         "analytics_identifier" : "OT1393",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "IEC",
+            "closed_at" : null,
+            "content_id" : "8fd48e74-c4af-448b-b5b0-35288d4150b8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Office for the Independent Examiner of Complaints",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "office-for-the-independent-examiner-of-complaints"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-the-independent-examiner-of-complaints",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for the Independent Examiner of Complaints",
+         "updated_at" : "2023-05-18T16:37:50.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-the-independent-examiner-of-complaints"
       },
       {
          "analytics_identifier" : "OT1340",
@@ -30216,8 +30047,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
          "superseded_organisations" : [
@@ -30269,22 +30100,22 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of Manpower Economics",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "office-of-manpower-economics"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/office-of-manpower-economics",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Manpower Economics",
-         "updated_at" : "2020-02-10T15:18:09.000+00:00",
+         "updated_at" : "2023-05-23T09:04:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
       },
       {
@@ -30582,7 +30413,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of the Regulator of Community Interest Companies",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "office-of-the-regulator-of-community-interest-companies"
          },
@@ -30590,14 +30421,14 @@
          "id" : "https://www.gov.uk/api/organisations/office-of-the-regulator-of-community-interest-companies",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Regulator of Community Interest Companies",
-         "updated_at" : "2016-07-25T15:21:48.000+01:00",
+         "updated_at" : "2023-05-04T15:57:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies"
       },
       {
@@ -31103,6 +30934,34 @@
          "title" : "Pension Protection Fund",
          "updated_at" : "2018-12-24T12:07:05.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/pension-protection-fund"
+      },
+      {
+         "analytics_identifier" : "OT1392",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "24c39fe5-db85-4173-acbc-2063a19bc614",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Pension, Compensation and \r\nWelfare Support \r\nfor Armed Forces and Veterans",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "pension-compensation-and-welfare-support-for-armed-forces-and-veterans"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/pension-compensation-and-welfare-support-for-armed-forces-and-veterans",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Pension, Compensation and Welfare Support for Armed Forces and Veterans",
+         "updated_at" : "2023-05-12T12:58:24.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/pension-compensation-and-welfare-support-for-armed-forces-and-veterans"
       },
       {
          "analytics_identifier" : "OT1289",
@@ -35040,7 +34899,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Health Security Agency",
-         "updated_at" : "2021-04-01T08:18:02.000+01:00",
+         "updated_at" : "2023-05-17T09:32:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
       },
       {
@@ -35101,7 +34960,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Hydrographic Office",
-         "updated_at" : "2023-04-18T08:28:34.000+01:00",
+         "updated_at" : "2023-05-19T11:35:33.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
