@@ -1686,7 +1686,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Building Digital UK",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "building-digital-uk"
          },
@@ -1701,7 +1701,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Building Digital UK",
-         "updated_at" : "2023-02-14T14:29:00.000+00:00",
+         "updated_at" : "2023-07-25T11:42:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -7267,7 +7267,7 @@
             }
          ],
          "title" : "Driving Standards Agency",
-         "updated_at" : "2020-09-23T10:02:12.000+01:00",
+         "updated_at" : "2023-07-12T13:16:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driving-standards-agency"
       },
       {
@@ -16738,7 +16738,7 @@
             }
          ],
          "title" : "Vehicle and Operator Services Agency",
-         "updated_at" : "2019-01-03T22:58:55.000+00:00",
+         "updated_at" : "2023-07-12T13:17:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/vehicle-and-operator-services-agency"
       },
       {
@@ -17601,7 +17601,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Radioactive Waste Management",
-         "updated_at" : "2023-06-09T14:59:52.000+01:00",
+         "updated_at" : "2023-07-30T13:08:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
       },
       {
@@ -17713,7 +17713,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Companies House ",
-         "updated_at" : "2023-04-18T14:00:45.000+01:00",
+         "updated_at" : "2023-07-17T13:11:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/companies-house"
       },
       {
@@ -19105,7 +19105,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2023-04-18T09:57:06.000+01:00",
+         "updated_at" : "2023-07-11T11:24:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -19359,7 +19359,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2023-05-03T08:44:44.000+01:00",
+         "updated_at" : "2023-07-17T13:19:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -19450,10 +19450,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/north-york-moors-national-park"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
-               "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/agricultural-wages-committee-x13",
                "web_url" : "https://www.gov.uk/government/organisations/agricultural-wages-committee-x13"
             },
@@ -19536,6 +19532,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/flood-re",
                "web_url" : "https://www.gov.uk/government/organisations/flood-re"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
+               "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
             }
          ],
          "details" : {
@@ -20746,7 +20750,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Licensing Agency",
-         "updated_at" : "2019-02-19T16:47:33.000+00:00",
+         "updated_at" : "2023-07-27T11:43:17.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
       },
       {
@@ -20783,7 +20787,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2023-02-27T16:28:22.000+00:00",
+         "updated_at" : "2023-07-05T13:11:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -22458,7 +22462,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Actuary's Department",
-         "updated_at" : "2020-04-30T10:35:05.000+01:00",
+         "updated_at" : "2023-07-24T16:53:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-actuarys-department"
       },
       {
@@ -23398,7 +23402,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Social Research Profession",
-         "updated_at" : "2018-03-27T14:30:25.000+01:00",
+         "updated_at" : "2023-07-13T09:55:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-social-research-profession"
       },
       {
@@ -23524,10 +23528,10 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Great British Nuclear",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "great-british-nuclear"
          },
-         "format" : "Other",
+         "format" : "Executive non-departmental public body",
          "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
          "parent_organisations" : [
             {
@@ -23538,7 +23542,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Great British Nuclear",
-         "updated_at" : "2023-05-25T12:53:00.000+01:00",
+         "updated_at" : "2023-07-18T07:53:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
       },
       {
@@ -23652,42 +23656,6 @@
          "title" : "Health Research Authority",
          "updated_at" : "2015-08-21T13:45:58.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/health-research-authority"
-      },
-      {
-         "analytics_identifier" : "OT559",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "Healthcare UK",
-            "closed_at" : null,
-            "content_id" : "036eacbb-80b5-471d-8793-293b7cdc68e2",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Healthcare UK",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "healthcare-uk"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/nhs-england",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-england"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
-               "web_url" : "https://www.gov.uk/government/organisations/nhs-improvement"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Healthcare UK",
-         "updated_at" : "2020-03-24T14:32:30.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
       },
       {
          "analytics_identifier" : "PB460",
@@ -24013,7 +23981,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "HM Courts & Tribunals Service",
-         "updated_at" : "2018-03-19T17:45:22.000+00:00",
+         "updated_at" : "2023-07-05T11:23:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service"
       },
       {
@@ -29838,6 +29806,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-for-life-sciences"
       },
       {
+         "analytics_identifier" : "OT1396",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "Oflog",
+            "closed_at" : null,
+            "content_id" : "1cd8b819-7d84-4aed-a724-f642dd497000",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Office for Local Government",
+            "organisation_brand_colour_class_name" : "department-for-levelling-up-housing-and-communities",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-local-government"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-local-government",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for Local Government",
+         "updated_at" : "2023-07-04T14:00:54.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-local-government"
+      },
+      {
          "analytics_identifier" : "D303",
          "child_organisations" : [
             {
@@ -30217,7 +30213,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Advocate General for Scotland",
-         "updated_at" : "2023-06-15T13:54:31.000+01:00",
+         "updated_at" : "2023-07-10T10:58:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland"
       },
       {
@@ -33079,12 +33075,7 @@
       },
       {
          "analytics_identifier" : "PB1193",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
-               "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : "SMC",
             "closed_at" : null,
@@ -33509,7 +33500,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Subsidy Advice Unit",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "subsidy-advice-unit"
          },
@@ -33524,7 +33515,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Subsidy Advice Unit",
-         "updated_at" : "2022-12-13T12:08:18.000+00:00",
+         "updated_at" : "2023-07-24T15:00:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/subsidy-advice-unit"
       },
       {
@@ -33955,7 +33946,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "The Insolvency \r\nService",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "insolvency-service"
          },
@@ -34488,8 +34479,8 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Trade Remedies Authority",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
-            "organisation_logo_type_class_name" : "dit",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "trade-remedies-authority"
          },
          "format" : "Executive non-departmental public body",
@@ -34536,7 +34527,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Traffic Commissioners for Great Britain",
-         "updated_at" : "2022-08-03T11:28:05.000+01:00",
+         "updated_at" : "2023-07-20T16:34:58.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/traffic-commissioners"
       },
       {
@@ -34846,8 +34837,8 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Defence &\r\nSecurity Exports",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
-            "organisation_logo_type_class_name" : "dit",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "uk-defence-and-security-exports"
          },
          "format" : "Sub organisation",
@@ -34866,7 +34857,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Defence and Security Exports",
-         "updated_at" : "2021-09-14T08:52:30.000+01:00",
+         "updated_at" : "2023-07-27T13:29:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
       },
       {
@@ -34977,7 +34968,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Health Security Agency",
-         "updated_at" : "2023-06-26T14:49:46.000+01:00",
+         "updated_at" : "2023-07-11T16:47:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
       },
       {
@@ -35005,7 +34996,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Holocaust Memorial Foundation",
-         "updated_at" : "2021-10-13T15:21:40.000+01:00",
+         "updated_at" : "2023-07-03T17:51:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-holocaust-memorial-foundation"
       },
       {
@@ -35038,7 +35029,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Hydrographic Office",
-         "updated_at" : "2023-05-19T11:35:33.000+01:00",
+         "updated_at" : "2023-07-13T09:14:02.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
@@ -35560,7 +35551,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Valuation Office Agency",
-         "updated_at" : "2017-12-13T13:33:18.000+00:00",
+         "updated_at" : "2023-07-24T13:33:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
       },
       {
