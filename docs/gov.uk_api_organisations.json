@@ -873,7 +873,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/arts-council-of-wales",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/welsh-government",
+               "web_url" : "https://www.gov.uk/government/organisations/welsh-government"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -882,7 +887,7 @@
             }
          ],
          "title" : "Arts Council of Wales",
-         "updated_at" : "2020-08-03T10:29:16.000+01:00",
+         "updated_at" : "2023-08-16T16:31:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/arts-council-of-wales"
       },
       {
@@ -1462,7 +1467,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "British \r\nHallmarking \r\nCouncil ",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "british-hallmarking-council"
          },
@@ -2886,14 +2891,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/civil-service-resourcing"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
+               "id" : "https://www.gov.uk/api/organisations/government-people-group",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Civil Service Fast Stream",
-         "updated_at" : "2016-09-27T17:15:25.000+01:00",
+         "updated_at" : "2023-08-18T16:22:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-fast-stream"
       },
       {
@@ -15613,6 +15618,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/speke-garston-education-action-zone"
       },
       {
+         "analytics_identifier" : "OT1086",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-partnerships-international",
+               "web_url" : "https://www.gov.uk/government/organisations/government-partnerships-international"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "SU",
+            "closed_at" : "2020-09-01T00:00:00.000+01:00",
+            "content_id" : "b6bb0230-0cb0-4bd3-9465-a0f69b70f405",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Stabilisation Unit",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "stabilisation-unit"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/stabilisation-unit",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/foreign-commonwealth-development-office",
+               "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+            }
+         ],
+         "title" : "Stabilisation Unit",
+         "updated_at" : "2023-08-17T14:27:19.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/stabilisation-unit"
+      },
+      {
          "analytics_identifier" : "OT751",
          "child_organisations" : [],
          "details" : {
@@ -17340,7 +17378,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Coal Authority",
-         "updated_at" : "2022-06-30T10:58:59.000+01:00",
+         "updated_at" : "2023-08-09T11:38:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
       },
       {
@@ -17601,7 +17639,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Radioactive Waste Management",
-         "updated_at" : "2023-07-30T13:08:23.000+01:00",
+         "updated_at" : "2023-08-23T15:03:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
       },
       {
@@ -17806,7 +17844,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2023-04-25T08:47:24.000+01:00",
+         "updated_at" : "2023-08-14T17:03:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -19105,7 +19143,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2023-07-11T11:24:16.000+01:00",
+         "updated_at" : "2023-08-02T10:11:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -19536,10 +19574,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
                "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
-               "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
             }
          ],
          "details" : {
@@ -19564,7 +19598,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Environment, Food & Rural Affairs",
-         "updated_at" : "2021-11-26T10:54:49.000+00:00",
+         "updated_at" : "2023-08-25T13:43:51.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
       },
       {
@@ -20014,7 +20048,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Transport",
-         "updated_at" : "2022-01-11T11:45:23.000+00:00",
+         "updated_at" : "2023-08-08T14:39:04.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
       },
       {
@@ -20348,10 +20382,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/health-education-england",
                "web_url" : "https://www.gov.uk/government/organisations/health-education-england"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-life-sciences",
@@ -20750,7 +20780,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Licensing Agency",
-         "updated_at" : "2023-07-27T11:43:17.000+01:00",
+         "updated_at" : "2023-08-16T11:17:43.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
       },
       {
@@ -22107,6 +22137,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/preventing-sexual-violence-in-conflict-initiative",
                "web_url" : "https://www.gov.uk/government/organisations/preventing-sexual-violence-in-conflict-initiative"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-government-communications-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-government-communications-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-government-communications-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-government-communications-centre"
             }
          ],
          "details" : {
@@ -22131,11 +22169,15 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-international-development",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-international-development"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/stabilisation-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/stabilisation-unit"
             }
          ],
          "superseding_organisations" : [],
          "title" : "Foreign, Commonwealth & Development Office",
-         "updated_at" : "2022-04-05T13:36:54.000+01:00",
+         "updated_at" : "2023-08-24T10:40:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
       },
       {
@@ -22228,7 +22270,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forestry Commission",
-         "updated_at" : "2023-02-07T11:27:38.000+00:00",
+         "updated_at" : "2023-08-14T11:42:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/forestry-commission"
       },
       {
@@ -22703,7 +22745,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Digital Service",
-         "updated_at" : "2023-04-19T16:15:07.000+01:00",
+         "updated_at" : "2023-08-08T17:10:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
       },
       {
@@ -23131,6 +23173,51 @@
          "web_url" : "https://www.gov.uk/government/organisations/government-partnerships-international"
       },
       {
+         "analytics_identifier" : "D1397",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service-fast-stream",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service-fast-stream"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-skills-and-curriculum-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/government-skills-and-curriculum-unit"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-recruitment-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-recruitment-service"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "GPG",
+            "closed_at" : null,
+            "content_id" : "5be796f1-9b02-484f-bbd4-dc2cf8003014",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Government\r\nPeople Group",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-people-group"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/government-people-group",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Government People Group",
+         "updated_at" : "2023-08-21T11:38:52.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
+      },
+      {
          "analytics_identifier" : "OT1045",
          "child_organisations" : [],
          "details" : {
@@ -23269,8 +23356,8 @@
          "id" : "https://www.gov.uk/api/organisations/government-recruitment-service",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
+               "id" : "https://www.gov.uk/api/organisations/government-people-group",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
             }
          ],
          "superseded_organisations" : [
@@ -23281,7 +23368,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government Recruitment Service",
-         "updated_at" : "2020-09-23T10:27:05.000+01:00",
+         "updated_at" : "2023-08-18T16:23:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-recruitment-service"
       },
       {
@@ -23367,14 +23454,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
+               "id" : "https://www.gov.uk/api/organisations/government-people-group",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Skills and Curriculum Unit",
-         "updated_at" : "2023-04-05T15:54:38.000+01:00",
+         "updated_at" : "2023-08-18T16:22:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-skills-and-curriculum-unit"
       },
       {
@@ -23486,7 +23573,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Veterinary Services ",
-         "updated_at" : "2017-03-10T15:30:36.000+00:00",
+         "updated_at" : "2023-08-16T11:17:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-veterinary-services"
       },
       {
@@ -24022,17 +24109,26 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "HM Government Communications Centre",
-            "organisation_brand_colour_class_name" : "foreign-commonwealth-office",
+            "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "hm-government-communications-centre"
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/hm-government-communications-centre",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/foreign-commonwealth-development-office",
+               "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/foreign-commonwealth-development-office",
+               "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Government Communications Centre",
-         "updated_at" : "2022-10-06T13:50:54.000+01:00",
+         "updated_at" : "2023-08-24T09:41:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-government-communications-centre"
       },
       {
@@ -26725,7 +26821,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Marine Management Organisation",
-         "updated_at" : "2017-02-15T12:04:27.000+00:00",
+         "updated_at" : "2023-08-22T10:14:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/marine-management-organisation"
       },
       {
@@ -29754,9 +29850,9 @@
             "content_id" : "a3a3a8c8-18a2-4fb2-aa4c-31e06201e69b",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Office for Investment",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
-            "organisation_logo_type_class_name" : "custom",
+            "logo_formatted_name" : "Office for \r\nInvestment",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-investment"
          },
          "format" : "Sub organisation",
@@ -29770,7 +29866,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Investment",
-         "updated_at" : "2023-03-17T10:21:31.000+00:00",
+         "updated_at" : "2023-08-10T12:08:17.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
       },
       {
@@ -30254,7 +30350,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of the Immigration Services Commissioner",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "office-of-the-immigration-services-commissioner"
          },
@@ -31086,7 +31182,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Planning Inspectorate",
-         "updated_at" : "2023-02-14T13:25:03.000+00:00",
+         "updated_at" : "2023-08-01T14:47:10.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/planning-inspectorate"
       },
       {
@@ -31977,7 +32073,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Regulatory Policy Committee",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "regulatory-policy-committee"
          },
@@ -32518,7 +32614,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Science Advisory Committees",
-            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_brand_colour_class_name" : "department-of-health",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "science-advisory-committees"
          },
@@ -32526,14 +32622,19 @@
          "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+               "id" : "https://www.gov.uk/api/organisations/food-standards-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/general-advisory-committee-on-science",
+               "web_url" : "https://www.gov.uk/government/organisations/general-advisory-committee-on-science"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Science Advisory Committees",
-         "updated_at" : "2023-06-13T11:11:48.000+01:00",
+         "updated_at" : "2023-08-21T18:23:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
       },
       {
@@ -33295,7 +33396,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/sports-council-for-wales",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/welsh-government",
+               "web_url" : "https://www.gov.uk/government/organisations/welsh-government"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -33304,7 +33410,7 @@
             }
          ],
          "title" : "Sports Council for Wales",
-         "updated_at" : "2015-02-26T14:24:25.000+00:00",
+         "updated_at" : "2023-08-16T16:31:08.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/sports-council-for-wales"
       },
       {
@@ -33334,34 +33440,6 @@
          "title" : "Sports Grounds Safety Authority",
          "updated_at" : "2023-02-14T09:57:50.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/sports-grounds-safety-authority"
-      },
-      {
-         "analytics_identifier" : "OT1086",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-partnerships-international",
-               "web_url" : "https://www.gov.uk/government/organisations/government-partnerships-international"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "SU",
-            "closed_at" : null,
-            "content_id" : "b6bb0230-0cb0-4bd3-9465-a0f69b70f405",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Stabilisation Unit",
-            "organisation_brand_colour_class_name" : "department-of-health",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "stabilisation-unit"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/stabilisation-unit",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Stabilisation Unit",
-         "updated_at" : "2015-05-26T14:57:45.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/stabilisation-unit"
       },
       {
          "analytics_identifier" : "EA243",
@@ -34857,7 +34935,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Defence and Security Exports",
-         "updated_at" : "2023-07-27T13:29:45.000+01:00",
+         "updated_at" : "2023-08-21T15:59:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-and-security-exports"
       },
       {
@@ -35247,7 +35325,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2022-11-30T12:08:49.000+00:00",
+         "updated_at" : "2023-08-14T16:41:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
@@ -35551,7 +35629,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Valuation Office Agency",
-         "updated_at" : "2023-07-24T13:33:24.000+01:00",
+         "updated_at" : "2023-08-01T11:27:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
       },
       {
@@ -35934,12 +36012,16 @@
                "web_url" : "https://www.gov.uk/government/organisations/careers-wales"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/planning-inspectorate",
-               "web_url" : "https://www.gov.uk/government/organisations/planning-inspectorate"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/animal-and-plant-health-agency",
                "web_url" : "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-national-screening-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
             }
          ],
          "details" : {
@@ -36000,7 +36082,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Welsh Government",
-         "updated_at" : "2018-09-12T14:03:45.000+01:00",
+         "updated_at" : "2023-08-10T17:09:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/welsh-government"
       },
       {
