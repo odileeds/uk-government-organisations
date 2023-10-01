@@ -1706,7 +1706,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Building Digital UK",
-         "updated_at" : "2023-07-25T11:42:45.000+01:00",
+         "updated_at" : "2023-09-08T13:51:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -17751,7 +17751,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Companies House ",
-         "updated_at" : "2023-07-17T13:11:12.000+01:00",
+         "updated_at" : "2023-09-04T15:59:31.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/companies-house"
       },
       {
@@ -17844,7 +17844,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2023-08-14T17:03:07.000+01:00",
+         "updated_at" : "2023-09-18T11:02:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18497,34 +18497,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/defence-and-security-media-advisory-committee"
       },
       {
-         "analytics_identifier" : "EA1113",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "DECA",
-            "closed_at" : null,
-            "content_id" : "8fd6a11f-338c-4928-9a17-4f408223c8f6",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Defence Electronics &\r\n Components Agency",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "mod",
-            "slug" : "defence-electronics-and-components-agency"
-         },
-         "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/defence-electronics-and-components-agency",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Defence Electronics and Components Agency",
-         "updated_at" : "2020-03-24T14:32:01.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/defence-electronics-and-components-agency"
-      },
-      {
          "analytics_identifier" : "OT495",
          "child_organisations" : [],
          "details" : {
@@ -18708,7 +18680,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2022-07-14T16:26:27.000+01:00",
+         "updated_at" : "2023-09-08T14:59:41.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -19304,7 +19276,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Education",
-         "updated_at" : "2023-03-23T16:46:31.000+00:00",
+         "updated_at" : "2023-09-18T15:09:17.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
       },
       {
@@ -19820,6 +19792,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-shared-business-services-ltd",
                "web_url" : "https://www.gov.uk/government/organisations/uk-shared-business-services-ltd"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/british-technology-investments-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/british-technology-investments-ltd"
             }
          ],
          "details" : {
@@ -19840,11 +19816,15 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-sport",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
             }
          ],
          "superseding_organisations" : [],
          "title" : "Department for Science, Innovation and Technology",
-         "updated_at" : "2023-04-28T13:31:53.000+01:00",
+         "updated_at" : "2023-09-18T15:57:25.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       {
@@ -20938,7 +20918,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Education and Skills Funding Agency",
-         "updated_at" : "2019-11-25T10:52:18.000+00:00",
+         "updated_at" : "2023-09-28T08:48:31.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
       },
       {
@@ -21279,11 +21259,16 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/evaluation-task-force",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Evaluation Task Force",
-         "updated_at" : "2022-05-23T14:32:18.000+01:00",
+         "updated_at" : "2023-09-20T15:11:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/evaluation-task-force"
       },
       {
@@ -22177,7 +22162,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Foreign, Commonwealth & Development Office",
-         "updated_at" : "2023-08-24T10:40:55.000+01:00",
+         "updated_at" : "2023-09-11T19:26:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
       },
       {
@@ -22205,7 +22190,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forensic Science Regulator",
-         "updated_at" : "2023-01-05T12:19:27.000+00:00",
+         "updated_at" : "2023-09-01T12:30:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/forensic-science-regulator"
       },
       {
@@ -25050,6 +25035,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/imperial-war-museum"
       },
       {
+         "analytics_identifier" : "OT1399",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "i.AI",
+            "closed_at" : null,
+            "content_id" : "29dbc333-e637-4fd5-8350-6fd7dc62def0",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Incubator for \r\nAutomation and Innovation ",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "incubator-for-automation-and-innovation"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Incubator for Automation and Innovation",
+         "updated_at" : "2023-09-25T15:29:55.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
+      },
+      {
          "analytics_identifier" : "OT1358",
          "child_organisations" : [],
          "details" : {
@@ -26457,7 +26470,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Legal Aid Agency",
-         "updated_at" : "2022-03-21T14:29:23.000+00:00",
+         "updated_at" : "2023-09-22T15:06:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/legal-aid-agency"
       },
       {
@@ -27527,7 +27540,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Justice",
-         "updated_at" : "2021-12-08T09:38:31.000+00:00",
+         "updated_at" : "2023-09-15T12:17:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
       },
       {
@@ -29549,7 +29562,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2023-05-22T11:07:55.000+01:00",
+         "updated_at" : "2023-09-01T08:41:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -32909,7 +32922,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Senior Courts Costs Office",
-         "updated_at" : "2015-06-12T10:56:07.000+01:00",
+         "updated_at" : "2023-09-05T17:13:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/senior-courts-costs-office"
       },
       {
@@ -33410,7 +33423,7 @@
             }
          ],
          "title" : "Sports Council for Wales",
-         "updated_at" : "2023-08-16T16:31:08.000+01:00",
+         "updated_at" : "2023-09-14T17:17:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/sports-council-for-wales"
       },
       {
@@ -33881,7 +33894,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2023-04-21T09:40:39.000+01:00",
+         "updated_at" : "2023-09-11T11:48:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -35046,7 +35059,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Health Security Agency",
-         "updated_at" : "2023-07-11T16:47:42.000+01:00",
+         "updated_at" : "2023-09-14T16:36:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
       },
       {
@@ -35109,6 +35122,34 @@
          "title" : "UK Hydrographic Office",
          "updated_at" : "2023-07-13T09:14:02.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
+      },
+      {
+         "analytics_identifier" : "PB1398",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "UKIB",
+            "closed_at" : null,
+            "content_id" : "eb93d331-7726-4ce7-9409-c47d3603ffbe",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "UK Infrastructure Bank",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "uk-infrastructure-bank"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/uk-infrastructure-bank",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "UK Infrastructure Bank",
+         "updated_at" : "2023-09-07T13:26:09.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-infrastructure-bank"
       },
       {
          "analytics_identifier" : "OT1330",
@@ -36250,7 +36291,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Youth Custody Service",
-         "updated_at" : "2022-03-04T11:07:55.000+00:00",
+         "updated_at" : "2023-09-13T15:07:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/youth-custody-service"
       },
       {
