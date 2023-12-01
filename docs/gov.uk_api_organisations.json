@@ -2730,6 +2730,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-property-function",
                "web_url" : "https://www.gov.uk/government/organisations/government-property-function"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/project-delivery-function",
+               "web_url" : "https://www.gov.uk/government/organisations/project-delivery-function"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-people-group",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
             }
          ],
          "details" : {
@@ -2872,56 +2880,6 @@
          "title" : "Civil Service Group",
          "updated_at" : "2019-05-14T14:11:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-group"
-      },
-      {
-         "analytics_identifier" : "OT1304",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-recruitment-service",
-               "web_url" : "https://www.gov.uk/government/organisations/government-recruitment-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-fast-stream",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-fast-stream"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-skills-and-curriculum-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/government-skills-and-curriculum-unit"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "CSHR",
-            "closed_at" : null,
-            "content_id" : "b4a20347-0636-4aa0-99f1-d5babe59fe85",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Civil Service HR",
-            "organisation_brand_colour_class_name" : "civil-service",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "civil-service-hr"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-human-resources-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-human-resources-profession"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Civil Service HR",
-         "updated_at" : "2021-01-11T17:47:00.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
       },
       {
          "analytics_identifier" : "OT1025",
@@ -4710,6 +4668,48 @@
          "title" : "Civil Service Fast Track Apprenticeship",
          "updated_at" : "2020-11-30T11:21:57.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-fast-track-apprenticeship"
+      },
+      {
+         "analytics_identifier" : "OT1304",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CSHR",
+            "closed_at" : "2023-11-16T00:00:00.000+00:00",
+            "content_id" : "b4a20347-0636-4aa0-99f1-d5babe59fe85",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Civil Service HR",
+            "organisation_brand_colour_class_name" : "civil-service",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "civil-service-hr"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service-human-resources-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service-human-resources-profession"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-people-group",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
+            }
+         ],
+         "title" : "Civil Service HR",
+         "updated_at" : "2023-11-16T10:24:30.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
       },
       {
          "analytics_identifier" : "OT1055",
@@ -9560,6 +9560,39 @@
          "title" : "Identity and Passport Service",
          "updated_at" : "2014-10-15T15:38:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/identity-and-passport-service"
+      },
+      {
+         "analytics_identifier" : "OT1399",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "i.AI",
+            "closed_at" : "2023-11-20T00:00:00.000+00:00",
+            "content_id" : "29dbc333-e637-4fd5-8350-6fd7dc62def0",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Incubator for \r\nAutomation and Innovation ",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "incubator-for-automation-and-innovation"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
+               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
+            }
+         ],
+         "title" : "Incubator for Automation and Innovation",
+         "updated_at" : "2023-11-20T12:23:14.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
       },
       {
          "analytics_identifier" : "PB1274",
@@ -14923,6 +14956,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/royal-trustees-office"
       },
       {
+         "analytics_identifier" : "OT1060",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "RDPE Network",
+            "closed_at" : null,
+            "content_id" : "4d269929-de06-4597-a25e-811969d0e797",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "RDPE Network",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "rural-development-programme-for-england-network"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/rural-development-programme-for-england-network",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Rural Development Programme for England Network",
+         "updated_at" : "2023-11-23T19:10:54.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/rural-development-programme-for-england-network"
+      },
+      {
          "analytics_identifier" : "OT938",
          "child_organisations" : [],
          "details" : {
@@ -17444,7 +17505,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Coal Authority",
-         "updated_at" : "2023-08-09T11:38:18.000+01:00",
+         "updated_at" : "2023-11-16T09:15:05.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
       },
       {
@@ -17733,7 +17794,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Standards in Public Life",
-         "updated_at" : "2020-05-27T15:02:47.000+01:00",
+         "updated_at" : "2023-11-01T13:43:39.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
@@ -18185,7 +18246,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Court of Appeal Civil Division",
-         "updated_at" : "2016-11-16T11:59:23.000+00:00",
+         "updated_at" : "2023-11-24T14:45:01.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/court-of-appeal-civil-division"
       },
       {
@@ -18620,7 +18681,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Infrastructure Organisation",
-         "updated_at" : "2017-08-22T17:27:22.000+01:00",
+         "updated_at" : "2023-11-23T10:31:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-infrastructure-organisation"
       },
       {
@@ -19890,7 +19951,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Science, Innovation and Technology",
-         "updated_at" : "2023-09-18T15:57:25.000+01:00",
+         "updated_at" : "2023-11-08T10:17:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       {
@@ -20625,12 +20686,7 @@
       },
       {
          "analytics_identifier" : "OT1309",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
-               "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -22027,7 +22083,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Flood Forecasting Centre",
-         "updated_at" : "2021-09-29T13:24:51.000+01:00",
+         "updated_at" : "2023-11-23T14:45:11.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
       },
       {
@@ -22612,7 +22668,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service-procurement-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service-procurement-profession"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Government Commercial Function",
          "updated_at" : "2015-03-23T17:11:26.000+00:00",
@@ -24533,6 +24594,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-tax-simplification",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-tax-simplification"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-infrastructure-bank",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-infrastructure-bank"
             }
          ],
          "details" : {
@@ -24552,7 +24617,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Treasury",
-         "updated_at" : "2021-12-08T10:25:43.000+00:00",
+         "updated_at" : "2023-11-22T14:01:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
       },
       {
@@ -25073,32 +25138,41 @@
          "web_url" : "https://www.gov.uk/government/organisations/imperial-war-museum"
       },
       {
-         "analytics_identifier" : "OT1399",
+         "analytics_identifier" : "OT1402",
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "i.AI",
             "closed_at" : null,
-            "content_id" : "29dbc333-e637-4fd5-8350-6fd7dc62def0",
+            "content_id" : "3048a1bf-2a36-41f5-adbe-9b5d21ca49c3",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Incubator for \r\nAutomation and Innovation ",
+            "logo_formatted_name" : "Incubator for\r\nArtificial Intelligence",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "incubator-for-automation-and-innovation"
+            "slug" : "incubator-for-artificial-intelligence"
          },
          "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
+         "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/cabinet-office",
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/prime-ministers-office-10-downing-street",
+               "web_url" : "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
+            }
+         ],
          "superseding_organisations" : [],
-         "title" : "Incubator for Automation and Innovation",
-         "updated_at" : "2023-09-25T15:29:55.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
+         "title" : "Incubator for Artificial Intelligence",
+         "updated_at" : "2023-11-20T11:59:24.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
       },
       {
          "analytics_identifier" : "OT1358",
@@ -28342,7 +28416,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Security Technology and Innovation Exchange",
-         "updated_at" : "2023-10-31T10:55:01.000+00:00",
+         "updated_at" : "2023-11-03T10:55:48.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-security-technology-and-innovation-exchange"
       },
       {
@@ -29341,7 +29415,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northern Ireland Office",
-         "updated_at" : "2022-12-20T14:36:16.000+00:00",
+         "updated_at" : "2023-11-30T11:54:10.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-office"
       },
       {
@@ -32124,7 +32198,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Regulator of Social Housing",
-         "updated_at" : "2020-10-16T12:28:06.000+01:00",
+         "updated_at" : "2023-11-14T10:55:45.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
       },
       {
@@ -32520,34 +32594,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/royal-parks"
       },
       {
-         "analytics_identifier" : "OT1060",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "RDPE Network",
-            "closed_at" : null,
-            "content_id" : "4d269929-de06-4597-a25e-811969d0e797",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "RDPE Network",
-            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "rural-development-programme-for-england-network"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/rural-development-programme-for-england-network",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Rural Development Programme for England Network",
-         "updated_at" : "2019-02-26T12:58:50.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/rural-development-programme-for-england-network"
-      },
-      {
          "analytics_identifier" : "EA58",
          "child_organisations" : [
             {
@@ -32889,7 +32935,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Security Industry Authority",
-         "updated_at" : "2023-06-28T17:13:38.000+01:00",
+         "updated_at" : "2023-11-17T14:55:33.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/security-industry-authority"
       },
       {
@@ -33001,7 +33047,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Senior Salaries Review Body ",
-         "updated_at" : "2022-01-26T16:16:27.000+00:00",
+         "updated_at" : "2023-11-14T14:13:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/review-body-on-senior-salaries"
       },
       {
@@ -34224,6 +34270,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/the-national-lottery-community-fund"
       },
       {
+         "analytics_identifier" : "OT1401",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NSO",
+            "closed_at" : null,
+            "content_id" : "72f5f64b-0a18-41e0-84a3-726cabad5994",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "The National Shipbuilding Office",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-national-shipbuilding-office"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/the-national-shipbuilding-office",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "The National Shipbuilding Office",
+         "updated_at" : "2023-11-09T09:59:54.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-national-shipbuilding-office"
+      },
+      {
          "analytics_identifier" : "PB401",
          "child_organisations" : [],
          "details" : {
@@ -35171,7 +35240,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Hydrographic Office",
-         "updated_at" : "2023-07-13T09:14:02.000+01:00",
+         "updated_at" : "2023-11-22T16:57:51.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
@@ -35721,7 +35790,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Valuation Office Agency",
-         "updated_at" : "2023-08-01T11:27:45.000+01:00",
+         "updated_at" : "2023-11-10T12:14:38.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
       },
       {
