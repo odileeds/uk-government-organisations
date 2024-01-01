@@ -9623,6 +9623,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/independent-commission-on-civil-aviation-noise"
       },
       {
+         "analytics_identifier" : "PB1149",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2016-03-11T00:00:00.000+00:00",
+            "content_id" : "e73baa65-73ec-4809-8762-11af3e1629f4",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Independent Commission on   \r\nFreedom of Information  ",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "independent-commission-on-freedom-of-information"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/independent-commission-on-freedom-of-information",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Independent Commission on Freedom of Information",
+         "updated_at" : "2023-12-15T11:53:51.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/independent-commission-on-freedom-of-information"
+      },
+      {
          "analytics_identifier" : "PB349",
          "child_organisations" : [],
          "details" : {
@@ -17794,7 +17817,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Standards in Public Life",
-         "updated_at" : "2023-11-01T13:43:39.000+00:00",
+         "updated_at" : "2023-12-12T16:27:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
@@ -18716,12 +18739,12 @@
          "analytics_identifier" : "PB396",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "DNSC",
+            "abbreviation" : "DNSEC",
             "closed_at" : null,
             "content_id" : "8cf971c3-7fb2-4c14-b7e6-ba8119a13705",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Defence Nuclear \r\nSafety Committee",
+            "logo_formatted_name" : "Defence Nuclear \r\nSafety Expert Committee",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "mod",
             "slug" : "defence-nuclear-safety-committee"
@@ -18736,8 +18759,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "Defence Nuclear Safety Committee",
-         "updated_at" : "2017-08-22T17:27:53.000+01:00",
+         "title" : "Defence Nuclear Safety Expert Committee",
+         "updated_at" : "2023-12-18T15:28:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-safety-committee"
       },
       {
@@ -19496,7 +19519,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2023-07-17T13:19:30.000+01:00",
+         "updated_at" : "2023-12-04T11:15:17.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -20891,7 +20914,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2023-07-05T13:11:42.000+01:00",
+         "updated_at" : "2023-12-26T21:15:18.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -23829,6 +23852,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/health-research-authority"
       },
       {
+         "analytics_identifier" : "PB1405",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "HSSIB",
+            "closed_at" : null,
+            "content_id" : "62993506-7291-456b-89d3-487670679d8c",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Health Services Safety Investigations Body",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "health-services-safety-investigations-body"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/health-services-safety-investigations-body",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Health Services Safety Investigations Body",
+         "updated_at" : "2023-12-14T17:00:03.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/health-services-safety-investigations-body"
+      },
+      {
          "analytics_identifier" : "PB460",
          "child_organisations" : [],
          "details" : {
@@ -25373,29 +25424,6 @@
          "title" : "Independent Commission for Aid Impact",
          "updated_at" : "2020-09-02T06:04:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-commission-for-aid-impact"
-      },
-      {
-         "analytics_identifier" : "PB1149",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "e73baa65-73ec-4809-8762-11af3e1629f4",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Independent Commission on   \r\nFreedom of Information  ",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "independent-commission-on-freedom-of-information"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/independent-commission-on-freedom-of-information",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Independent Commission on Freedom of Information",
-         "updated_at" : "2015-07-17T14:12:42.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/independent-commission-on-freedom-of-information"
       },
       {
          "analytics_identifier" : "OT1099",
@@ -28216,7 +28244,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Museum of the Royal Navy",
-         "updated_at" : "2014-10-15T15:36:01.000+01:00",
+         "updated_at" : "2023-12-20T12:01:30.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/royal-naval-museum"
       },
       {
@@ -28786,7 +28814,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "NHS Pay Review Body",
-         "updated_at" : "2022-01-26T16:14:36.000+00:00",
+         "updated_at" : "2023-12-20T13:53:42.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/nhs-pay-review-body"
       },
       {
@@ -30221,7 +30249,7 @@
          "analytics_identifier" : "OT1393",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "IEC",
+            "abbreviation" : "OIEC",
             "closed_at" : null,
             "content_id" : "8fd48e74-c4af-448b-b5b0-35288d4150b8",
             "govuk_closed_status" : null,
@@ -30242,7 +30270,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Independent Examiner of Complaints",
-         "updated_at" : "2023-05-18T16:37:50.000+01:00",
+         "updated_at" : "2023-12-05T15:05:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-independent-examiner-of-complaints"
       },
       {
@@ -30787,6 +30815,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales"
       },
       {
+         "analytics_identifier" : "OT1404",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OTSI",
+            "closed_at" : null,
+            "content_id" : "f875f250-3e0e-4975-8451-4d93ef3fb579",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Office of Trade \r\nSanctions Implementation",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-of-trade-sanctions-implementation"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-of-trade-sanctions-implementation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office of Trade Sanctions Implementation",
+         "updated_at" : "2023-12-11T12:00:26.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
+      },
+      {
          "analytics_identifier" : "OT328",
          "child_organisations" : [],
          "details" : {
@@ -30900,7 +30956,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofqual",
-         "updated_at" : "2021-09-01T09:03:36.000+01:00",
+         "updated_at" : "2023-12-21T11:50:47.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofqual"
       },
       {
@@ -30930,6 +30986,34 @@
          "title" : "Ofsted",
          "updated_at" : "2020-03-27T13:55:00.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofsted"
+      },
+      {
+         "analytics_identifier" : "PB1403",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OPRC",
+            "closed_at" : null,
+            "content_id" : "4f9d1cbb-ef79-48e9-af7d-0adfaabfa596",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Online Procedure Rule Committee",
+            "organisation_brand_colour_class_name" : "ministry-of-justice",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "online-procedure-rule-committee"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/online-procedure-rule-committee",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-justice",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Online Procedure Rule Committee",
+         "updated_at" : "2023-12-05T14:38:31.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/online-procedure-rule-committee"
       },
       {
          "analytics_identifier" : "CS1337",
@@ -31647,7 +31731,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Prison Service Pay Review Body",
-         "updated_at" : "2022-01-26T16:15:38.000+00:00",
+         "updated_at" : "2023-12-20T13:54:07.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/prison-services-pay-review-body"
       },
       {
@@ -32025,12 +32109,7 @@
       },
       {
          "analytics_identifier" : "OT1254",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
-               "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -32366,7 +32445,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Review Body on Doctors' and Dentists' Remuneration",
-         "updated_at" : "2022-01-26T16:13:47.000+00:00",
+         "updated_at" : "2023-12-20T13:53:11.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/review-body-on-doctors-and-dentists-remuneration"
       },
       {
@@ -33787,7 +33866,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Teaching Regulation Agency",
-         "updated_at" : "2022-06-21T08:43:00.000+01:00",
+         "updated_at" : "2023-12-14T15:24:01.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/teaching-regulation-agency"
       },
       {
@@ -35963,7 +36042,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Veterinary Medicines Directorate",
-         "updated_at" : "2023-04-05T10:31:04.000+01:00",
+         "updated_at" : "2023-12-13T16:48:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/veterinary-medicines-directorate"
       },
       {
@@ -36400,7 +36479,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "youth-custody-service"
          },
-         "format" : "Executive agency",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/youth-custody-service",
          "parent_organisations" : [
             {
@@ -36411,7 +36490,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Youth Custody Service",
-         "updated_at" : "2023-09-13T15:07:45.000+01:00",
+         "updated_at" : "2023-12-27T10:28:58.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/youth-custody-service"
       },
       {
