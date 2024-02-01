@@ -576,6 +576,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/agriculture-and-horticulture-development-board"
       },
       {
+         "analytics_identifier" : "OT1406",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "AISI",
+            "closed_at" : null,
+            "content_id" : "f1018649-b7f5-4388-af6f-bb3709c13403",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "AI Safety Institute",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "ai-safety-institute"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/ai-safety-institute",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "AI Safety Institute",
+         "updated_at" : "2024-01-17T08:16:59.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
+      },
+      {
          "analytics_identifier" : "OT248",
          "child_organisations" : [],
          "details" : {
@@ -17994,7 +18022,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2023-10-25T11:35:37.000+01:00",
+         "updated_at" : "2024-01-30T11:30:35.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18999,6 +19027,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-manpower-economics",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-trade-sanctions-implementation",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
             }
          ],
          "details" : {
@@ -19027,7 +19059,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Business and Trade",
-         "updated_at" : "2023-05-31T13:57:47.000+01:00",
+         "updated_at" : "2023-09-14T14:33:09.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       {
@@ -19519,7 +19551,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2023-12-04T11:15:17.000+00:00",
+         "updated_at" : "2024-01-17T09:12:53.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -19946,6 +19978,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/british-technology-investments-ltd",
                "web_url" : "https://www.gov.uk/government/organisations/british-technology-investments-ltd"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ai-safety-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
             }
          ],
          "details" : {
@@ -22535,7 +22571,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Geospatial\r\nCommission",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "geospatial-commission"
          },
@@ -22550,7 +22586,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Geospatial Commission",
-         "updated_at" : "2021-08-19T11:53:49.000+01:00",
+         "updated_at" : "2024-01-22T13:11:29.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
       },
       {
@@ -23243,12 +23279,16 @@
             {
                "id" : "https://www.gov.uk/api/organisations/civil-service",
                "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Operational Research Service",
-         "updated_at" : "2022-11-04T16:03:43.000+00:00",
+         "updated_at" : "2024-01-11T15:50:50.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-operational-research-service"
       },
       {
@@ -23581,7 +23621,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Government social research profession",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "hm-treasury",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "civil-service-government-social-research-profession"
          },
@@ -23596,7 +23636,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Social Research Profession",
-         "updated_at" : "2023-07-13T09:55:11.000+01:00",
+         "updated_at" : "2024-01-24T16:38:20.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-social-research-profession"
       },
       {
@@ -25664,7 +25704,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Reconfiguration Panel",
-         "updated_at" : "2022-08-03T10:18:36.000+01:00",
+         "updated_at" : "2024-01-18T15:04:29.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-reconfiguration-panel"
       },
       {
@@ -26354,7 +26394,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "King's Bench Division of the High Court",
-         "updated_at" : "2022-10-06T14:37:39.000+01:00",
+         "updated_at" : "2024-01-12T16:49:48.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/kings-bench-division-of-the-high-court"
       },
       {
@@ -27876,7 +27916,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Crime Agency Remuneration Review Body ",
-         "updated_at" : "2022-01-26T16:17:57.000+00:00",
+         "updated_at" : "2024-01-31T12:06:35.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-crime-agency-remuneration-review-body"
       },
       {
@@ -28749,12 +28789,7 @@
       },
       {
          "analytics_identifier" : "PB481",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/healthcare-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/healthcare-uk"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -28786,7 +28821,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "NHS England",
-         "updated_at" : "2023-03-09T12:12:46.000+00:00",
+         "updated_at" : "2024-01-26T13:59:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/nhs-england"
       },
       {
@@ -30195,7 +30230,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Product \r\nSafety & Standards",
             "organisation_brand_colour_class_name" : "uk-trade-investment",
-            "organisation_logo_type_class_name" : "dit",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "office-for-product-safety-and-standards"
          },
          "format" : "Sub organisation",
@@ -30326,7 +30361,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Veterans' Affairs",
-         "updated_at" : "2020-01-07T10:22:03.000+00:00",
+         "updated_at" : "2024-01-23T11:06:46.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-veterans-affairs"
       },
       {
@@ -30419,7 +30454,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Manpower Economics",
-         "updated_at" : "2023-05-23T09:04:21.000+01:00",
+         "updated_at" : "2024-01-19T10:33:53.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
       },
       {
@@ -30475,7 +30510,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Advocate General for Scotland",
-         "updated_at" : "2023-07-10T10:58:37.000+01:00",
+         "updated_at" : "2024-01-25T16:30:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland"
       },
       {
@@ -30895,7 +30930,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Offshore Petroleum Regulator for Environment and Decommissioning",
-         "updated_at" : "2019-05-31T14:30:35.000+01:00",
+         "updated_at" : "2024-01-22T10:41:37.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning"
       },
       {
@@ -30956,7 +30991,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofqual",
-         "updated_at" : "2023-12-21T11:50:47.000+00:00",
+         "updated_at" : "2024-01-02T08:37:13.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofqual"
       },
       {
@@ -31180,7 +31215,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Parole Board",
-         "updated_at" : "2018-03-09T15:38:21.000+00:00",
+         "updated_at" : "2024-01-15T09:58:31.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/parole-board"
       },
       {
@@ -31521,7 +31556,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Police Remuneration Review Body",
-         "updated_at" : "2022-01-26T16:17:01.000+00:00",
+         "updated_at" : "2024-01-30T12:26:21.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/police-remuneration-review-body"
       },
       {
@@ -32373,9 +32408,9 @@
             "content_id" : "88df8ced-89b1-4d95-9b6a-72d1d4f324a8",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Reserve Forces' and Cadets' Associations",
+            "logo_formatted_name" : "Reserve Forces' \r\nand Cadets' \r\nAssociations",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "mod",
             "slug" : "reserve-forces-and-cadets-associations"
          },
          "format" : "Other",
@@ -32389,7 +32424,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Reserve Forces' and Cadets' Associations (RFCA)",
-         "updated_at" : "2020-12-21T07:53:12.000+00:00",
+         "updated_at" : "2024-01-15T11:02:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/reserve-forces-and-cadets-associations"
       },
       {
@@ -33304,7 +33339,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2023-04-03T13:35:16.000+01:00",
+         "updated_at" : "2024-01-09T11:53:11.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
@@ -34535,6 +34570,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/the-property-trusts-and-probate-list"
       },
       {
+         "analytics_identifier" : "AG1407",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "QEMC",
+            "closed_at" : null,
+            "content_id" : "1e4225ef-6beb-4d04-ab94-f9d9b39802d5",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "The Queen Elizabeth Memorial Committee",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-queen-elizabeth-memorial-committee"
+         },
+         "format" : "Ad-hoc advisory group",
+         "id" : "https://www.gov.uk/api/organisations/the-queen-elizabeth-memorial-committee",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "The Queen Elizabeth Memorial Committee",
+         "updated_at" : "2024-01-15T12:53:02.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-queen-elizabeth-memorial-committee"
+      },
+      {
          "analytics_identifier" : "CO1230",
          "child_organisations" : [],
          "details" : {
@@ -35175,7 +35238,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Export Finance",
-         "updated_at" : "2023-10-23T14:55:22.000+01:00",
+         "updated_at" : "2024-01-12T11:49:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-export-finance"
       },
       {
@@ -35443,7 +35506,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Screening Committee",
-         "updated_at" : "2022-08-15T15:13:21.000+01:00",
+         "updated_at" : "2024-01-19T08:50:10.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
       },
       {
@@ -35565,7 +35628,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2023-08-14T16:41:49.000+01:00",
+         "updated_at" : "2023-09-18T12:18:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
@@ -35720,7 +35783,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "United Kingdom Security Vetting",
-         "updated_at" : "2022-12-09T14:51:40.000+00:00",
+         "updated_at" : "2024-01-22T16:30:40.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-security-vetting"
       },
       {
