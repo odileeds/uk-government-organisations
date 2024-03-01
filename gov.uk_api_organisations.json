@@ -287,7 +287,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Clinical Impact Awards",
-         "updated_at" : "2022-04-13T15:15:35.000+01:00",
+         "updated_at" : "2024-02-09T13:41:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-clinical-impact-awards"
       },
       {
@@ -472,7 +472,7 @@
             "organisation_logo_type_class_name" : "mod",
             "slug" : "advisory-group-on-military-medicine"
          },
-         "format" : "Ad-hoc advisory group",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/advisory-group-on-military-medicine",
          "parent_organisations" : [
             {
@@ -483,7 +483,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Group on Military and Emergency Response Medicine",
-         "updated_at" : "2020-12-02T15:53:39.000+00:00",
+         "updated_at" : "2024-02-22T12:05:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-group-on-military-medicine"
       },
       {
@@ -2108,7 +2108,7 @@
             "organisation_logo_type_class_name" : "mod",
             "slug" : "central-advisory-committee-on-compensation"
          },
-         "format" : "Ad-hoc advisory group",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/central-advisory-committee-on-compensation",
          "parent_organisations" : [
             {
@@ -2124,7 +2124,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Central Advisory Committee on Compensation",
-         "updated_at" : "2016-06-28T15:20:46.000+01:00",
+         "updated_at" : "2024-02-22T12:05:42.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/central-advisory-committee-on-compensation"
       },
       {
@@ -2221,34 +2221,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
       },
       {
-         "analytics_identifier" : "OT1280",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "CDEI",
-            "closed_at" : null,
-            "content_id" : "1405edcb-943d-42d2-8ec8-c51cd58335a5",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Centre for\r\nData Ethics\r\nand Innovation",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "centre-for-data-ethics-and-innovation"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/centre-for-data-ethics-and-innovation",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Centre for Data Ethics and Innovation",
-         "updated_at" : "2021-11-22T16:01:49.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation"
-      },
-      {
          "analytics_identifier" : "EA53",
          "child_organisations" : [],
          "details" : {
@@ -2286,7 +2258,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Certification Officer",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "certification-officer"
          },
@@ -2301,7 +2273,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Certification Officer",
-         "updated_at" : "2023-03-17T15:26:03.000+00:00",
+         "updated_at" : "2024-02-21T14:25:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/certification-officer"
       },
       {
@@ -4468,6 +4440,39 @@
          "title" : "Central Science Laboratory",
          "updated_at" : "2014-10-15T15:37:51.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/central-science-laboratory"
+      },
+      {
+         "analytics_identifier" : "OT1280",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CDEI",
+            "closed_at" : null,
+            "content_id" : "1405edcb-943d-42d2-8ec8-c51cd58335a5",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Centre for\r\nData Ethics\r\nand Innovation",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "centre-for-data-ethics-and-innovation"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/centre-for-data-ethics-and-innovation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "title" : "Centre for Data Ethics and Innovation",
+         "updated_at" : "2024-02-06T12:04:14.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation"
       },
       {
          "analytics_identifier" : "OT1064",
@@ -12891,6 +12896,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/northwest-regional-development-agency"
       },
       {
+         "analytics_identifier" : "OT1278",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2024-02-06T00:00:00.000+00:00",
+            "content_id" : "485a7163-751f-43a8-a837-af4755d9cf6d",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Office for Artificial Intelligence",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-artificial-intelligence"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-artificial-intelligence",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "title" : "Office for Artificial Intelligence",
+         "updated_at" : "2024-02-06T12:53:37.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-artificial-intelligence"
+      },
+      {
          "analytics_identifier" : "OT1251",
          "child_organisations" : [],
          "details" : {
@@ -13239,34 +13277,6 @@
          "title" : "Office of Telecommunications",
          "updated_at" : "2014-10-15T15:38:29.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-telecommunications"
-      },
-      {
-         "analytics_identifier" : "OT744",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "bc99f386-187f-46a9-b00d-1932dea2cfaa",
-            "govuk_closed_status" : "devolved",
-            "govuk_status" : "devolved",
-            "logo_formatted_name" : "Office of the Chief Electoral Officer for Northern Ireland",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "office-of-the-chief-electoral-officer-for-northern-ireland"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/office-of-the-chief-electoral-officer-for-northern-ireland",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
-               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
-            }
-         ],
-         "title" : "Office of the Chief Electoral Officer for Northern Ireland",
-         "updated_at" : "2014-10-15T15:37:32.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/office-of-the-chief-electoral-officer-for-northern-ireland"
       },
       {
          "analytics_identifier" : "OT941",
@@ -17640,7 +17650,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Commission for Countering Extremism",
-         "updated_at" : "2022-08-17T15:00:41.000+01:00",
+         "updated_at" : "2024-02-28T15:25:35.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/commission-for-countering-extremism"
       },
       {
@@ -17845,7 +17855,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Standards in Public Life",
-         "updated_at" : "2023-12-12T16:27:24.000+00:00",
+         "updated_at" : "2024-02-26T15:44:43.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
@@ -17928,8 +17938,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "Companies House ",
-         "updated_at" : "2023-09-04T15:59:31.000+01:00",
+         "title" : "Companies House",
+         "updated_at" : "2024-02-01T09:54:30.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/companies-house"
       },
       {
@@ -18022,7 +18032,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2024-01-30T11:30:35.000+00:00",
+         "updated_at" : "2024-02-16T08:12:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18638,7 +18648,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Defence and Security Accelerator",
-         "updated_at" : "2022-09-23T11:09:11.000+01:00",
+         "updated_at" : "2024-02-28T12:02:15.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-and-security-accelerator"
       },
       {
@@ -18655,7 +18665,7 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "defence-and-security-media-advisory-committee"
          },
-         "format" : "Ad-hoc advisory group",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/defence-and-security-media-advisory-committee",
          "parent_organisations" : [
             {
@@ -18671,7 +18681,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Defence and Security Media Advisory Committee",
-         "updated_at" : "2020-12-02T12:16:55.000+00:00",
+         "updated_at" : "2024-02-22T12:06:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-and-security-media-advisory-committee"
       },
       {
@@ -18777,7 +18787,7 @@
             "organisation_logo_type_class_name" : "mod",
             "slug" : "defence-nuclear-safety-committee"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/defence-nuclear-safety-committee",
          "parent_organisations" : [
             {
@@ -18788,7 +18798,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Nuclear Safety Expert Committee",
-         "updated_at" : "2023-12-18T15:28:02.000+00:00",
+         "updated_at" : "2024-02-22T12:07:04.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-safety-committee"
       },
       {
@@ -19551,7 +19561,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2024-01-17T09:12:53.000+00:00",
+         "updated_at" : "2024-02-23T07:57:00.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -20006,6 +20016,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-business-energy-and-industrial-strategy",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/centre-for-data-ethics-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-artificial-intelligence",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-artificial-intelligence"
             }
          ],
          "superseding_organisations" : [],
@@ -20339,7 +20357,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Work and Pensions",
-         "updated_at" : "2021-11-25T10:15:49.000+00:00",
+         "updated_at" : "2024-02-06T14:15:31.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
       },
       {
@@ -20950,7 +20968,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2023-12-26T21:15:18.000+00:00",
+         "updated_at" : "2024-02-04T15:32:08.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -22315,7 +22333,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Foreign, Commonwealth & Development Office",
-         "updated_at" : "2023-09-11T19:26:56.000+01:00",
+         "updated_at" : "2024-02-15T19:09:26.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
       },
       {
@@ -22408,7 +22426,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forestry Commission",
-         "updated_at" : "2023-08-14T11:42:54.000+01:00",
+         "updated_at" : "2024-02-12T11:47:32.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/forestry-commission"
       },
       {
@@ -24978,7 +24996,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Homes England",
-         "updated_at" : "2021-06-18T15:04:00.000+01:00",
+         "updated_at" : "2024-02-13T13:11:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/homes-england"
       },
       {
@@ -25704,7 +25722,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Reconfiguration Panel",
-         "updated_at" : "2024-01-18T15:04:29.000+00:00",
+         "updated_at" : "2024-02-01T12:11:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-reconfiguration-panel"
       },
       {
@@ -29898,34 +29916,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/ofcom"
       },
       {
-         "analytics_identifier" : "OT1278",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "485a7163-751f-43a8-a837-af4755d9cf6d",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Office for Artificial Intelligence",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "office-for-artificial-intelligence"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/office-for-artificial-intelligence",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Office for Artificial Intelligence",
-         "updated_at" : "2019-09-24T16:39:15.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/office-for-artificial-intelligence"
-      },
-      {
          "analytics_identifier" : "PB260",
          "child_organisations" : [],
          "details" : {
@@ -30288,7 +30278,7 @@
             "closed_at" : null,
             "content_id" : "8fd48e74-c4af-448b-b5b0-35288d4150b8",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Office for the Independent Examiner of Complaints",
             "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "custom",
@@ -30305,7 +30295,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Independent Examiner of Complaints",
-         "updated_at" : "2023-12-05T15:05:36.000+00:00",
+         "updated_at" : "2024-02-13T12:03:41.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-independent-examiner-of-complaints"
       },
       {
@@ -30426,7 +30416,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Financial Sanctions Implementation",
-         "updated_at" : "2016-03-31T14:41:43.000+01:00",
+         "updated_at" : "2024-02-02T16:11:40.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
       },
       {
@@ -30512,6 +30502,34 @@
          "title" : "Office of the Advocate General for Scotland",
          "updated_at" : "2024-01-25T16:30:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-advocate-general-for-scotland"
+      },
+      {
+         "analytics_identifier" : "OT744",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "bc99f386-187f-46a9-b00d-1932dea2cfaa",
+            "govuk_closed_status" : "devolved",
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Office of the Chief Electoral Officer for Northern Ireland",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-of-the-chief-electoral-officer-for-northern-ireland"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/office-of-the-chief-electoral-officer-for-northern-ireland",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
+         "title" : "Office of the Chief Electoral Officer for Northern Ireland",
+         "updated_at" : "2024-02-19T14:47:51.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-of-the-chief-electoral-officer-for-northern-ireland"
       },
       {
          "analytics_identifier" : "PB413",
@@ -30991,7 +31009,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofqual",
-         "updated_at" : "2024-01-02T08:37:13.000+00:00",
+         "updated_at" : "2024-02-14T12:25:48.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofqual"
       },
       {
@@ -33339,7 +33357,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2024-01-09T11:53:11.000+00:00",
+         "updated_at" : "2024-02-22T17:43:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
@@ -33484,7 +33502,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Social Security Advisory Committee",
-         "updated_at" : "2023-01-30T16:03:52.000+00:00",
+         "updated_at" : "2024-02-06T14:15:50.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/social-security-advisory-committee"
       },
       {
@@ -33733,7 +33751,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Strategic Command",
-         "updated_at" : "2023-10-19T15:52:30.000+01:00",
+         "updated_at" : "2024-02-21T09:27:32.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/strategic-command"
       },
       {
@@ -34577,7 +34595,7 @@
             "closed_at" : null,
             "content_id" : "1e4225ef-6beb-4d04-ab94-f9d9b39802d5",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "The Queen Elizabeth Memorial Committee",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -34594,7 +34612,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Queen Elizabeth Memorial Committee",
-         "updated_at" : "2024-01-15T12:53:02.000+00:00",
+         "updated_at" : "2024-02-05T11:53:47.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-queen-elizabeth-memorial-committee"
       },
       {
@@ -35613,7 +35631,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Space Agency",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "uk-space-agency"
          },
@@ -35628,7 +35646,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2023-09-18T12:18:53.000+01:00",
+         "updated_at" : "2024-02-22T16:59:16.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
