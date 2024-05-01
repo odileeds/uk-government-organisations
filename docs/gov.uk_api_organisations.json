@@ -586,7 +586,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "AI Safety Institute",
             "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "ai-safety-institute"
          },
          "format" : "Sub organisation",
@@ -600,7 +600,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "AI Safety Institute",
-         "updated_at" : "2024-03-26T08:42:15.000+00:00",
+         "updated_at" : "2024-04-04T13:18:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
       },
       {
@@ -2189,6 +2189,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/central-digital-and-data-office"
       },
       {
+         "analytics_identifier" : "OT1412",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CCHS",
+            "closed_at" : null,
+            "content_id" : "b4330006-d9c0-4dda-9bb1-88a2bb55aafe",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Centre for Climate and Health Security",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-centre-for-climate-health-security"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/the-centre-for-climate-health-security",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-health-security-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Centre for Climate and Health Security",
+         "updated_at" : "2024-04-10T13:14:07.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-centre-for-climate-health-security"
+      },
+      {
          "analytics_identifier" : "OT1223",
          "child_organisations" : [],
          "details" : {
@@ -2741,7 +2769,7 @@
             }
          ],
          "details" : {
-            "abbreviation" : "the Civil Service",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "73d2631c-a5ee-443b-940b-af67f42735eb",
             "govuk_closed_status" : null,
@@ -2762,7 +2790,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Civil Service",
-         "updated_at" : "2024-03-15T18:16:47.000+00:00",
+         "updated_at" : "2024-04-24T14:58:07.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service"
       },
       {
@@ -5179,6 +5207,39 @@
          "title" : "Competition Commission",
          "updated_at" : "2014-10-15T15:36:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-commission"
+      },
+      {
+         "analytics_identifier" : "OT1282",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CSSF",
+            "closed_at" : "2024-04-02T00:00:00.000+01:00",
+            "content_id" : "95cd5325-7792-4789-be26-f1315ffdbd60",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Conflict, Stability and Security Fund",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "conflict-stability-and-security-fund"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/conflict-stability-and-security-fund",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-integrated-security-fund",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-integrated-security-fund"
+            }
+         ],
+         "title" : "Conflict, Stability and Security Fund",
+         "updated_at" : "2024-04-02T10:46:07.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/conflict-stability-and-security-fund"
       },
       {
          "analytics_identifier" : "OT732",
@@ -18136,7 +18197,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2024-02-16T08:12:55.000+00:00",
+         "updated_at" : "2024-04-25T13:06:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18194,34 +18255,6 @@
          "title" : "Competition Service",
          "updated_at" : "2018-10-12T15:03:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-service"
-      },
-      {
-         "analytics_identifier" : "OT1282",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "CSSF",
-            "closed_at" : null,
-            "content_id" : "95cd5325-7792-4789-be26-f1315ffdbd60",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Conflict, Stability and Security Fund",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "conflict-stability-and-security-fund"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/conflict-stability-and-security-fund",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Conflict, Stability and Security Fund",
-         "updated_at" : "2019-05-29T14:39:53.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/conflict-stability-and-security-fund"
       },
       {
          "analytics_identifier" : "PB126",
@@ -18972,7 +19005,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2023-09-08T14:59:41.000+01:00",
+         "updated_at" : "2024-04-15T10:53:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -20834,7 +20867,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "DfT OLR Holdings Limited",
-         "updated_at" : "2022-09-20T10:23:56.000+01:00",
+         "updated_at" : "2024-04-16T08:47:30.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/dft-olr-holdings-limited"
       },
       {
@@ -21006,8 +21039,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "District Valuer Services (DVS)",
-         "updated_at" : "2016-07-22T15:20:44.000+01:00",
+         "title" : "District Valuer Services",
+         "updated_at" : "2024-04-24T14:59:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/district-valuer-services-dvs"
       },
       {
@@ -23488,7 +23521,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government People Group",
-         "updated_at" : "2023-08-21T11:38:52.000+01:00",
+         "updated_at" : "2024-04-04T16:04:32.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-people-group"
       },
       {
@@ -23747,7 +23780,7 @@
             "content_id" : "77d5e16e-1b32-4051-a8e6-c2230d762cfe",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Government social research profession",
+            "logo_formatted_name" : "Government Social Research Profession",
             "organisation_brand_colour_class_name" : "hm-treasury",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "civil-service-government-social-research-profession"
@@ -23763,7 +23796,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Social Research Profession",
-         "updated_at" : "2024-01-24T16:38:20.000+00:00",
+         "updated_at" : "2024-04-16T14:52:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-social-research-profession"
       },
       {
@@ -24691,7 +24724,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "HM Revenue & Customs",
-         "updated_at" : "2021-12-08T09:22:30.000+00:00",
+         "updated_at" : "2024-04-05T16:39:10.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-revenue-customs"
       },
       {
@@ -25872,7 +25905,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Industrial Development \r\nAdvisory Board",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "industrial-development-advisory-board"
          },
@@ -25882,7 +25915,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Industrial Development Advisory Board",
-         "updated_at" : "2023-05-11T07:56:05.000+01:00",
+         "updated_at" : "2024-04-30T14:32:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/industrial-development-advisory-board"
       },
       {
@@ -28647,7 +28680,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Natural England",
-         "updated_at" : "2020-10-15T14:42:42.000+01:00",
+         "updated_at" : "2024-04-02T09:28:14.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/natural-england"
       },
       {
@@ -29940,7 +29973,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Nuclear Waste Services",
-         "updated_at" : "2023-10-25T18:48:00.000+01:00",
+         "updated_at" : "2024-04-09T11:51:58.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-waste-services"
       },
       {
@@ -30456,7 +30489,7 @@
             "content_id" : "e82999a0-79f0-4c77-a8f1-39135e7a123c",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Office of Financial\r\nSanctions Implementation\r\nHM Treasury",
+            "logo_formatted_name" : "Office of Financial\r\nSanctions Implementation\r\n",
             "organisation_brand_colour_class_name" : "hm-treasury",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-of-financial-sanctions-implementation"
@@ -30472,7 +30505,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Financial Sanctions Implementation",
-         "updated_at" : "2024-02-02T16:11:40.000+00:00",
+         "updated_at" : "2024-04-22T14:33:25.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-financial-sanctions-implementation"
       },
       {
@@ -31104,7 +31137,7 @@
             "closed_at" : null,
             "content_id" : "4f9d1cbb-ef79-48e9-af7d-0adfaabfa596",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Online Procedure Rule Committee",
             "organisation_brand_colour_class_name" : "ministry-of-justice",
             "organisation_logo_type_class_name" : "single-identity",
@@ -31121,7 +31154,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Online Procedure Rule Committee",
-         "updated_at" : "2023-12-05T14:38:31.000+00:00",
+         "updated_at" : "2024-04-30T14:34:56.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/online-procedure-rule-committee"
       },
       {
@@ -31492,7 +31525,7 @@
          "analytics_identifier" : "EA39",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "The Planning Inspectorate",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "5e946baf-6dde-4916-a55e-8d44e0cdfe58",
             "govuk_closed_status" : null,
@@ -31513,7 +31546,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Planning Inspectorate",
-         "updated_at" : "2023-10-03T08:54:09.000+01:00",
+         "updated_at" : "2024-04-24T14:58:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/planning-inspectorate"
       },
       {
@@ -34154,7 +34187,7 @@
          "analytics_identifier" : "D98",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "Charity Commission",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "489e651f-34c8-4b34-bdd7-e13c2324cde3",
             "govuk_closed_status" : null,
@@ -34175,7 +34208,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2023-09-11T11:48:34.000+01:00",
+         "updated_at" : "2024-04-24T14:58:59.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -34950,7 +34983,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Trade Remedies Authority",
-         "updated_at" : "2023-03-28T15:58:01.000+01:00",
+         "updated_at" : "2024-04-18T17:00:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/trade-remedies-authority"
       },
       {
@@ -35533,7 +35566,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/conflict-stability-and-security-fund",
+               "web_url" : "https://www.gov.uk/government/organisations/conflict-stability-and-security-fund"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "UK Integrated Security Fund",
          "updated_at" : "2024-03-28T13:09:07.000+00:00",
@@ -36177,7 +36215,7 @@
          "analytics_identifier" : "OT1087",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "Veterans UK ",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "33cf4faf-f09b-457d-b516-0704547e1f89",
             "govuk_closed_status" : null,
@@ -36203,7 +36241,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Veterans UK",
-         "updated_at" : "2023-02-15T16:43:33.000+00:00",
+         "updated_at" : "2024-04-24T14:59:25.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/veterans-uk"
       },
       {
