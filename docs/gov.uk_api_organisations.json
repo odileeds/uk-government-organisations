@@ -583,10 +583,10 @@
             "closed_at" : null,
             "content_id" : "f1018649-b7f5-4388-af6f-bb3709c13403",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "AI Safety Institute",
             "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "custom",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "ai-safety-institute"
          },
          "format" : "Sub organisation",
@@ -600,7 +600,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "AI Safety Institute",
-         "updated_at" : "2024-04-04T13:18:03.000+01:00",
+         "updated_at" : "2024-05-20T08:41:32.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
       },
       {
@@ -2152,7 +2152,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Central Arbitration Committee",
-         "updated_at" : "2019-09-12T11:19:07.000+01:00",
+         "updated_at" : "2024-05-14T13:29:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/central-arbitration-committee"
       },
       {
@@ -18416,7 +18416,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Council for Science and Technology",
-         "updated_at" : "2021-06-29T16:49:24.000+01:00",
+         "updated_at" : "2024-05-23T16:52:27.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/council-for-science-and-technology"
       },
       {
@@ -19206,7 +19206,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Business and Trade",
-         "updated_at" : "2023-09-14T14:33:09.000+01:00",
+         "updated_at" : "2024-05-01T14:49:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       {
@@ -19444,7 +19444,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2023-10-30T16:43:36.000+00:00",
+         "updated_at" : "2024-05-01T14:49:09.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -19698,7 +19698,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2024-02-23T07:57:00.000+00:00",
+         "updated_at" : "2024-05-01T14:49:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -20004,6 +20004,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-place",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/land-registry",
+               "web_url" : "https://www.gov.uk/government/organisations/land-registry"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-local-government"
             }
          ],
          "details" : {
@@ -20028,7 +20036,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Levelling Up, Housing and Communities ",
-         "updated_at" : "2022-02-28T09:05:18.000+00:00",
+         "updated_at" : "2024-05-09T10:00:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
       },
       {
@@ -20165,7 +20173,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Science, Innovation and Technology",
-         "updated_at" : "2024-03-15T10:16:03.000+00:00",
+         "updated_at" : "2024-05-01T14:49:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       {
@@ -23019,6 +23027,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/government-data-quality-hub"
       },
       {
+         "analytics_identifier" : "OT1413",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "GDMF",
+            "closed_at" : null,
+            "content_id" : "d8bf5022-0e97-496f-8594-4245a2893f0b",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Government Debt Management Function",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-debt-management-function"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/government-debt-management-function",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Government Debt Management Function",
+         "updated_at" : "2024-05-02T11:15:55.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/government-debt-management-function"
+      },
+      {
          "analytics_identifier" : "OT1056",
          "child_organisations" : [],
          "details" : {
@@ -23411,7 +23451,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Office for Technology Transfer",
-         "updated_at" : "2022-10-04T17:38:51.000+01:00",
+         "updated_at" : "2024-05-14T13:28:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
       },
       {
@@ -24375,7 +24415,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "HM Courts & Tribunals Service",
-         "updated_at" : "2023-10-18T09:49:54.000+01:00",
+         "updated_at" : "2024-03-06T12:02:32.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service"
       },
       {
@@ -25090,7 +25130,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Homes England",
-            "organisation_brand_colour_class_name" : null,
+            "organisation_brand_colour_class_name" : "department-for-levelling-up-housing-and-communities",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "homes-england"
          },
@@ -25110,7 +25150,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Homes England",
-         "updated_at" : "2024-03-22T17:22:44.000+00:00",
+         "updated_at" : "2024-05-10T14:08:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/homes-england"
       },
       {
@@ -25945,6 +25985,29 @@
          "title" : "Industrial Injuries Advisory Council",
          "updated_at" : "2019-03-28T07:39:44.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/industrial-injuries-advisory-council"
+      },
+      {
+         "analytics_identifier" : "OT1415",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "IBCA",
+            "closed_at" : null,
+            "content_id" : "80fc3a6c-b2c4-471d-be00-e3639169d9f8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Infected Blood\r\nCompensation Authority",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "infected-blood-compensation-authority"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/infected-blood-compensation-authority",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Infected Blood Compensation Authority",
+         "updated_at" : "2024-05-21T14:10:42.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/infected-blood-compensation-authority"
       },
       {
          "analytics_identifier" : "PB298",
@@ -27267,6 +27330,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/flood-forecasting-centre",
                "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-space-operations-centre",
+               "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
             }
          ],
          "details" : {
@@ -27291,7 +27358,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Met Office",
-         "updated_at" : "2023-03-13T07:58:21.000+00:00",
+         "updated_at" : "2024-05-30T10:35:56.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/met-office"
       },
       {
@@ -28627,7 +28694,7 @@
             "closed_at" : null,
             "content_id" : "6b681c1a-a04b-40fa-bddd-d331c2f730e2",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "National Space\r\nOperations Centre",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -28652,7 +28719,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Space Operations Centre",
-         "updated_at" : "2024-03-19T15:23:13.000+00:00",
+         "updated_at" : "2024-05-16T09:57:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
       },
       {
@@ -30118,7 +30185,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Office for Health Improvement and Disparities",
-         "updated_at" : "2021-10-04T09:36:21.000+01:00",
+         "updated_at" : "2024-05-07T10:27:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-health-improvement-and-disparities"
       },
       {
@@ -30284,7 +30351,7 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-place"
          },
-         "format" : "Sub organisation",
+         "format" : "Executive non-departmental public body",
          "id" : "https://www.gov.uk/api/organisations/office-for-place",
          "parent_organisations" : [
             {
@@ -30295,7 +30362,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Place",
-         "updated_at" : "2023-05-04T14:13:14.000+01:00",
+         "updated_at" : "2024-05-20T16:24:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
       },
       {
@@ -31818,7 +31885,12 @@
       },
       {
          "analytics_identifier" : "OT532",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
+               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
+            }
+         ],
          "details" : {
             "abbreviation" : "Number 10",
             "closed_at" : null,
@@ -31841,7 +31913,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Prime Minister's Office, 10 Downing Street",
-         "updated_at" : "2015-03-09T20:00:54.000+00:00",
+         "updated_at" : "2023-09-18T16:58:00.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street"
       },
       {
@@ -32417,6 +32489,34 @@
          "title" : "Regulator of Social Housing",
          "updated_at" : "2023-11-14T10:55:45.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
+      },
+      {
+         "analytics_identifier" : "OT1414",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "RHC",
+            "closed_at" : null,
+            "content_id" : "bf5cddce-406a-4e41-a719-856fb1bea395",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Regulatory Horizons Council",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "regulatory-horizons-council"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/regulatory-horizons-council",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Regulatory Horizons Council",
+         "updated_at" : "2024-05-15T14:43:12.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/regulatory-horizons-council"
       },
       {
          "analytics_identifier" : "PB354",
