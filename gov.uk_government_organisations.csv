@@ -1,5 +1,5 @@
 ID,Name,GOVUK URL,URL
-prime-ministers-office-10-downing-street,"Prime Minister's Office, 10 Downing Street",https://gov.uk/government/organisations/prime-ministers-office-10-downing-street,https://gov.uk/government/organisations/prime-ministers-office-10-downing-street
+prime-ministers-office-10-downing-street,"Prime Minister's Office 10 Downing Street",https://gov.uk/government/organisations/prime-ministers-office-10-downing-street,https://gov.uk/government/organisations/prime-ministers-office-10-downing-street
 attorney-generals-office,"Attorney General's Office",https://gov.uk/government/organisations/attorney-generals-office,https://gov.uk/government/organisations/attorney-generals-office
 cabinet-office,"Cabinet Office",https://gov.uk/government/organisations/cabinet-office,https://gov.uk/government/organisations/cabinet-office
 department-for-business-and-trade,"Department for Business &amp; Trade",https://gov.uk/government/organisations/department-for-business-and-trade,https://gov.uk/government/organisations/department-for-business-and-trade
@@ -7,7 +7,6 @@ department-for-culture-media-and-sport,"Department for Culture, Media &amp; Spor
 department-for-education,"Department for Education",https://gov.uk/government/organisations/department-for-education,https://gov.uk/government/organisations/department-for-education
 department-for-energy-security-and-net-zero,"Department for Energy Security &amp; Net Zero",https://gov.uk/government/organisations/department-for-energy-security-and-net-zero,https://gov.uk/government/organisations/department-for-energy-security-and-net-zero
 department-for-environment-food-rural-affairs,"Department for Environment Food &amp; Rural Affairs",https://gov.uk/government/organisations/department-for-environment-food-rural-affairs,https://gov.uk/government/organisations/department-for-environment-food-rural-affairs
-department-for-levelling-up-housing-and-communities,"Department for Levelling Up, Housing &amp; Communities ",https://gov.uk/government/organisations/department-for-levelling-up-housing-and-communities,https://gov.uk/government/organisations/department-for-levelling-up-housing-and-communities
 department-for-science-innovation-and-technology,"Department for Science, Innovation &amp; Technology",https://gov.uk/government/organisations/department-for-science-innovation-and-technology,https://gov.uk/government/organisations/department-for-science-innovation-and-technology
 department-for-transport,"Department for Transport",https://gov.uk/government/organisations/department-for-transport,https://gov.uk/government/organisations/department-for-transport
 department-for-work-pensions,"Department for Work &amp; Pensions",https://gov.uk/government/organisations/department-for-work-pensions,https://gov.uk/government/organisations/department-for-work-pensions
@@ -16,6 +15,7 @@ foreign-commonwealth-development-office,"Foreign, Commonwealth &amp; Development
 hm-treasury,"HM Treasury",https://gov.uk/government/organisations/hm-treasury,https://gov.uk/government/organisations/hm-treasury
 home-office,"Home Office",https://gov.uk/government/organisations/home-office,https://gov.uk/government/organisations/home-office
 ministry-of-defence,"Ministry of Defence",https://gov.uk/government/organisations/ministry-of-defence,https://gov.uk/government/organisations/ministry-of-defence
+ministry-of-housing-communities-local-government,"Ministry of Housing, Communities &amp; Local Government",https://gov.uk/government/organisations/ministry-of-housing-communities-local-government,https://gov.uk/government/organisations/ministry-of-housing-communities-local-government
 ministry-of-justice,"Ministry of Justice",https://gov.uk/government/organisations/ministry-of-justice,https://gov.uk/government/organisations/ministry-of-justice
 northern-ireland-office,"Northern Ireland Office",https://gov.uk/government/organisations/northern-ireland-office,https://gov.uk/government/organisations/northern-ireland-office
 office-of-the-advocate-general-for-scotland,"Office of the Advocate General for Scotland",https://gov.uk/government/organisations/office-of-the-advocate-general-for-scotland,https://gov.uk/government/organisations/office-of-the-advocate-general-for-scotland
@@ -144,6 +144,7 @@ defence-and-security-media-advisory-committee,"",,
 science-advisory-council,"",,
 department-for-communities-northern-ireland,"",,
 department-for-infrastructure-northern-ireland,"",,
+department-for-levelling-up-housing-and-communities,"",,
 department-for-the-economy-northern-ireland,"",,
 department-of-agriculture-environment-and-rural-affairs-northern-ireland,"",,
 department-of-education,"",,
@@ -193,6 +194,7 @@ government-internal-audit-agency,"",,
 government-office-for-science,"",,
 government-property-agency,"",,
 great-britain-china-centre,"",,
+great-british-energy,"",,
 great-british-nuclear,"",,
 groceries-code-adjudicator,"",,
 hm-courts-and-tribunals-service,"",,
@@ -521,7 +523,7 @@ government-property-function,"",,
 government-recruitment-service,"",,
 civil-service-government-science-engineering,"",,
 government-security-profession,"",,
-government-skills-and-curriculum-unit,"",,
+government-skills,"",,
 civil-service-government-social-research-profession,"",,
 civil-service-government-statistical-service,"",,
 civil-service-government-tax-profession,"",,
@@ -557,7 +559,6 @@ office-of-the-parliamentary-counsel,"",,
 offshore-petroleum-regulator-for-environment-and-decommissioning,"",,
 open-public-services,"",,
 civil-service-operational-delivery-profession,"",,
-pension-compensation-and-welfare-support-for-armed-forces-and-veterans,"",,
 civil-service-policy-profession,"",,
 preventing-sexual-violence-in-conflict-initiative,"",,
 project-delivery-function,"",,
