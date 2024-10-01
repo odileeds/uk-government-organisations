@@ -21,7 +21,7 @@ northern-ireland-office,"Northern Ireland Office",https://gov.uk/government/orga
 office-of-the-advocate-general-for-scotland,"Office of the Advocate General for Scotland",https://gov.uk/government/organisations/office-of-the-advocate-general-for-scotland,https://gov.uk/government/organisations/office-of-the-advocate-general-for-scotland
 the-office-of-the-leader-of-the-house-of-commons,"Office of the Leader of the House of Commons",https://gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons,https://gov.uk/government/organisations/the-office-of-the-leader-of-the-house-of-commons
 office-of-the-leader-of-the-house-of-lords,"Office of the Leader of the House of Lords",https://gov.uk/government/organisations/office-of-the-leader-of-the-house-of-lords,https://gov.uk/government/organisations/office-of-the-leader-of-the-house-of-lords
-office-of-the-secretary-of-state-for-scotland,"Office of the Secretary of State for Scotland",https://gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland,https://gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland
+scotland-office,"Scotland Office",https://gov.uk/government/organisations/scotland-office,https://gov.uk/government/organisations/scotland-office
 uk-export-finance,"UK Export Finance",https://gov.uk/government/organisations/uk-export-finance,https://gov.uk/government/organisations/uk-export-finance
 wales-office,"Wales Office",https://gov.uk/government/organisations/wales-office,https://gov.uk/government/organisations/wales-office
 charity-commission,"",,
@@ -150,7 +150,6 @@ department-of-education,"",,
 department-of-finance-northern-ireland,"",,
 department-of-health-northern-ireland,"",,
 department-of-justice-northern-ireland,"",,
-directly-operated-railways-limited,"",,
 disabled-peoples-employment-corporation,"",,
 disabled-persons-transport-advisory-committee,"",,
 disclosure-and-barring-service,"",,
@@ -346,10 +345,12 @@ office-of-the-public-guardian,"",,
 office-of-the-registrar-of-consultant-lobbyists,"",,
 office-of-the-regulator-of-community-interest-companies,"",,
 office-of-the-schools-adjudicator,"",,
+office-of-the-secretary-of-state-for-scotland,"",,
 office-of-the-secretary-of-state-for-wales,"",,
 official-solicitor-and-public-trustee,"",,
 online-procedure-rule-committee,"",,
 parades-commission-for-northern-ireland,"",,
+parliamentary-contributory-pension-fund,"",,
 the-parliamentary-and-health-service-ombudsman,"",,
 parole-board,"",,
 payment-systems-regulator,"",,
@@ -551,6 +552,7 @@ office-for-veterans-affairs,"",,
 office-for-zero-emission-vehicles,"",,
 office-for-the-independent-examiner-of-complaints,"",,
 office-for-the-internal-market,"",,
+office-for-the-pay-review-bodies,"",,
 office-of-financial-sanctions-implementation,"",,
 office-of-manpower-economics,"",,
 office-of-trade-sanctions-implementation,"",,

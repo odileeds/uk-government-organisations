@@ -1325,14 +1325,14 @@
          "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-scotland",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
+               "id" : "https://www.gov.uk/api/organisations/scotland-office",
+               "web_url" : "https://www.gov.uk/government/organisations/scotland-office"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Boundary Commission for Scotland",
-         "updated_at" : "2014-10-15T15:36:26.000+01:00",
+         "updated_at" : "2024-09-26T09:54:00.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-scotland"
       },
       {
@@ -7183,6 +7183,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/dingle-granby-toxteth-education-action-zone"
       },
       {
+         "analytics_identifier" : "PB459",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "DOR",
+            "closed_at" : "2022-11-14T00:00:00.000+00:00",
+            "content_id" : "debb39a6-cc57-442e-8673-65af9bd0e624",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Directly Operated\r\nRailways Limited",
+            "organisation_brand_colour_class_name" : "department-for-transport",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "directly-operated-railways-limited"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/directly-operated-railways-limited",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-transport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/dft-olr-holdings-limited",
+               "web_url" : "https://www.gov.uk/government/organisations/dft-olr-holdings-limited"
+            }
+         ],
+         "title" : "Directly Operated Railways Limited",
+         "updated_at" : "2024-09-10T07:08:28.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/directly-operated-railways-limited"
+      },
+      {
          "analytics_identifier" : "OT818",
          "child_organisations" : [],
          "details" : {
@@ -10994,7 +11027,7 @@
             "content_id" : "2e7868a8-38f5-4ff6-b62f-9a15d1c22d28",
             "govuk_closed_status" : "changed_name",
             "govuk_status" : "closed",
-            "logo_formatted_name" : "Ministry of Housing,\r\nCommunities &\r\nLocal Government",
+            "logo_formatted_name" : "Ministry of Housing,\r\nCommunities &\r\nLocal Government (2018 to 2021)",
             "organisation_brand_colour_class_name" : "department-for-communities-and-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "ministry-of-housing-communities-and-local-government-2018-2021"
@@ -11015,7 +11048,7 @@
             }
          ],
          "title" : "Ministry of Housing, Communities & Local Government (2018 to 2021)",
-         "updated_at" : "2024-07-09T09:13:35.000+01:00",
+         "updated_at" : "2024-09-11T10:09:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government-2018-2021"
       },
       {
@@ -13795,29 +13828,6 @@
          "title" : "Ordnance Survey of Northern Ireland",
          "updated_at" : "2014-10-15T15:37:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ordnance-survey-of-northern-ireland"
-      },
-      {
-         "analytics_identifier" : "OT661",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "307e6294-ba89-4fbf-b108-cadcf296a319",
-            "govuk_closed_status" : "no_longer_exists",
-            "govuk_status" : "closed",
-            "logo_formatted_name" : "Parliamentary Contributory Pension Fund",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "parliamentary-contributory-pension-fund"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/parliamentary-contributory-pension-fund",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Parliamentary Contributory Pension Fund",
-         "updated_at" : "2014-10-15T15:37:11.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/parliamentary-contributory-pension-fund"
       },
       {
          "analytics_identifier" : "OT913",
@@ -17691,7 +17701,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Coal Authority",
-         "updated_at" : "2023-11-16T09:15:05.000+00:00",
+         "updated_at" : "2024-09-13T15:13:29.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
       },
       {
@@ -18049,7 +18059,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Companies House ",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "companies-house"
          },
@@ -20754,36 +20764,8 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "DfT OLR Holdings Limited",
-         "updated_at" : "2024-04-16T08:47:30.000+01:00",
+         "updated_at" : "2024-09-10T07:07:27.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/dft-olr-holdings-limited"
-      },
-      {
-         "analytics_identifier" : "PB459",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "DOR",
-            "closed_at" : null,
-            "content_id" : "debb39a6-cc57-442e-8673-65af9bd0e624",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Directly Operated\r\nRailways Limited",
-            "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "directly-operated-railways-limited"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/directly-operated-railways-limited",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-transport",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Directly Operated Railways Limited",
-         "updated_at" : "2016-10-05T13:34:23.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/directly-operated-railways-limited"
       },
       {
          "analytics_identifier" : "OT1309",
@@ -21316,12 +21298,12 @@
          "analytics_identifier" : "EA199",
          "child_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
-               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/flood-forecasting-centre",
                "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
             }
          ],
          "details" : {
@@ -22389,7 +22371,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forensic Science Regulator",
-         "updated_at" : "2023-09-01T12:30:16.000+01:00",
+         "updated_at" : "2024-09-25T15:42:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/forensic-science-regulator"
       },
       {
@@ -24776,6 +24758,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-infrastructure-bank",
                "web_url" : "https://www.gov.uk/government/organisations/uk-infrastructure-bank"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-debt-management-function",
+               "web_url" : "https://www.gov.uk/government/organisations/government-debt-management-function"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/evaluation-task-force",
+               "web_url" : "https://www.gov.uk/government/organisations/evaluation-task-force"
             }
          ],
          "details" : {
@@ -25045,7 +25035,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Homes England",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "homes-england"
          },
@@ -27092,7 +27082,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Marine Accident Investigation Branch",
-         "updated_at" : "2022-09-21T11:48:28.000+01:00",
+         "updated_at" : "2024-09-19T10:07:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/marine-accident-investigation-branch"
       },
       {
@@ -30390,7 +30380,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Place",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-place"
          },
@@ -30438,7 +30428,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Office for Product Safety and Standards",
-         "updated_at" : "2024-03-05T14:45:47.000+00:00",
+         "updated_at" : "2024-09-24T08:37:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards"
       },
       {
@@ -30524,6 +30514,34 @@
          "title" : "Office for the Internal Market",
          "updated_at" : "2022-08-15T09:28:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
+      },
+      {
+         "analytics_identifier" : "OT1424",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OPRB",
+            "closed_at" : null,
+            "content_id" : "41850af4-7abb-434a-b11a-13263b58afe7",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Office for the Pay\r\nReview Bodies\r\n",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_logo_type_class_name" : "dbt",
+            "slug" : "office-for-the-pay-review-bodies"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-the-pay-review-bodies",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for the Pay Review Bodies",
+         "updated_at" : "2024-09-27T16:57:00.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-the-pay-review-bodies"
       },
       {
          "analytics_identifier" : "OT1301",
@@ -30628,7 +30646,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of Manpower Economics",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "dbt",
             "slug" : "office-of-manpower-economics"
          },
@@ -30643,7 +30661,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Manpower Economics",
-         "updated_at" : "2024-01-19T10:33:53.000+00:00",
+         "updated_at" : "2024-09-24T12:52:16.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-manpower-economics"
       },
       {
@@ -30768,7 +30786,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of the Immigration Services Commissioner",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "office-of-the-immigration-services-commissioner"
          },
@@ -30783,7 +30801,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Immigration Services Commissioner",
-         "updated_at" : "2023-10-06T11:04:36.000+01:00",
+         "updated_at" : "2024-09-03T11:23:05.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
       },
       {
@@ -30969,7 +30987,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of the Regulator of Community Interest Companies",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "office-of-the-regulator-of-community-interest-companies"
          },
@@ -31012,7 +31030,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Schools Adjudicator",
-         "updated_at" : "2022-08-17T15:54:17.000+01:00",
+         "updated_at" : "2024-09-25T17:00:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-schools-adjudicator"
       },
       {
@@ -31034,7 +31052,7 @@
             "organisation_logo_type_class_name" : "so",
             "slug" : "office-of-the-secretary-of-state-for-scotland"
          },
-         "format" : "Ministerial department",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
          "parent_organisations" : [],
          "superseded_organisations" : [
@@ -31045,7 +31063,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Office of the Secretary of State for Scotland",
-         "updated_at" : "2024-07-05T10:37:53.000+01:00",
+         "updated_at" : "2024-09-26T09:46:33.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
       },
       {
@@ -31081,7 +31099,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office of Trade \r\nSanctions Implementation",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-of-trade-sanctions-implementation"
          },
@@ -31096,7 +31114,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Trade Sanctions Implementation",
-         "updated_at" : "2023-12-11T12:00:26.000+00:00",
+         "updated_at" : "2024-09-12T14:03:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
       },
       {
@@ -31297,7 +31315,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Open Innovation Team",
-         "updated_at" : "2021-09-23T17:42:19.000+01:00",
+         "updated_at" : "2024-09-30T17:19:46.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
       },
       {
@@ -31411,6 +31429,29 @@
          "title" : "Parades Commission for Northern Ireland",
          "updated_at" : "2014-10-15T15:36:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/parades-commission-for-northern-ireland"
+      },
+      {
+         "analytics_identifier" : "OT661",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "307e6294-ba89-4fbf-b108-cadcf296a319",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Parliamentary Contributory Pension Fund",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "parliamentary-contributory-pension-fund"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/parliamentary-contributory-pension-fund",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Parliamentary Contributory Pension Fund",
+         "updated_at" : "2024-09-05T09:29:37.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/parliamentary-contributory-pension-fund"
       },
       {
          "analytics_identifier" : "PB301",
@@ -32487,7 +32528,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Regulator of \r\nSocial Housing",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "regulator-of-social-housing"
          },
@@ -33199,7 +33240,7 @@
             "closed_at" : null,
             "content_id" : "63953ed9-98ac-4d08-a1b9-8ea38dbd0832",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Scotland Office",
             "organisation_brand_colour_class_name" : "scotland-office",
             "organisation_logo_type_class_name" : "so",
@@ -33211,7 +33252,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Scotland Office",
-         "updated_at" : "2024-08-08T15:21:57.000+01:00",
+         "updated_at" : "2024-09-26T09:46:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/scotland-office"
       },
       {
@@ -33626,7 +33667,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Small Business Commissioner ",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "small-business-commissioner"
          },
@@ -33641,7 +33682,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Small Business Commissioner",
-         "updated_at" : "2023-03-17T15:27:49.000+00:00",
+         "updated_at" : "2024-09-12T10:27:29.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/small-business-commissioner"
       },
       {
@@ -34239,7 +34280,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Adjudicatorâs Office",
-         "updated_at" : "2021-05-14T12:06:38.000+01:00",
+         "updated_at" : "2024-09-05T13:53:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-adjudicator-s-office"
       },
       {
@@ -34522,7 +34563,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "The Insolvency \r\nService",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "insolvency-service"
          },
@@ -34537,7 +34578,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Insolvency Service",
-         "updated_at" : "2023-04-18T12:09:24.000+01:00",
+         "updated_at" : "2024-09-18T15:51:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/insolvency-service"
       },
       {
@@ -35133,7 +35174,7 @@
          "analytics_identifier" : "PB465",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "The Traffic Commissioners for Great Britain operate at arm's length as independent regulators and",
+            "abbreviation" : "The Traffic Commissioners for Great Britain, an arm's length body and independent regulators, ",
             "closed_at" : null,
             "content_id" : "78dfc32b-b1ef-44ca-924c-a2cf773e87ca",
             "govuk_closed_status" : null,
@@ -35154,7 +35195,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Traffic Commissioners for Great Britain",
-         "updated_at" : "2024-07-04T09:13:23.000+01:00",
+         "updated_at" : "2024-09-03T14:48:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/traffic-commissioners"
       },
       {
@@ -35359,7 +35400,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Atomic Energy Authority",
-         "updated_at" : "2022-06-22T15:52:52.000+01:00",
+         "updated_at" : "2024-09-16T10:55:59.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
       },
       {
@@ -35464,7 +35505,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Defence &\r\nSecurity Exports",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "dbt",
             "slug" : "uk-defence-and-security-exports"
          },
