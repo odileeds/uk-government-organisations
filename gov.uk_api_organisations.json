@@ -352,7 +352,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee \r\non Releases to \r\nthe Environment",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "advisory-committee-on-releases-to-the-environment"
          },
          "format" : "Advisory non-departmental public body",
@@ -366,7 +366,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Releases to the Environment",
-         "updated_at" : "2015-02-17T17:52:16.000+00:00",
+         "updated_at" : "2024-11-19T15:15:13.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-releases-to-the-environment"
       },
       {
@@ -513,7 +513,7 @@
          "analytics_identifier" : "PB1072",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "AFBI (NI)",
             "closed_at" : null,
             "content_id" : "ffcd90a5-5112-454b-b8a0-2819f46bede8",
             "govuk_closed_status" : "devolved",
@@ -539,7 +539,7 @@
             }
          ],
          "title" : "Agri-Food and Biosciences Institute (Northern Ireland)",
-         "updated_at" : "2018-10-02T16:54:51.000+01:00",
+         "updated_at" : "2024-11-20T15:00:10.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/agri-food-and-biosciences-institute"
       },
       {
@@ -4811,6 +4811,39 @@
          "title" : "CO2Sense",
          "updated_at" : "2015-02-17T15:02:32.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/co2sense"
+      },
+      {
+         "analytics_identifier" : "PB195",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2024-11-28T00:00:00.000+00:00",
+            "content_id" : "ffc70f77-4ee8-4a6b-a5f2-54657ee4f4c6",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Coal \r\nAuthority",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-coal-authority"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/mining-remediation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/mining-remediation-authority"
+            }
+         ],
+         "title" : "Coal Authority",
+         "updated_at" : "2024-11-28T09:16:02.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
       },
       {
          "analytics_identifier" : "PB842",
@@ -17874,34 +17907,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/zahid-mubarek-inquiry"
       },
       {
-         "analytics_identifier" : "PB195",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "ffc70f77-4ee8-4a6b-a5f2-54657ee4f4c6",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Coal \r\nAuthority",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "the-coal-authority"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Coal Authority",
-         "updated_at" : "2024-09-13T15:13:29.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
-      },
-      {
          "analytics_identifier" : "OT1235",
          "child_organisations" : [],
          "details" : {
@@ -18187,7 +18192,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Standards in Public Life",
-         "updated_at" : "2024-02-26T15:44:43.000+00:00",
+         "updated_at" : "2024-11-29T15:48:57.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
@@ -19172,7 +19177,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2024-06-25T09:57:34.000+01:00",
+         "updated_at" : "2024-11-26T12:40:21.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -19386,10 +19391,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/arts-council-of-northern-ireland",
                "web_url" : "https://www.gov.uk/government/organisations/arts-council-of-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/sports-council-for-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/sports-council-for-northern-ireland"
             }
          ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DfC (NI)",
             "closed_at" : null,
             "content_id" : "50767bd3-cbbe-47df-bc5e-ddd0140e4b04",
             "govuk_closed_status" : null,
@@ -19401,7 +19410,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-for-communities-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-culture-arts-and-leisure",
@@ -19414,7 +19428,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Communities (Northern Ireland)",
-         "updated_at" : "2019-06-19T11:31:03.000+01:00",
+         "updated_at" : "2024-11-20T15:37:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-communities-northern-ireland"
       },
       {
@@ -19845,6 +19859,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/great-british-energy",
                "web_url" : "https://www.gov.uk/government/organisations/great-british-energy"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-energy-system-operator",
+               "web_url" : "https://www.gov.uk/government/organisations/national-energy-system-operator"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/mining-remediation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/mining-remediation-authority"
             }
          ],
          "details" : {
@@ -20054,7 +20076,7 @@
             "content_id" : "de4e9dc6-cca4-43af-a594-682023b84d6c",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Department\r\nfor Environment\r\nFood & Rural Affairs",
+            "logo_formatted_name" : "Department\r\nfor Environment,\r\nFood & Rural Affairs",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-environment-food-rural-affairs"
@@ -20070,14 +20092,14 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Environment, Food & Rural Affairs",
-         "updated_at" : "2023-08-25T13:43:51.000+01:00",
+         "updated_at" : "2024-11-15T16:37:52.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
       },
       {
          "analytics_identifier" : "OT1176",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DfI (NI)",
             "closed_at" : null,
             "content_id" : "a70fef9b-3a1e-475b-990b-fcf95cbca9b4",
             "govuk_closed_status" : null,
@@ -20089,7 +20111,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-for-infrastructure-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-culture-arts-and-leisure",
@@ -20102,7 +20129,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Infrastructure (Northern Ireland)",
-         "updated_at" : "2024-07-02T15:32:44.000+01:00",
+         "updated_at" : "2024-11-20T15:38:00.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-infrastructure-northern-ireland"
       },
       {
@@ -20219,6 +20246,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
                "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-digital-identities-and-attributes",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes"
             }
          ],
          "details" : {
@@ -20255,14 +20286,23 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Science, Innovation and Technology",
-         "updated_at" : "2024-05-01T14:49:49.000+01:00",
+         "updated_at" : "2024-11-08T12:19:01.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
       },
       {
          "analytics_identifier" : "OT1174",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-relations-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-relations-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/invest-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/invest-northern-ireland"
+            }
+         ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DfE (NI)",
             "closed_at" : null,
             "content_id" : "5c817b46-039f-4c4a-ac63-b28c1c2feb59",
             "govuk_closed_status" : null,
@@ -20274,11 +20314,21 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-for-the-economy-northern-ireland",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-enterprise-trade-and-investment",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-enterprise-trade-and-investment"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Department for the Economy (Northern Ireland)",
-         "updated_at" : "2018-01-29T15:19:10.000+00:00",
+         "updated_at" : "2024-11-20T15:38:27.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-the-economy-northern-ireland"
       },
       {
@@ -20589,9 +20639,18 @@
       },
       {
          "analytics_identifier" : "OT1178",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/livestock-and-meat-commission-for-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/livestock-and-meat-commission-for-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/agri-food-and-biosciences-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/agri-food-and-biosciences-institute"
+            }
+         ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DAERA (NI)",
             "closed_at" : null,
             "content_id" : "965a76d9-53f6-433d-8f3a-5802f8c7f31c",
             "govuk_closed_status" : null,
@@ -20603,7 +20662,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-culture-arts-and-leisure",
@@ -20612,7 +20676,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department of Agriculture, Environment and Rural Affairs (Northern Ireland)",
-         "updated_at" : "2018-01-29T15:26:13.000+00:00",
+         "updated_at" : "2024-11-20T15:33:46.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland"
       },
       {
@@ -20624,10 +20688,10 @@
             }
          ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DE (NI)",
             "closed_at" : null,
             "content_id" : "b2590ca4-2e95-48a5-96bf-88e0548920f7",
-            "govuk_closed_status" : "devolved",
+            "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Department of Education (Northern Ireland)",
             "organisation_brand_colour_class_name" : null,
@@ -20636,7 +20700,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-of-education",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -20645,14 +20714,19 @@
             }
          ],
          "title" : "Department of Education (Northern Ireland)",
-         "updated_at" : "2018-01-29T15:20:07.000+00:00",
+         "updated_at" : "2024-11-21T12:22:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-education"
       },
       {
          "analytics_identifier" : "OT1177",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-statistics-and-research-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency"
+            }
+         ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DoF (NI)",
             "closed_at" : null,
             "content_id" : "79308085-77ad-4473-8863-73cae379ba36",
             "govuk_closed_status" : null,
@@ -20664,11 +20738,16 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-of-finance-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department of Finance (Northern Ireland)",
-         "updated_at" : "2018-01-29T15:20:59.000+00:00",
+         "updated_at" : "2024-11-20T15:35:00.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-finance-northern-ireland"
       },
       {
@@ -20677,10 +20756,22 @@
             {
                "id" : "https://www.gov.uk/api/organisations/public-health-agency-northern-ireland",
                "web_url" : "https://www.gov.uk/government/organisations/public-health-agency-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-national-screening-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-cancer-registry",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-cancer-registry"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hsc-business-services-organisation-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/hsc-business-services-organisation-northern-ireland"
             }
          ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DoH (NI)",
             "closed_at" : null,
             "content_id" : "a8636bd4-4e86-47af-987a-b672d4e6fa31",
             "govuk_closed_status" : null,
@@ -20692,11 +20783,16 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-of-health-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Department of Health (Northern Ireland)",
-         "updated_at" : "2019-06-19T11:31:30.000+01:00",
+         "updated_at" : "2024-11-20T15:39:03.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-health-northern-ireland"
       },
       {
@@ -20909,10 +21005,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/northern-ireland-prison-service",
                "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-prison-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/probation-board-for-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/probation-board-for-northern-ireland"
             }
          ],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DoJ (NI)",
             "closed_at" : null,
             "content_id" : "1649c095-3b5e-48c0-bf6b-f2966e590a57",
             "govuk_closed_status" : "devolved",
@@ -20924,7 +21024,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/department-of-justice-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -20933,7 +21038,7 @@
             }
          ],
          "title" : "Department of Justice (Northern Ireland)",
-         "updated_at" : "2021-09-30T10:06:01.000+01:00",
+         "updated_at" : "2024-11-20T15:36:30.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-of-justice-northern-ireland"
       },
       {
@@ -21797,7 +21902,7 @@
             "closed_at" : null,
             "content_id" : "446eeab8-addd-4311-91a8-f6b75e5baac3",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "FCDO Services",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -21819,7 +21924,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "FCDO Services ",
-         "updated_at" : "2020-09-10T13:23:57.000+01:00",
+         "updated_at" : "2024-11-26T09:11:53.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/fcdo-services"
       },
       {
@@ -22834,7 +22939,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Actuary's Department",
-         "updated_at" : "2023-07-24T16:53:06.000+01:00",
+         "updated_at" : "2024-11-12T13:23:42.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-actuarys-department"
       },
       {
@@ -23777,7 +23882,12 @@
       },
       {
          "analytics_identifier" : "OT1416",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
+            }
+         ],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -25318,11 +25428,16 @@
          },
          "format" : "Executive non-departmental public body",
          "id" : "https://www.gov.uk/api/organisations/hsc-business-services-organisation-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-northern-ireland"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HSC Business Services Organisation (Northern Ireland)",
-         "updated_at" : "2022-06-22T14:10:16.000+01:00",
+         "updated_at" : "2024-11-20T14:57:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/hsc-business-services-organisation-northern-ireland"
       },
       {
@@ -25502,12 +25617,12 @@
          "analytics_identifier" : "OT1358",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "IAMI",
+            "abbreviation" : "IAMS",
             "closed_at" : null,
             "content_id" : "8e677682-1c88-446c-9c6b-440ce0ea57c6",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Independent Adviser on Ministers' Interests",
+            "logo_formatted_name" : "Independent Adviser on Ministerial Standards",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "independent-adviser-on-ministers-interests"
@@ -25522,8 +25637,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "Independent Adviser on Ministers' Interests",
-         "updated_at" : "2022-05-27T13:21:46.000+01:00",
+         "title" : "Independent Adviser on Ministerial Standards",
+         "updated_at" : "2024-11-08T09:29:50.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-adviser-on-ministers-interests"
       },
       {
@@ -25565,7 +25680,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Independent Agricultural \r\nAppeals Panel",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "independent-agricultural-appeals-panel"
          },
          "format" : "Advisory non-departmental public body",
@@ -25583,7 +25698,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Agricultural Appeals Panel",
-         "updated_at" : "2023-10-03T14:08:45.000+01:00",
+         "updated_at" : "2024-11-19T15:14:04.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
       },
       {
@@ -26048,6 +26163,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/industrial-injuries-advisory-council"
       },
       {
+         "analytics_identifier" : "OT1433",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ISAC",
+            "closed_at" : null,
+            "content_id" : "d6c82fb0-78ce-4c46-9e40-4fa5b29c2d0a",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Industrial Strategy Advisory Council",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "industrial-strategy-advisory-council"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/industrial-strategy-advisory-council",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Industrial Strategy Advisory Council",
+         "updated_at" : "2024-11-27T11:36:13.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/industrial-strategy-advisory-council"
+      },
+      {
          "analytics_identifier" : "OT1415",
          "child_organisations" : [],
          "details" : {
@@ -26390,11 +26533,16 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/invest-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-the-economy-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-the-economy-northern-ireland"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Invest Northern Ireland",
-         "updated_at" : "2021-08-16T16:21:42.000+01:00",
+         "updated_at" : "2024-11-20T15:42:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/invest-northern-ireland"
       },
       {
@@ -26685,7 +26833,7 @@
          "analytics_identifier" : "EA752",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "LRA",
+            "abbreviation" : "LRA (NI)",
             "closed_at" : null,
             "content_id" : "41684df9-c665-4e39-9818-1aa3a4c1bc74",
             "govuk_closed_status" : "devolved",
@@ -26711,7 +26859,7 @@
             }
          ],
          "title" : "Labour Relations Agency (Northern Ireland)",
-         "updated_at" : "2021-09-02T08:21:33.000+01:00",
+         "updated_at" : "2024-11-20T15:43:25.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/labour-relations-agency"
       },
       {
@@ -26913,7 +27061,7 @@
          "analytics_identifier" : "EA1292",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "LSANI",
             "closed_at" : null,
             "content_id" : "892b7d05-ad17-4872-b8ed-b6defa9d9ab2",
             "govuk_closed_status" : null,
@@ -26934,7 +27082,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Legal Services Agency (Northern Ireland)",
-         "updated_at" : "2019-09-13T09:26:37.000+01:00",
+         "updated_at" : "2024-11-20T14:57:07.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/legal-services-agency-northern-ireland"
       },
       {
@@ -27020,7 +27168,7 @@
          "analytics_identifier" : "OT849",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "LMC (NI)",
             "closed_at" : null,
             "content_id" : "31980c3b-1f83-4d18-9daa-deb12483e094",
             "govuk_closed_status" : "devolved",
@@ -27046,7 +27194,7 @@
             }
          ],
          "title" : "Livestock and Meat Commission for Northern Ireland",
-         "updated_at" : "2018-10-02T16:39:26.000+01:00",
+         "updated_at" : "2024-11-20T15:00:59.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/livestock-and-meat-commission-for-northern-ireland"
       },
       {
@@ -27504,6 +27652,39 @@
          "title" : "Military Engineering Experimental Establishment",
          "updated_at" : "2022-08-08T11:23:33.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/military-engineering-experimental-establishment"
+      },
+      {
+         "analytics_identifier" : "PB1430",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "e782b182-796b-4a83-a1ca-d2deaf47fea3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Mining Remediation Authority",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "mining-remediation-authority"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/mining-remediation-authority",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-coal-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/the-coal-authority"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Mining Remediation Authority",
+         "updated_at" : "2024-11-28T15:39:35.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/mining-remediation-authority"
       },
       {
          "analytics_identifier" : "D17",
@@ -29396,8 +29577,8 @@
             "abbreviation" : "CCEA",
             "closed_at" : null,
             "content_id" : "cd9291d8-a04e-4afb-b680-528b8f917f47",
-            "govuk_closed_status" : "devolved",
-            "govuk_status" : "transitioning",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Northern Ireland Council for the Curriculum, \r\nExaminations and Assessment",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
@@ -29419,7 +29600,7 @@
             }
          ],
          "title" : "Northern Ireland Council for the Curriculum, Examinations and Assessment",
-         "updated_at" : "2018-11-29T11:02:40.000+00:00",
+         "updated_at" : "2024-11-22T13:09:27.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-council-for-the-curriculum-examinations-and-assessment"
       },
       {
@@ -29452,7 +29633,7 @@
             }
          ],
          "title" : "Northern Ireland Courts and Tribunals Service",
-         "updated_at" : "2020-08-06T11:23:17.000+01:00",
+         "updated_at" : "2024-11-20T14:55:19.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-court-service"
       },
       {
@@ -29469,6 +29650,46 @@
             {
                "id" : "https://www.gov.uk/api/organisations/northern-ireland-audit-office",
                "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-audit-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-agriculture-environment-and-rural-affairs-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-finance-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-finance-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-justice-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-justice-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-education"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-communities-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-communities-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-infrastructure-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-infrastructure-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-the-economy-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-the-economy-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-health-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-health-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-executive-office-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/the-executive-office-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/public-prosecution-service-for-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/public-prosecution-service-for-northern-ireland"
             }
          ],
          "details" : {
@@ -29477,7 +29698,7 @@
             "content_id" : "2aecc4c9-6ef3-43fb-9a82-987e3321db25",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : "Northern Ireland Executive ",
+            "logo_formatted_name" : "Northern Ireland Executive",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "northern-ireland-executive"
@@ -29495,20 +29716,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-employment-and-learning"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-regional-development",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-regional-development"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/department-of-agriculture-and-rural-development",
                "web_url" : "https://www.gov.uk/government/organisations/department-of-agriculture-and-rural-development"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-education",
                "web_url" : "https://www.gov.uk/government/organisations/department-of-education"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-of-enterprise-trade-and-investment",
-               "web_url" : "https://www.gov.uk/government/organisations/department-of-enterprise-trade-and-investment"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-finance-and-personnel-for-northern-ireland",
@@ -29769,11 +29982,15 @@
             {
                "id" : "https://www.gov.uk/api/organisations/youth-justice-agency-of-northern-ireland",
                "web_url" : "https://www.gov.uk/government/organisations/youth-justice-agency-of-northern-ireland"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/public-health-agency-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/public-health-agency-northern-ireland"
             }
          ],
          "superseding_organisations" : [],
-         "title" : "Northern Ireland Executive ",
-         "updated_at" : "2014-10-15T15:38:39.000+01:00",
+         "title" : "Northern Ireland Executive",
+         "updated_at" : "2024-11-22T13:23:18.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
       },
       {
@@ -29904,7 +30121,7 @@
          "analytics_identifier" : "EA797",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "NIPS",
             "closed_at" : null,
             "content_id" : "676ba870-134a-48a3-80fd-150fc824398e",
             "govuk_closed_status" : "devolved",
@@ -29930,7 +30147,7 @@
             }
          ],
          "title" : "Northern Ireland Prison Service",
-         "updated_at" : "2020-08-06T15:21:56.000+01:00",
+         "updated_at" : "2024-11-20T14:56:53.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-prison-service"
       },
       {
@@ -29963,7 +30180,7 @@
             }
          ],
          "title" : "Northern Ireland Statistics and Research Agency",
-         "updated_at" : "2019-06-27T11:52:12.000+01:00",
+         "updated_at" : "2024-11-20T14:54:44.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-statistics-and-research-agency"
       },
       {
@@ -30005,7 +30222,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Northumberland \r\nNational Park \r\nAuthority",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "northumberland-national-park-authority"
          },
          "format" : "Other",
@@ -30019,7 +30236,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northumberland National Park Authority",
-         "updated_at" : "2014-10-21T10:27:05.000+01:00",
+         "updated_at" : "2024-11-18T18:27:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/northumberland-national-park-authority"
       },
       {
@@ -30457,7 +30674,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for \r\nInvestment",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-investment"
          },
@@ -30738,7 +30955,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Internal Market",
-         "updated_at" : "2022-08-15T09:28:12.000+01:00",
+         "updated_at" : "2024-11-25T13:55:17.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
       },
       {
@@ -31095,7 +31312,7 @@
          "analytics_identifier" : "OT636",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "OPONI",
             "closed_at" : null,
             "content_id" : "3f43ee0c-1989-4d2b-87db-773cec90fb0b",
             "govuk_closed_status" : "devolved",
@@ -31121,7 +31338,7 @@
             }
          ],
          "title" : "Office of the Police Ombudsman for Northern Ireland",
-         "updated_at" : "2018-10-02T17:03:28.000+01:00",
+         "updated_at" : "2024-11-20T15:39:52.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-police-ombudsman-for-northern-ireland"
       },
       {
@@ -31205,7 +31422,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Regulator of Community Interest Companies",
-         "updated_at" : "2023-05-04T15:57:12.000+01:00",
+         "updated_at" : "2024-11-01T09:45:38.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-regulator-of-community-interest-companies"
       },
       {
@@ -31550,6 +31767,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/ordnance-survey"
       },
       {
+         "analytics_identifier" : "OT1432",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "2ff9585d-5738-460f-a785-95025e2cd2f7",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "PackUK",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "packuk"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/packuk",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "PackUK",
+         "updated_at" : "2024-11-20T15:55:05.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/packuk"
+      },
+      {
          "analytics_identifier" : "OT430",
          "child_organisations" : [],
          "details" : {
@@ -31835,7 +32080,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Plant Varieties and Seeds Tribunal",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "plant-varieties-and-seeds-tribunal"
          },
          "format" : "Tribunal",
@@ -31849,7 +32094,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Plant Varieties and Seeds Tribunal",
-         "updated_at" : "2019-09-12T11:19:11.000+01:00",
+         "updated_at" : "2024-11-20T16:06:13.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/plant-varieties-and-seeds-tribunal"
       },
       {
@@ -32224,7 +32469,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/probation-board-for-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-of-justice-northern-ireland",
+               "web_url" : "https://www.gov.uk/government/organisations/department-of-justice-northern-ireland"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -32329,7 +32579,7 @@
          "analytics_identifier" : "OT1265",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "PHA (NI)",
             "closed_at" : null,
             "content_id" : "3360cb75-a882-48cd-bbb7-0059ec2ecf89",
             "govuk_closed_status" : "devolved",
@@ -32355,7 +32605,7 @@
             }
          ],
          "title" : "Public Health Agency (Northern Ireland)",
-         "updated_at" : "2018-10-02T16:48:12.000+01:00",
+         "updated_at" : "2024-11-20T15:42:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/public-health-agency-northern-ireland"
       },
       {
@@ -32390,7 +32640,7 @@
          "analytics_identifier" : "OT962",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "PPSNI",
             "closed_at" : null,
             "content_id" : "0f94fafd-f61e-47ae-8c11-d376a677d0a2",
             "govuk_closed_status" : "devolved",
@@ -32402,7 +32652,12 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/public-prosecution-service-for-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
@@ -32411,7 +32666,7 @@
             }
          ],
          "title" : "Public Prosecution Service for Northern Ireland",
-         "updated_at" : "2018-02-23T11:10:53.000+00:00",
+         "updated_at" : "2024-11-20T15:40:35.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/public-prosecution-service-for-northern-ireland"
       },
       {
@@ -33643,10 +33898,10 @@
             "closed_at" : null,
             "content_id" : "ebae4517-422f-44dd-9f87-13304c9815cb",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Serious Fraud Office",
             "organisation_brand_colour_class_name" : "serious-fraud-office",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "serious-fraud-office"
          },
          "format" : "Non-ministerial department",
@@ -33660,7 +33915,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Serious Fraud Office",
-         "updated_at" : "2024-10-15T09:10:19.000+01:00",
+         "updated_at" : "2024-11-29T10:14:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/serious-fraud-office"
       },
       {
@@ -34260,7 +34515,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Subsidy Advice Unit",
-         "updated_at" : "2023-07-24T15:00:40.000+01:00",
+         "updated_at" : "2024-11-25T13:54:19.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/subsidy-advice-unit"
       },
       {
@@ -34634,7 +34889,7 @@
          "analytics_identifier" : "OT1179",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "TEO (NI)",
             "closed_at" : null,
             "content_id" : "2f8a3e24-a21b-4e0c-a68e-22f236a0cc0c",
             "govuk_closed_status" : null,
@@ -34646,11 +34901,16 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/the-executive-office-northern-ireland",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-executive"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Executive Office (Northern Ireland)",
-         "updated_at" : "2021-12-21T10:41:30.000+00:00",
+         "updated_at" : "2024-11-20T15:39:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/the-executive-office-northern-ireland"
       },
       {
@@ -35303,7 +35563,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Trade Remedies Authority",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "dbt",
             "slug" : "trade-remedies-authority"
          },
@@ -36085,6 +36345,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/uk-research-and-innovation"
       },
       {
+         "analytics_identifier" : "CS1431",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "UKRA",
+            "closed_at" : null,
+            "content_id" : "898f7022-719b-4919-acd0-5311a467e744",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "UK Resilience Academy",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "uk-resilience-academy"
+         },
+         "format" : "Civil service",
+         "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-skills",
+               "web_url" : "https://www.gov.uk/government/organisations/government-skills"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "UK Resilience Academy",
+         "updated_at" : "2024-11-05T12:10:41.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
+      },
+      {
          "analytics_identifier" : "OT1391",
          "child_organisations" : [],
          "details" : {
@@ -36446,7 +36738,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Valuation Office Agency",
-         "updated_at" : "2023-11-10T12:14:38.000+00:00",
+         "updated_at" : "2024-08-19T09:48:15.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
       },
       {
@@ -36633,7 +36925,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Veterinary \r\nProducts \r\nCommittee",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "no-identity",
             "slug" : "veterinary-products-committee"
          },
          "format" : "Advisory non-departmental public body",
@@ -36647,7 +36939,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Veterinary Products Committee",
-         "updated_at" : "2014-10-15T15:35:49.000+01:00",
+         "updated_at" : "2024-11-19T15:17:14.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/veterinary-products-committee"
       },
       {
@@ -37134,7 +37426,7 @@
          "analytics_identifier" : "EA697",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "YJA (NI)",
             "closed_at" : null,
             "content_id" : "a0540be1-ffa1-40a7-ae02-df05668c9d1f",
             "govuk_closed_status" : "devolved",
@@ -37160,7 +37452,7 @@
             }
          ],
          "title" : "Youth Justice Agency of Northern Ireland",
-         "updated_at" : "2019-09-13T08:53:25.000+01:00",
+         "updated_at" : "2024-11-20T14:55:58.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/youth-justice-agency-of-northern-ireland"
       },
       {
