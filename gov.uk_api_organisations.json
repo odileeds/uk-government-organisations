@@ -1485,7 +1485,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "British \r\nHallmarking \r\nCouncil ",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "british-hallmarking-council"
          },
@@ -1500,7 +1500,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "British Hallmarking Council",
-         "updated_at" : "2023-03-17T13:48:35.000+00:00",
+         "updated_at" : "2025-01-22T12:21:30.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/british-hallmarking-council"
       },
       {
@@ -2172,39 +2172,6 @@
          "title" : "Central Arbitration Committee",
          "updated_at" : "2024-05-14T13:29:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/central-arbitration-committee"
-      },
-      {
-         "analytics_identifier" : "OT1329",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "CDDO",
-            "closed_at" : null,
-            "content_id" : "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Central Digital \r\n& Data Office",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "central-digital-and-data-office"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/central-digital-and-data-office",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/digital-data-and-technology-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/digital-data-and-technology-profession"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Central Digital and Data Office",
-         "updated_at" : "2024-07-25T11:00:06.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/central-digital-and-data-office"
       },
       {
          "analytics_identifier" : "OT1412",
@@ -4352,6 +4319,44 @@
          "web_url" : "https://www.gov.uk/government/organisations/central-advisory-committee-on-pensions-and-compensation"
       },
       {
+         "analytics_identifier" : "OT1329",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CDDO",
+            "closed_at" : "2025-01-21T00:00:00.000+00:00",
+            "content_id" : "2fb482e7-3c4d-496f-887d-f8a55a15e89a",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Central Digital \r\n& Data Office",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "central-digital-and-data-office"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/central-digital-and-data-office",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/digital-data-and-technology-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/digital-data-and-technology-profession"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
+            }
+         ],
+         "title" : "Central Digital and Data Office",
+         "updated_at" : "2025-01-21T14:38:19.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/central-digital-and-data-office"
+      },
+      {
          "analytics_identifier" : "OT846",
          "child_organisations" : [],
          "details" : {
@@ -4427,7 +4432,7 @@
             "abbreviation" : "CDEI",
             "closed_at" : null,
             "content_id" : "1405edcb-943d-42d2-8ec8-c51cd58335a5",
-            "govuk_closed_status" : "merged",
+            "govuk_closed_status" : "split",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Centre for\r\nData Ethics\r\nand Innovation",
             "organisation_brand_colour_class_name" : "cabinet-office",
@@ -4447,10 +4452,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
             }
          ],
          "title" : "Centre for Data Ethics and Innovation",
-         "updated_at" : "2024-02-06T12:04:14.000+00:00",
+         "updated_at" : "2025-01-21T14:50:21.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation"
       },
       {
@@ -7361,6 +7370,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/disability-rights-commission"
       },
       {
+         "analytics_identifier" : "PB1152",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "DPEC",
+            "closed_at" : "2024-06-03T00:00:00.000+01:00",
+            "content_id" : "4d82bb31-00d0-431d-82b7-707869f06cc7",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Disabled Peopleâs Employment Corporation (GB) Ltd",
+            "organisation_brand_colour_class_name" : "department-for-work-pensions",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "disabled-peoples-employment-corporation"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/disabled-peoples-employment-corporation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Disabled Peopleâs Employment Corporation (GB) Ltd",
+         "updated_at" : "2025-01-14T17:25:59.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/disabled-peoples-employment-corporation"
+      },
+      {
          "analytics_identifier" : "EA823",
          "child_organisations" : [],
          "details" : {
@@ -8778,6 +8815,44 @@
          "web_url" : "https://www.gov.uk/government/organisations/general-teaching-council-for-england"
       },
       {
+         "analytics_identifier" : "OT1271",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-geography-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/government-geography-profession"
+            }
+         ],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-01-21T00:00:00.000+00:00",
+            "content_id" : "a433ae2c-d499-4f5e-a510-74107b943af7",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Geospatial\r\nCommission",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "geospatial-commission"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/geospatial-commission",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
+            }
+         ],
+         "title" : "Geospatial Commission",
+         "updated_at" : "2025-01-21T14:33:57.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
+      },
+      {
          "analytics_identifier" : "OT673",
          "child_organisations" : [],
          "details" : {
@@ -9897,6 +9972,44 @@
          "title" : "Identity and Passport Service",
          "updated_at" : "2014-10-15T15:38:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/identity-and-passport-service"
+      },
+      {
+         "analytics_identifier" : "OT1402",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "i.AI",
+            "closed_at" : "2025-01-21T00:00:00.000+00:00",
+            "content_id" : "3048a1bf-2a36-41f5-adbe-9b5d21ca49c3",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Incubator for\r\nArtificial Intelligence",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "incubator-for-artificial-intelligence"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
+            }
+         ],
+         "title" : "Incubator for Artificial Intelligence",
+         "updated_at" : "2025-01-21T14:40:12.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
       },
       {
          "analytics_identifier" : "OT1399",
@@ -12044,6 +12157,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-school-of-government"
       },
       {
+         "analytics_identifier" : "OT1343",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NSTIx",
+            "closed_at" : "2025-01-23T00:00:00.000+00:00",
+            "content_id" : "6f4ae471-3ce0-4439-83b4-b8cfb3d985f1",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "National Security Technology and Innovation Exchange",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "national-security-technology-and-innovation-exchange"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/national-security-technology-and-innovation-exchange",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Security Technology and Innovation Exchange",
+         "updated_at" : "2025-01-24T09:29:52.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-security-technology-and-innovation-exchange"
+      },
+      {
          "analytics_identifier" : "EA692",
          "child_organisations" : [],
          "details" : {
@@ -13476,6 +13612,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-for-low-emission-vehicles"
       },
       {
+         "analytics_identifier" : "OT1378",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OfP",
+            "closed_at" : "2024-11-12T00:00:00.000+00:00",
+            "content_id" : "8ee46356-a76a-4a5a-81a0-584a291d1917",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Office for Place",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-place"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/office-for-place",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "title" : "Office for Place",
+         "updated_at" : "2025-01-09T09:36:17.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
+      },
+      {
          "analytics_identifier" : "EA955",
          "child_organisations" : [],
          "details" : {
@@ -13841,6 +14010,39 @@
          "title" : "Office of the Identity Commissioner",
          "updated_at" : "2014-10-15T15:38:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-identity-commissioner"
+      },
+      {
+         "analytics_identifier" : "PB263",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OISC",
+            "closed_at" : "2025-01-16T00:00:00.000+00:00",
+            "content_id" : "97fa8d93-bdc4-476f-8f10-1c426383734b",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Office of the Immigration Services Commissioner",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "office-of-the-immigration-services-commissioner"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/office-of-the-immigration-services-commissioner",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/immigration-advice-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/immigration-advice-authority"
+            }
+         ],
+         "title" : "Office of the Immigration Services Commissioner",
+         "updated_at" : "2025-01-16T08:49:27.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
       },
       {
          "analytics_identifier" : "OT976",
@@ -18883,7 +19085,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Criminal Injuries Compensation Authority",
-         "updated_at" : "2021-05-06T15:14:02.000+01:00",
+         "updated_at" : "2025-01-08T12:11:02.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority"
       },
       {
@@ -19304,7 +19506,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2024-11-26T12:40:21.000+00:00",
+         "updated_at" : "2025-01-22T14:34:56.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -20612,6 +20814,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/active-travel-england",
                "web_url" : "https://www.gov.uk/government/organisations/active-travel-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/dft-operator-limited",
+               "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
             }
          ],
          "details" : {
@@ -21172,14 +21378,14 @@
          "analytics_identifier" : "PC1434",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : null,
+            "abbreviation" : "DFTO",
             "closed_at" : null,
             "content_id" : "d96162f6-2fe4-40cd-8eac-0a6ac08254fd",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "DfT Operator Limited",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "dft-operator-limited"
          },
          "format" : "Public corporation",
@@ -21198,7 +21404,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "DfT Operator Limited",
-         "updated_at" : "2024-12-18T11:59:25.000+00:00",
+         "updated_at" : "2025-01-20T07:26:08.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
       },
       {
@@ -21233,34 +21439,6 @@
          "title" : "Disability Unit",
          "updated_at" : "2024-12-16T12:07:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/disability-unit"
-      },
-      {
-         "analytics_identifier" : "PB1152",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "DPEC",
-            "closed_at" : null,
-            "content_id" : "4d82bb31-00d0-431d-82b7-707869f06cc7",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Disabled Peopleâs Employment Corporation (GB) Ltd",
-            "organisation_brand_colour_class_name" : "department-for-work-pensions",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "disabled-peoples-employment-corporation"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/disabled-peoples-employment-corporation",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Disabled Peopleâs Employment Corporation (GB) Ltd",
-         "updated_at" : "2018-07-17T12:57:55.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/disabled-peoples-employment-corporation"
       },
       {
          "analytics_identifier" : "PB247",
@@ -22986,39 +23164,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/gangmasters-licensing-appeals"
       },
       {
-         "analytics_identifier" : "OT1271",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-geography-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/government-geography-profession"
-            }
-         ],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "a433ae2c-d499-4f5e-a510-74107b943af7",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Geospatial\r\nCommission",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "geospatial-commission"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/geospatial-commission",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Geospatial Commission",
-         "updated_at" : "2024-01-22T13:11:29.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
-      },
-      {
          "analytics_identifier" : "OT1307",
          "child_organisations" : [],
          "details" : {
@@ -23333,9 +23478,9 @@
             "content_id" : "af07d5a5-df63-4ddc-9383-6a666845ebe9",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Government Digital Service",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "single-identity",
+            "logo_formatted_name" : "Government\r\nDigital Service",
+            "organisation_brand_colour_class_name" : "government-digital-service",
+            "organisation_logo_type_class_name" : "gds",
             "slug" : "government-digital-service"
          },
          "format" : "Sub organisation",
@@ -23346,10 +23491,27 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/geospatial-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/central-digital-and-data-office",
+               "web_url" : "https://www.gov.uk/government/organisations/central-digital-and-data-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
+               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/centre-for-data-ethics-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Government Digital Service",
-         "updated_at" : "2024-07-25T11:00:02.000+01:00",
+         "updated_at" : "2025-01-21T14:30:13.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
       },
       {
@@ -25163,7 +25325,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Treasury",
-         "updated_at" : "2023-11-22T14:01:49.000+00:00",
+         "updated_at" : "2025-01-31T11:27:54.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
       },
       {
@@ -25640,10 +25802,10 @@
             "closed_at" : null,
             "content_id" : "48fd24fe-60ba-4b9a-8618-9a84818e403d",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Immigration Advice Authority",
             "organisation_brand_colour_class_name" : "home-office",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "immigration-advice-authority"
          },
          "format" : "Executive non-departmental public body",
@@ -25654,10 +25816,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/home-office"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-immigration-services-commissioner",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Immigration Advice Authority",
-         "updated_at" : "2024-12-05T12:21:35.000+00:00",
+         "updated_at" : "2025-01-16T08:46:05.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/immigration-advice-authority"
       },
       {
@@ -25715,39 +25882,6 @@
          "title" : "Imperial War Museum",
          "updated_at" : "2023-02-14T09:48:26.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/imperial-war-museum"
-      },
-      {
-         "analytics_identifier" : "OT1402",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "i.AI",
-            "closed_at" : null,
-            "content_id" : "3048a1bf-2a36-41f5-adbe-9b5d21ca49c3",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Incubator for\r\nArtificial Intelligence",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "incubator-for-artificial-intelligence"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/incubator-for-automation-and-innovation",
-               "web_url" : "https://www.gov.uk/government/organisations/incubator-for-automation-and-innovation"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Incubator for Artificial Intelligence",
-         "updated_at" : "2024-07-25T11:00:09.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
       },
       {
          "analytics_identifier" : "OT1358",
@@ -26246,6 +26380,34 @@
          "title" : "Independent Reviewer of Terrorism Legislation",
          "updated_at" : "2014-10-15T15:36:39.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-reviewer-of-terrorism-legislation"
+      },
+      {
+         "analytics_identifier" : "OT1436",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "6b974c0e-bcdc-4f4c-ac1c-706711ce21ea",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Independent Water Commission",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "independent-water-commission"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/independent-water-commission",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Independent Water Commission",
+         "updated_at" : "2025-01-29T09:55:10.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/independent-water-commission"
       },
       {
          "analytics_identifier" : "OT152",
@@ -27721,7 +27883,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Migration Advisory \r\nCommittee",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "migration-advisory-committee"
          },
          "format" : "Advisory non-departmental public body",
@@ -27735,7 +27897,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Migration Advisory Committee",
-         "updated_at" : "2020-09-11T18:44:53.000+01:00",
+         "updated_at" : "2025-01-07T14:47:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/migration-advisory-committee"
       },
       {
@@ -29145,29 +29307,6 @@
          "title" : "National security and intelligence",
          "updated_at" : "2021-06-30T10:42:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-security"
-      },
-      {
-         "analytics_identifier" : "OT1343",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "NSTIx",
-            "closed_at" : null,
-            "content_id" : "6f4ae471-3ce0-4439-83b4-b8cfb3d985f1",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "National Security Technology and Innovation Exchange",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "national-security-technology-and-innovation-exchange"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/national-security-technology-and-innovation-exchange",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "National Security Technology and Innovation Exchange",
-         "updated_at" : "2023-11-03T10:55:48.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/national-security-technology-and-innovation-exchange"
       },
       {
          "analytics_identifier" : "OT1409",
@@ -30903,34 +31042,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/office-for-nuclear-regulation"
       },
       {
-         "analytics_identifier" : "OT1378",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "OfP",
-            "closed_at" : null,
-            "content_id" : "8ee46356-a76a-4a5a-81a0-584a291d1917",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Office for Place",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "office-for-place"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/office-for-place",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Office for Place",
-         "updated_at" : "2024-08-06T15:26:26.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
-      },
-      {
          "analytics_identifier" : "OT1246",
          "child_organisations" : [],
          "details" : {
@@ -31029,7 +31140,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for the Internal Market",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "office-for-the-internal-market"
          },
@@ -31044,7 +31155,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for the Internal Market",
-         "updated_at" : "2024-11-25T13:55:17.000+00:00",
+         "updated_at" : "2025-01-16T11:10:59.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-the-internal-market"
       },
       {
@@ -31284,34 +31395,6 @@
          "title" : "Office of the Children's Commissioner",
          "updated_at" : "2014-10-15T15:36:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-children-s-commissioner"
-      },
-      {
-         "analytics_identifier" : "PB263",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "OISC",
-            "closed_at" : null,
-            "content_id" : "97fa8d93-bdc4-476f-8f10-1c426383734b",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Office of the Immigration Services Commissioner",
-            "organisation_brand_colour_class_name" : "home-office",
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "office-of-the-immigration-services-commissioner"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/office-of-the-immigration-services-commissioner",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/home-office",
-               "web_url" : "https://www.gov.uk/government/organisations/home-office"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Office of the Immigration Services Commissioner",
-         "updated_at" : "2024-09-03T11:23:05.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/office-of-the-immigration-services-commissioner"
       },
       {
          "analytics_identifier" : "D21",
@@ -31757,18 +31840,13 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "open-innovation-team"
          },
-         "format" : "Civil service",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/open-innovation-team",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-policy-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-policy-profession"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Open Innovation Team",
-         "updated_at" : "2024-09-30T17:19:46.000+01:00",
+         "updated_at" : "2025-01-08T13:31:47.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
       },
       {
@@ -31863,24 +31941,19 @@
             "closed_at" : null,
             "content_id" : "2ff9585d-5738-460f-a785-95025e2cd2f7",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "PackUK",
             "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "packuk"
          },
-         "format" : "Sub organisation",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/packuk",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "PackUK",
-         "updated_at" : "2024-11-20T15:55:05.000+00:00",
+         "updated_at" : "2025-01-17T11:19:48.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/packuk"
       },
       {
@@ -32787,7 +32860,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Public Sector Fraud Authority",
-         "updated_at" : "2024-12-04T14:07:04.000+00:00",
+         "updated_at" : "2025-01-28T14:11:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/public-sector-fraud-authority"
       },
       {
@@ -33061,7 +33134,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Regulatory Horizons Council",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "regulatory-horizons-council"
          },
@@ -36211,6 +36284,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
+         "analytics_identifier" : "OT1437",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "UKIFS",
+            "closed_at" : null,
+            "content_id" : "55ae6ee0-138e-4031-97fd-616d1174b348",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "UK Industrial\r\nFusion Solutions",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "ukaea",
+            "slug" : "uk-industrial-fusion-solutions"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/uk-industrial-fusion-solutions",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-atomic-energy-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "UK Industrial Fusion Solutions",
+         "updated_at" : "2025-01-28T11:12:28.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
+      },
+      {
          "analytics_identifier" : "PB1398",
          "child_organisations" : [],
          "details" : {
@@ -36447,13 +36548,9 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "uk-resilience-academy"
          },
-         "format" : "Civil service",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
          "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-skills",
-               "web_url" : "https://www.gov.uk/government/organisations/government-skills"
-            },
             {
                "id" : "https://www.gov.uk/api/organisations/cabinet-office",
                "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
@@ -36462,7 +36559,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Resilience Academy",
-         "updated_at" : "2024-11-05T12:10:41.000+00:00",
+         "updated_at" : "2025-01-22T17:04:42.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
       },
       {
