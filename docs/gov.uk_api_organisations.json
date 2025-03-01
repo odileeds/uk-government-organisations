@@ -571,32 +571,37 @@
          "web_url" : "https://www.gov.uk/government/organisations/agriculture-and-horticulture-development-board"
       },
       {
-         "analytics_identifier" : "OT1406",
+         "analytics_identifier" : "OT1439",
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "AISI",
             "closed_at" : null,
-            "content_id" : "f1018649-b7f5-4388-af6f-bb3709c13403",
+            "content_id" : "3a279946-1880-410e-ad4e-eb3cef22e210",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : "AI Safety Institute",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "ai-safety-institute"
+            "logo_formatted_name" : "AI Security Institute",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "ai-security-institute"
          },
          "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/ai-safety-institute",
+         "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ai-safety-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
+            }
+         ],
          "superseding_organisations" : [],
-         "title" : "AI Safety Institute",
-         "updated_at" : "2024-05-20T08:41:32.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
+         "title" : "AI Security Institute",
+         "updated_at" : "2025-02-14T09:12:49.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
       },
       {
          "analytics_identifier" : "OT248",
@@ -816,7 +821,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Arts and Humanities Research Council",
-         "updated_at" : "2018-04-04T12:03:12.000+01:00",
+         "updated_at" : "2025-02-04T09:52:28.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/arts-and-humanities-research-council"
       },
       {
@@ -1159,7 +1164,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Biotechnology and Biological Sciences Research Council",
-         "updated_at" : "2018-04-04T12:08:02.000+01:00",
+         "updated_at" : "2025-02-04T09:53:17.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/biotechnology-biological-sciences-research-council"
       },
       {
@@ -2783,34 +2788,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/civil-service"
       },
       {
-         "analytics_identifier" : "OT1200",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "7a9be5d2-a512-431b-9bf4-ec565fd41c18",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Civil Service\r\nBoard",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "civil-service-board"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/civil-service-board",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Civil Service Board",
-         "updated_at" : "2020-03-10T16:30:45.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/civil-service-board"
-      },
-      {
          "analytics_identifier" : "PB366",
          "child_organisations" : [],
          "details" : {
@@ -3167,6 +3144,39 @@
          "title" : "Agricultural Wages Committee",
          "updated_at" : "2014-10-15T15:36:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/agricultural-wages-committee-x13"
+      },
+      {
+         "analytics_identifier" : "OT1406",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "AISI",
+            "closed_at" : "2025-02-14T00:00:00.000+00:00",
+            "content_id" : "f1018649-b7f5-4388-af6f-bb3709c13403",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "AI Safety Institute",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "ai-safety-institute"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/ai-safety-institute",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
+            }
+         ],
+         "title" : "AI Safety Institute",
+         "updated_at" : "2025-02-14T09:14:36.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/ai-safety-institute"
       },
       {
          "analytics_identifier" : "OT494",
@@ -4661,6 +4671,34 @@
          "title" : "Children's Workforce Development Council",
          "updated_at" : "2014-10-15T15:38:14.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/childrens-workforce-development-council"
+      },
+      {
+         "analytics_identifier" : "OT1200",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-01-15T00:00:00.000+00:00",
+            "content_id" : "7a9be5d2-a512-431b-9bf4-ec565fd41c18",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Civil Service\r\nBoard",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "civil-service-board"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/civil-service-board",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Civil Service Board",
+         "updated_at" : "2025-02-21T10:57:03.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/civil-service-board"
       },
       {
          "analytics_identifier" : "OT1167",
@@ -18577,7 +18615,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Commonwealth Scholarship Commission in the UK",
-         "updated_at" : "2020-09-02T06:04:37.000+01:00",
+         "updated_at" : "2025-02-19T10:11:56.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/commonwealth-scholarship-commission-in-the-uk"
       },
       {
@@ -20588,7 +20626,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for\r\nScience, Innovation\r\n& Technology",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-science-innovation-and-technology"
          },
@@ -21670,7 +21708,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Economic and Social Research Council",
-         "updated_at" : "2018-04-04T12:09:15.000+01:00",
+         "updated_at" : "2025-02-04T09:54:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/economic-and-social-research-council"
       },
       {
@@ -21847,7 +21885,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Engineering and Physical Sciences Research Council",
-         "updated_at" : "2018-04-04T12:10:06.000+01:00",
+         "updated_at" : "2025-02-04T09:54:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/engineering-and-physical-sciences-research-council"
       },
       {
@@ -22734,7 +22772,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "flood-forecasting-centre"
          },
-         "format" : "Civil service",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/flood-forecasting-centre",
          "parent_organisations" : [
             {
@@ -22749,7 +22787,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Flood Forecasting Centre",
-         "updated_at" : "2023-11-23T14:45:11.000+00:00",
+         "updated_at" : "2025-02-27T10:56:19.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
       },
       {
@@ -22950,7 +22988,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Forensic Science Regulator",
-         "updated_at" : "2024-09-25T15:42:28.000+01:00",
+         "updated_at" : "2025-02-13T09:17:35.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/forensic-science-regulator"
       },
       {
@@ -23627,16 +23665,12 @@
             {
                "id" : "https://www.gov.uk/api/organisations/civil-service",
                "web_url" : "https://www.gov.uk/government/organisations/civil-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/geospatial-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/geospatial-commission"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Geography Profession",
-         "updated_at" : "2020-06-23T15:47:50.000+01:00",
+         "updated_at" : "2025-02-21T14:15:39.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-geography-profession"
       },
       {
@@ -26476,16 +26510,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/industrial-strategy-advisory-council",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
-               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Industrial Strategy Advisory Council",
@@ -26500,7 +26525,7 @@
             "closed_at" : null,
             "content_id" : "80fc3a6c-b2c4-471d-be00-e3639169d9f8",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Infected Blood\r\nCompensation Authority",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
@@ -26512,7 +26537,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Infected Blood Compensation Authority",
-         "updated_at" : "2024-05-21T14:10:42.000+01:00",
+         "updated_at" : "2025-02-04T11:12:54.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/infected-blood-compensation-authority"
       },
       {
@@ -27720,7 +27745,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Maritime and Coastguard Agency",
-         "updated_at" : "2023-09-06T16:02:26.000+01:00",
+         "updated_at" : "2025-02-14T12:43:27.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
       },
       {
@@ -27804,7 +27829,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Medical Research Council",
-         "updated_at" : "2018-04-04T12:11:53.000+01:00",
+         "updated_at" : "2025-02-04T09:55:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/medical-research-council"
       },
       {
@@ -29047,6 +29072,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-highways"
       },
       {
+         "analytics_identifier" : "OT1438",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NISTA",
+            "closed_at" : null,
+            "content_id" : "8d40c606-b836-4bf1-88f6-0778e1681899",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "National Infrastructure\r\nand Service Transformation\r\nAuthority",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "national-infrastructure-and-service-transformation-authority"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Infrastructure and Service Transformation Authority",
+         "updated_at" : "2025-02-03T15:49:43.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
+      },
+      {
          "analytics_identifier" : "OT1161",
          "child_organisations" : [],
          "details" : {
@@ -29397,7 +29445,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Natural Environment Research Council",
-         "updated_at" : "2018-04-04T12:12:44.000+01:00",
+         "updated_at" : "2025-02-04T09:56:17.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/natural-environment-research-council"
       },
       {
@@ -29959,7 +30007,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "northern-ireland-executive"
          },
-         "format" : "Devolved administration",
+         "format" : "Devolved government",
          "id" : "https://www.gov.uk/api/organisations/northern-ireland-executive",
          "parent_organisations" : [],
          "superseded_organisations" : [
@@ -31538,7 +31586,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Public Guardian",
-         "updated_at" : "2023-10-09T12:00:26.000+01:00",
+         "updated_at" : "2025-02-27T11:11:26.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-public-guardian"
       },
       {
@@ -32213,7 +32261,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Planning\r\nInspectorate",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "planning-inspectorate"
          },
@@ -33162,7 +33210,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Regulatory Policy Committee",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "regulatory-policy-committee"
          },
@@ -33723,7 +33771,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Science and Technology Facilities Council",
-         "updated_at" : "2018-04-04T12:13:31.000+01:00",
+         "updated_at" : "2025-02-04T09:57:52.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-facilities-council"
       },
       {
@@ -33909,7 +33957,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Security Industry Authority",
-         "updated_at" : "2024-03-18T10:45:00.000+00:00",
+         "updated_at" : "2025-02-11T11:32:22.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/security-industry-authority"
       },
       {
@@ -34229,6 +34277,34 @@
          "title" : "Sir John Soane's Museum",
          "updated_at" : "2023-02-14T09:57:05.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/sir-john-soane-s-museum"
+      },
+      {
+         "analytics_identifier" : "EA1440",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "1b5d2d26-9f1e-4ac5-8335-12061d09ca8e",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Skills England",
+            "organisation_brand_colour_class_name" : "department-for-education",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "skills-england"
+         },
+         "format" : "Executive agency",
+         "id" : "https://www.gov.uk/api/organisations/skills-england",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Skills England",
+         "updated_at" : "2025-02-28T14:21:46.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/skills-england"
       },
       {
          "analytics_identifier" : "PB1237",
@@ -35569,7 +35645,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "the-scottish-government"
          },
-         "format" : "Devolved administration",
+         "format" : "Devolved government",
          "id" : "https://www.gov.uk/api/organisations/the-scottish-government",
          "parent_organisations" : [],
          "superseded_organisations" : [
@@ -36291,7 +36367,7 @@
             "closed_at" : null,
             "content_id" : "55ae6ee0-138e-4031-97fd-616d1174b348",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "UK Industrial\r\nFusion Solutions",
             "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
             "organisation_logo_type_class_name" : "ukaea",
@@ -36308,7 +36384,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Industrial Fusion Solutions",
-         "updated_at" : "2025-01-28T11:12:28.000+00:00",
+         "updated_at" : "2025-02-06T10:07:54.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
       },
       {
@@ -36542,7 +36618,7 @@
             "closed_at" : null,
             "content_id" : "898f7022-719b-4919-acd0-5311a467e744",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "UK Resilience Academy",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -36559,7 +36635,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Resilience Academy",
-         "updated_at" : "2025-01-22T17:04:42.000+00:00",
+         "updated_at" : "2025-02-06T11:50:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
       },
       {
@@ -37376,7 +37452,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "welsh-government"
          },
-         "format" : "Devolved administration",
+         "format" : "Devolved government",
          "id" : "https://www.gov.uk/api/organisations/welsh-government",
          "parent_organisations" : [],
          "superseded_organisations" : [
