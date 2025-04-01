@@ -11845,6 +11845,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-information-board"
       },
       {
+         "analytics_identifier" : "OT1161",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-03-31T00:00:00.000+01:00",
+            "content_id" : "2ca05037-b1c6-44f3-a9ef-a35cb6c6a47a",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "National Infrastructure Commission",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "national-infrastructure-commission"
+         },
+         "format" : "Executive agency",
+         "id" : "https://www.gov.uk/api/organisations/national-infrastructure-commission",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
+            }
+         ],
+         "title" : "National Infrastructure Commission",
+         "updated_at" : "2025-03-31T15:01:14.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-commission"
+      },
+      {
          "analytics_identifier" : "OT1299",
          "child_organisations" : [],
          "details" : {
@@ -14976,6 +15009,44 @@
          "title" : "Professional Oversight Board",
          "updated_at" : "2014-10-15T15:38:11.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/professional-oversight-board"
+      },
+      {
+         "analytics_identifier" : "OT1385",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-03-10T00:00:00.000+00:00",
+            "content_id" : "020e7ab9-bff3-4432-a2d0-d9b6d538d6cf",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Project Delivery \r\nFunction",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "project-delivery-function"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/project-delivery-function",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service-project-delivery-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service-project-delivery-profession"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-project-delivery",
+               "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
+            }
+         ],
+         "title" : "Project Delivery Function",
+         "updated_at" : "2025-03-10T12:35:26.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/project-delivery-function"
       },
       {
          "analytics_identifier" : "OT1031",
@@ -18721,7 +18792,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Competition and \r\nMarkets Authority",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "competition-and-markets-authority"
          },
@@ -19390,7 +19461,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Defence Equipment and Support",
-         "updated_at" : "2023-05-02T11:02:46.000+01:00",
+         "updated_at" : "2025-03-10T08:28:29.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/defence-equipment-and-support"
       },
       {
@@ -24055,6 +24126,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-the-government-planning-profession"
       },
       {
+         "analytics_identifier" : "OT1441",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "7a9d8933-f61b-48b9-bfd5-d1170175e682",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Government\r\nProject Delivery",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-project-delivery"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/government-project-delivery",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/project-delivery-function",
+               "web_url" : "https://www.gov.uk/government/organisations/project-delivery-function"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Government Project Delivery",
+         "updated_at" : "2025-03-10T12:34:19.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
+      },
+      {
          "analytics_identifier" : "EA1255",
          "child_organisations" : [],
          "details" : {
@@ -24210,12 +24314,7 @@
       },
       {
          "analytics_identifier" : "OT1416",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
-               "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -24398,7 +24497,7 @@
             "closed_at" : null,
             "content_id" : "04debc1f-d17b-46ad-83ee-fd3633e1579e",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Great British Energy",
             "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
             "organisation_logo_type_class_name" : "no-identity",
@@ -24415,7 +24514,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Great British Energy",
-         "updated_at" : "2024-07-25T12:56:34.000+01:00",
+         "updated_at" : "2025-03-17T10:01:43.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/great-british-energy"
       },
       {
@@ -25336,10 +25435,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/evaluation-task-force",
                "web_url" : "https://www.gov.uk/government/organisations/evaluation-task-force"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/industrial-strategy-advisory-council",
-               "web_url" : "https://www.gov.uk/government/organisations/industrial-strategy-advisory-council"
             }
          ],
          "details" : {
@@ -25568,6 +25663,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-the-independent-examiner-of-complaints",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-the-independent-examiner-of-complaints"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/immigration-advice-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/immigration-advice-authority"
             }
          ],
          "details" : {
@@ -29079,7 +29178,7 @@
             "closed_at" : null,
             "content_id" : "8d40c606-b836-4bf1-88f6-0778e1681899",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "National Infrastructure\r\nand Service Transformation\r\nAuthority",
             "organisation_brand_colour_class_name" : "hm-treasury",
             "organisation_logo_type_class_name" : "single-identity",
@@ -29087,30 +29186,11 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "National Infrastructure and Service Transformation Authority",
-         "updated_at" : "2025-02-03T15:49:43.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
-      },
-      {
-         "analytics_identifier" : "OT1161",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "2ca05037-b1c6-44f3-a9ef-a35cb6c6a47a",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "National Infrastructure Commission",
-            "organisation_brand_colour_class_name" : "hm-treasury",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "national-infrastructure-commission"
-         },
-         "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/national-infrastructure-commission",
          "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
             {
                "id" : "https://www.gov.uk/api/organisations/hm-treasury",
                "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
@@ -29118,9 +29198,9 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "National Infrastructure Commission",
-         "updated_at" : "2019-06-17T14:41:20.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-commission"
+         "title" : "National Infrastructure and Service Transformation Authority",
+         "updated_at" : "2025-03-31T15:00:19.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
       },
       {
          "analytics_identifier" : "PB474",
@@ -29337,7 +29417,7 @@
             "content_id" : "354bc716-9654-4b5e-b24d-172588e24ca3",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "National security and intelligence",
+            "logo_formatted_name" : "National Security and Intelligence",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "national-security"
@@ -29352,8 +29432,8 @@
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
-         "title" : "National security and intelligence",
-         "updated_at" : "2021-06-30T10:42:52.000+01:00",
+         "title" : "National Security and Intelligence",
+         "updated_at" : "2025-03-11T14:03:51.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-security"
       },
       {
@@ -30847,7 +30927,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Digital\r\nIdentities & Attributes ",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-digital-identities-and-attributes"
          },
@@ -31264,7 +31344,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Veterans' Affairs",
-         "updated_at" : "2024-07-25T11:09:21.000+01:00",
+         "updated_at" : "2025-03-04T11:05:24.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-veterans-affairs"
       },
       {
@@ -32753,39 +32833,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/professional-standards-authority-for-health-and-social-care"
       },
       {
-         "analytics_identifier" : "OT1385",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "020e7ab9-bff3-4432-a2d0-d9b6d538d6cf",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Project Delivery \r\nFunction",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "project-delivery-function"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/project-delivery-function",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-project-delivery-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-project-delivery-profession"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Project Delivery Function",
-         "updated_at" : "2023-03-30T10:58:32.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/project-delivery-function"
-      },
-      {
          "analytics_identifier" : "OT1265",
          "child_organisations" : [],
          "details" : {
@@ -34125,7 +34172,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Serious Fraud Office",
-         "updated_at" : "2024-11-29T10:14:55.000+00:00",
+         "updated_at" : "2025-03-27T13:23:21.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/serious-fraud-office"
       },
       {
@@ -34303,7 +34350,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Skills England",
-         "updated_at" : "2025-02-28T14:21:46.000+00:00",
+         "updated_at" : "2025-03-06T15:22:14.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/skills-england"
       },
       {
@@ -34837,7 +34884,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Teaching Regulation Agency",
-         "updated_at" : "2023-12-14T15:24:01.000+00:00",
+         "updated_at" : "2025-03-31T13:14:32.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/teaching-regulation-agency"
       },
       {
@@ -36031,7 +36078,12 @@
       },
       {
          "analytics_identifier" : "PB137",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-industrial-fusion-solutions",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
+            }
+         ],
          "details" : {
             "abbreviation" : "UKAEA",
             "closed_at" : null,
@@ -36391,7 +36443,7 @@
          "analytics_identifier" : "PB1398",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "UKIB",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "eb93d331-7726-4ce7-9409-c47d3603ffbe",
             "govuk_closed_status" : null,
@@ -36412,7 +36464,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Infrastructure Bank",
-         "updated_at" : "2023-09-07T13:26:09.000+01:00",
+         "updated_at" : "2025-03-14T16:40:56.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-infrastructure-bank"
       },
       {
@@ -36681,7 +36733,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Space Agency",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "uk-space-agency"
          },
@@ -36696,7 +36748,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2024-02-22T16:59:16.000+00:00",
+         "updated_at" : "2025-03-06T11:33:34.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
