@@ -991,6 +991,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/attorney-generals-office"
       },
       {
+         "analytics_identifier" : "PB1442",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "AWE",
+            "closed_at" : null,
+            "content_id" : "c866d35e-17da-4219-a585-18b4a05faf52",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "AWE Nuclear Security Technologies",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "awe-nuclear-security-technologies"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/awe-nuclear-security-technologies",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/defence-nuclear-organisation",
+               "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-organisation"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "AWE Nuclear Security Technologies",
+         "updated_at" : "2025-04-09T12:51:07.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
+      },
+      {
          "analytics_identifier" : "OT1016",
          "child_organisations" : [],
          "details" : {
@@ -7732,6 +7764,48 @@
          "web_url" : "https://www.gov.uk/government/organisations/eastern-health-and-social-services-board"
       },
       {
+         "analytics_identifier" : "EO1216",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ESFA",
+            "closed_at" : "2025-04-01T00:00:00.000+01:00",
+            "content_id" : "71381a6e-aa5c-43ae-a982-be9bfd46ea5b",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Education & Skills \r\nFunding Agency",
+            "organisation_brand_colour_class_name" : "department-for-education",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "education-and-skills-funding-agency"
+         },
+         "format" : "Executive agency",
+         "id" : "https://www.gov.uk/api/organisations/education-and-skills-funding-agency",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/skills-funding-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/skills-funding-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/education-funding-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/education-funding-agency"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "title" : "Education and Skills Funding Agency",
+         "updated_at" : "2025-04-01T10:26:25.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
+      },
+      {
          "analytics_identifier" : "EA242",
          "child_organisations" : [],
          "details" : {
@@ -10336,6 +10410,48 @@
          "title" : "Information Services Division (Scotland)",
          "updated_at" : "2014-10-15T15:38:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/information-services-division-scotland"
+      },
+      {
+         "analytics_identifier" : "OT1166",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "IPA",
+            "closed_at" : "2025-04-01T00:00:00.000+01:00",
+            "content_id" : "28fbe4cf-7848-4e77-9ed2-e71935fb5bf1",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Infrastructure \r\nand Projects  \r\nAuthority",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "infrastructure-and-projects-authority"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/infrastructure-and-projects-authority",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/infrastructure-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/infrastructure-uk"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
+            }
+         ],
+         "title" : "Infrastructure and Projects Authority",
+         "updated_at" : "2025-04-01T13:37:58.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority"
       },
       {
          "analytics_identifier" : "OT947",
@@ -19494,7 +19610,12 @@
       },
       {
          "analytics_identifier" : "OT1250",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/awe-nuclear-security-technologies",
+               "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
+            }
+         ],
          "details" : {
             "abbreviation" : "DNO",
             "closed_at" : null,
@@ -19788,6 +19909,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-trade-sanctions-implementation",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-the-pay-review-bodies",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-the-pay-review-bodies"
             }
          ],
          "details" : {
@@ -19797,7 +19922,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for\r\nBusiness & Trade",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "dbt",
             "slug" : "department-for-business-and-trade"
          },
@@ -20196,6 +20321,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/oak-national-academy",
                "web_url" : "https://www.gov.uk/government/organisations/oak-national-academy"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/skills-england",
+               "web_url" : "https://www.gov.uk/government/organisations/skills-england"
             }
          ],
          "details" : {
@@ -20220,6 +20349,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-college-for-teaching-and-leadership",
                "web_url" : "https://www.gov.uk/government/organisations/national-college-for-teaching-and-leadership"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/education-and-skills-funding-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
             }
          ],
          "superseding_organisations" : [],
@@ -20506,6 +20639,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
                "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-water-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-water-commission"
             }
          ],
          "details" : {
@@ -20688,6 +20825,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-digital-identities-and-attributes",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
             }
          ],
          "details" : {
@@ -21781,43 +21922,6 @@
          "title" : "Economic and Social Research Council",
          "updated_at" : "2025-02-04T09:54:55.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/economic-and-social-research-council"
-      },
-      {
-         "analytics_identifier" : "EO1216",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "ESFA",
-            "closed_at" : null,
-            "content_id" : "71381a6e-aa5c-43ae-a982-be9bfd46ea5b",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Education & Skills \r\nFunding Agency",
-            "organisation_brand_colour_class_name" : "department-for-education",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "education-and-skills-funding-agency"
-         },
-         "format" : "Executive agency",
-         "id" : "https://www.gov.uk/api/organisations/education-and-skills-funding-agency",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/skills-funding-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/skills-funding-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/education-funding-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/education-funding-agency"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Education and Skills Funding Agency",
-         "updated_at" : "2023-09-28T08:48:31.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
       },
       {
          "analytics_identifier" : "OT1390",
@@ -26668,43 +26772,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/information-commissioner-s-office"
       },
       {
-         "analytics_identifier" : "OT1166",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "IPA",
-            "closed_at" : null,
-            "content_id" : "28fbe4cf-7848-4e77-9ed2-e71935fb5bf1",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Infrastructure \r\nand Projects  \r\nAuthority",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "infrastructure-and-projects-authority"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/infrastructure-and-projects-authority",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
-               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/infrastructure-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/infrastructure-uk"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Infrastructure and Projects Authority",
-         "updated_at" : "2022-11-22T12:17:23.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority"
-      },
-      {
          "analytics_identifier" : "PB1078",
          "child_organisations" : [],
          "details" : {
@@ -27480,7 +27547,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Legal Aid Agency",
-         "updated_at" : "2023-09-22T15:06:55.000+01:00",
+         "updated_at" : "2025-04-07T16:49:25.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/legal-aid-agency"
       },
       {
@@ -28320,12 +28387,16 @@
                "web_url" : "https://www.gov.uk/government/organisations/sheffield-forgemasters-international-ltd"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/pension-compensation-and-welfare-support-for-armed-forces-and-veterans",
-               "web_url" : "https://www.gov.uk/government/organisations/pension-compensation-and-welfare-support-for-armed-forces-and-veterans"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/national-space-operations-centre",
                "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-veterans-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-veterans-affairs"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/awe-nuclear-security-technologies",
+               "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
             }
          ],
          "details" : {
@@ -28447,6 +28518,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-levelling-up-housing-and-communities",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-place",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-place"
             }
          ],
          "superseding_organisations" : [],
@@ -28594,20 +28669,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/her-majestys-magistrates-courts-service-inspectorate"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/academy-for-justice-commissioning",
-               "web_url" : "https://www.gov.uk/government/organisations/academy-for-justice-commissioning"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/jeffrey-review",
                "web_url" : "https://www.gov.uk/government/organisations/jeffrey-review"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/children-and-family-court-advisory-and-support-service",
                "web_url" : "https://www.gov.uk/government/organisations/children-and-family-court-advisory-and-support-service"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice-commissioning",
-               "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice-commissioning"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/judicial-office",
@@ -29196,7 +29263,16 @@
                "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-infrastructure-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-commission"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/infrastructure-and-projects-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/infrastructure-and-projects-authority"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "National Infrastructure and Service Transformation Authority",
          "updated_at" : "2025-03-31T15:00:19.000+01:00",
@@ -31105,7 +31181,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Life Sciences",
-         "updated_at" : "2017-08-24T14:21:30.000+01:00",
+         "updated_at" : "2025-04-23T15:14:56.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-life-sciences"
       },
       {
@@ -34060,7 +34136,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Sellafield Ltd",
-         "updated_at" : "2020-02-27T16:26:25.000+00:00",
+         "updated_at" : "2025-04-02T15:03:50.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/sellafield-ltd"
       },
       {
