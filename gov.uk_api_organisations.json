@@ -450,7 +450,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Council on the Misuse of Drugs",
-         "updated_at" : "2019-03-15T16:29:56.000+00:00",
+         "updated_at" : "2025-05-29T09:17:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
       },
       {
@@ -919,34 +919,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/arts-council-of-wales"
       },
       {
-         "analytics_identifier" : "PB1334",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "AWE",
-            "closed_at" : null,
-            "content_id" : "6b400e41-cd6a-4593-899d-e18becc0dc48",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Atomic Weapons Establishment",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "atomic-weapons-establishment"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/atomic-weapons-establishment",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Atomic Weapons Establishment",
-         "updated_at" : "2024-10-03T10:33:58.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/atomic-weapons-establishment"
-      },
-      {
          "analytics_identifier" : "D1",
          "child_organisations" : [
             {
@@ -998,7 +970,7 @@
             "closed_at" : null,
             "content_id" : "c866d35e-17da-4219-a585-18b4a05faf52",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "AWE Nuclear Security Technologies",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "custom",
@@ -1019,7 +991,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "AWE Nuclear Security Technologies",
-         "updated_at" : "2025-04-09T12:51:07.000+01:00",
+         "updated_at" : "2025-05-21T09:33:13.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
       },
       {
@@ -2090,7 +2062,12 @@
       },
       {
          "analytics_identifier" : "PB251",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-guardians-office",
+               "web_url" : "https://www.gov.uk/government/organisations/national-guardians-office"
+            }
+         ],
          "details" : {
             "abbreviation" : "CQC",
             "closed_at" : null,
@@ -2110,7 +2087,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-information-board",
+               "web_url" : "https://www.gov.uk/government/organisations/national-information-board"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Care Quality Commission",
          "updated_at" : "2014-10-15T15:35:55.000+01:00",
@@ -3533,6 +3515,39 @@
          "title" : "Assets Recovery Agency",
          "updated_at" : "2014-10-15T15:37:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/assets-recovery-agency"
+      },
+      {
+         "analytics_identifier" : "PB1334",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "AWE",
+            "closed_at" : "2024-06-01T00:00:00.000+01:00",
+            "content_id" : "6b400e41-cd6a-4593-899d-e18becc0dc48",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Atomic Weapons Establishment",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "atomic-weapons-establishment"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/atomic-weapons-establishment",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/awe-nuclear-security-technologies",
+               "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
+            }
+         ],
+         "title" : "Atomic Weapons Establishment",
+         "updated_at" : "2025-05-21T09:34:07.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/atomic-weapons-establishment"
       },
       {
          "analytics_identifier" : "PC343",
@@ -10689,12 +10704,7 @@
       },
       {
          "analytics_identifier" : "OT498",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/jhub-defence-innovation",
-               "web_url" : "https://www.gov.uk/government/organisations/jhub-defence-innovation"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : "JFC",
             "closed_at" : null,
@@ -12215,8 +12225,8 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/her-majestys-prison-and-probation-service",
-               "web_url" : "https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service"
+               "id" : "https://www.gov.uk/api/organisations/hm-prison-and-probation-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-prison-and-probation-service"
             }
          ],
          "title" : "National Offender Management Service",
@@ -19913,6 +19923,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-the-pay-review-bodies",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-the-pay-review-bodies"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/industrial-development-advisory-board",
+               "web_url" : "https://www.gov.uk/government/organisations/industrial-development-advisory-board"
             }
          ],
          "details" : {
@@ -21836,7 +21850,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Standards Agency",
-         "updated_at" : "2024-12-20T13:18:26.000+00:00",
+         "updated_at" : "2025-05-30T11:30:02.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-standards-agency"
       },
       {
@@ -23069,10 +23083,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/westminster-foundation-for-democracy"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/bbc-world-service",
-               "web_url" : "https://www.gov.uk/government/organisations/bbc-world-service"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/government-communications-headquarters",
                "web_url" : "https://www.gov.uk/government/organisations/government-communications-headquarters"
             },
@@ -23485,7 +23495,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Chemist",
-         "updated_at" : "2014-10-15T15:38:51.000+01:00",
+         "updated_at" : "2025-05-08T14:05:43.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-chemist"
       },
       {
@@ -23567,6 +23577,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-cyber-security-centre",
                "web_url" : "https://www.gov.uk/government/organisations/national-cyber-security-centre"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-cyber-force",
+               "web_url" : "https://www.gov.uk/government/organisations/national-cyber-force"
             }
          ],
          "details" : {
@@ -25972,7 +25986,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HSC Business Services Organisation (Northern Ireland)",
-         "updated_at" : "2024-11-20T14:57:49.000+00:00",
+         "updated_at" : "2025-05-27T11:20:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hsc-business-services-organisation-northern-ireland"
       },
       {
@@ -26656,7 +26670,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Industrial Development \r\nAdvisory Board",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "industrial-development-advisory-board"
          },
@@ -27323,6 +27337,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/queens-harbour-master"
       },
       {
+         "analytics_identifier" : "OT581",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "KHM",
+            "closed_at" : null,
+            "content_id" : "deaee9ef-4979-45b9-afc6-6cdb56abd2e3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "King's Harbour Master",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "kings-harbour-master"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/kings-harbour-master",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "King's Harbour Master",
+         "updated_at" : "2023-02-02T16:16:29.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/kings-harbour-master"
+      },
+      {
          "analytics_identifier" : "EA752",
          "child_organisations" : [],
          "details" : {
@@ -27416,17 +27458,22 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Land Registration Rule Committee",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "land-registration-rule-committee"
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/land-registration-rule-committee",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Land Registration Rule Committee",
-         "updated_at" : "2021-11-15T14:18:02.000+00:00",
+         "updated_at" : "2025-05-15T15:14:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/land-registration-rule-committee"
       },
       {
@@ -28088,7 +28135,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Migration Advisory Committee",
-         "updated_at" : "2025-01-07T14:47:22.000+00:00",
+         "updated_at" : "2025-05-29T11:49:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/migration-advisory-committee"
       },
       {
@@ -28421,7 +28468,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Defence",
-         "updated_at" : "2023-06-09T15:49:12.000+01:00",
+         "updated_at" : "2025-05-08T16:46:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
       },
       {
@@ -28498,6 +28545,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/windrush-commemoration-committee",
                "web_url" : "https://www.gov.uk/government/organisations/windrush-commemoration-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/land-registration-rule-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/land-registration-rule-committee"
             }
          ],
          "details" : {
@@ -29172,6 +29223,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-gallery"
       },
       {
+         "analytics_identifier" : "OT1443",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NGO",
+            "closed_at" : null,
+            "content_id" : "9a314c5d-8de8-416c-8b50-a91391d02f99",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "National Guardian's Office",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "national-guardians-office"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/national-guardians-office",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/care-quality-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/care-quality-commission"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Guardian's Office",
+         "updated_at" : "2025-05-07T14:21:51.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-guardians-office"
+      },
+      {
          "analytics_identifier" : "PB175",
          "child_organisations" : [
             {
@@ -29634,7 +29713,12 @@
       },
       {
          "analytics_identifier" : "OT1103",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
+            }
+         ],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -31300,7 +31384,16 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/higher-education-funding-council-for-england",
+               "web_url" : "https://www.gov.uk/government/organisations/higher-education-funding-council-for-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-fair-access",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-fair-access"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Office for Students",
          "updated_at" : "2018-03-14T10:49:48.000+00:00",
@@ -33065,7 +33158,7 @@
             "closed_at" : null,
             "content_id" : "08c7e23c-d822-406c-812b-3de9c03a0518",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Pubs Code Adjudicator",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "single-identity",
@@ -33082,7 +33175,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Pubs Code Adjudicator",
-         "updated_at" : "2021-08-18T12:14:23.000+01:00",
+         "updated_at" : "2025-05-16T12:38:15.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/pubs-code-adjudicator"
       },
       {
@@ -34029,7 +34122,12 @@
       },
       {
          "analytics_identifier" : "OT305",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-cyber-force",
+               "web_url" : "https://www.gov.uk/government/organisations/national-cyber-force"
+            }
+         ],
          "details" : {
             "abbreviation" : "SIS",
             "closed_at" : null,
@@ -34409,7 +34507,7 @@
             "closed_at" : null,
             "content_id" : "1b5d2d26-9f1e-4ac5-8335-12061d09ca8e",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Skills England",
             "organisation_brand_colour_class_name" : "department-for-education",
             "organisation_logo_type_class_name" : "single-identity",
@@ -34426,7 +34524,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Skills England",
-         "updated_at" : "2025-03-06T15:22:14.000+00:00",
+         "updated_at" : "2025-05-27T09:31:10.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/skills-england"
       },
       {
@@ -37561,12 +37659,20 @@
                "web_url" : "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
-               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/uk-national-screening-committee",
                "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/arts-council-of-wales",
+               "web_url" : "https://www.gov.uk/government/organisations/arts-council-of-wales"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/sports-council-for-wales",
+               "web_url" : "https://www.gov.uk/government/organisations/sports-council-for-wales"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme",
+               "web_url" : "https://www.gov.uk/government/organisations/flood-and-coastal-erosion-risk-management-research-and-development-programme"
             }
          ],
          "details" : {
@@ -37577,7 +37683,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Welsh\r\nGovernment",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "welsh-government"
          },
          "format" : "Devolved government",
@@ -37627,7 +37733,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Welsh Government",
-         "updated_at" : "2023-08-10T17:09:30.000+01:00",
+         "updated_at" : "2025-05-02T13:57:04.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/welsh-government"
       },
       {
