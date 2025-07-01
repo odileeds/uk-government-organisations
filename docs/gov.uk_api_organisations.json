@@ -491,7 +491,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Advisory, Conciliation and Arbitration Service",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "acas"
          },
@@ -810,7 +810,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "arts-and-humanities-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/arts-and-humanities-research-council",
          "parent_organisations" : [
             {
@@ -821,7 +821,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Arts and Humanities Research Council",
-         "updated_at" : "2025-02-04T09:52:28.000+00:00",
+         "updated_at" : "2025-06-12T11:11:10.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/arts-and-humanities-research-council"
       },
       {
@@ -1157,7 +1157,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "biotechnology-biological-sciences-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/biotechnology-biological-sciences-research-council",
          "parent_organisations" : [
             {
@@ -1168,7 +1168,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Biotechnology and Biological Sciences Research Council",
-         "updated_at" : "2025-02-04T09:53:17.000+00:00",
+         "updated_at" : "2025-06-12T11:11:45.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/biotechnology-biological-sciences-research-council"
       },
       {
@@ -1377,7 +1377,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "British\r\nBusiness\r\nBank",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "british-business-bank"
          },
@@ -1709,6 +1709,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/broads-authority"
       },
       {
+         "analytics_identifier" : "AG1446",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "BCIP",
+            "closed_at" : null,
+            "content_id" : "4b1afc93-5f7f-493a-b469-dc463c6d7f63",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Building Control Independent Panel",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "building-control-independent-panel"
+         },
+         "format" : "Ad-hoc advisory group",
+         "id" : "https://www.gov.uk/api/organisations/building-control-independent-panel",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Building Control Independent Panel",
+         "updated_at" : "2025-06-27T14:39:59.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/building-control-independent-panel"
+      },
+      {
          "analytics_identifier" : "EA1352",
          "child_organisations" : [],
          "details" : {
@@ -1982,6 +2010,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
                "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
             }
          ],
          "details" : {
@@ -2290,7 +2322,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Certification Officer",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "certification-officer"
          },
@@ -2774,6 +2806,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-debt-management-function",
                "web_url" : "https://www.gov.uk/government/organisations/government-debt-management-function"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-project-delivery",
+               "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
             }
          ],
          "details" : {
@@ -9283,6 +9319,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/gowers-review-of-intellectual-property"
       },
       {
+         "analytics_identifier" : "PB1373",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "GBN",
+            "closed_at" : "2025-06-10T00:00:00.000+01:00",
+            "content_id" : "d1c5117f-3277-46a6-98a5-0ff6af37e3d9",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Great British Nuclear",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "great-british-nuclear"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/great-british-energy-nuclear",
+               "web_url" : "https://www.gov.uk/government/organisations/great-british-energy-nuclear"
+            }
+         ],
+         "title" : "Great British Nuclear",
+         "updated_at" : "2025-06-10T09:09:43.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
+      },
+      {
          "analytics_identifier" : "OT736",
          "child_organisations" : [],
          "details" : {
@@ -10609,6 +10678,44 @@
          "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships"
       },
       {
+         "analytics_identifier" : "PB1275",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-06-01T00:00:00.000+01:00",
+            "content_id" : "de9f4888-4cd0-4efd-a14a-34e7c936df73",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Institute for Apprenticeships and Technical Education",
+            "organisation_brand_colour_class_name" : "department-for-education",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "institute-for-apprenticeships-and-technical-education"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships-and-technical-education",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships",
+               "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
+         "title" : "Institute for Apprenticeships and Technical Education",
+         "updated_at" : "2025-06-05T16:02:09.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships-and-technical-education"
+      },
+      {
          "analytics_identifier" : "OT512",
          "child_organisations" : [],
          "details" : {
@@ -11695,6 +11802,34 @@
          "title" : "National Care Standards Commission",
          "updated_at" : "2014-10-15T15:37:04.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-care-standards-commission"
+      },
+      {
+         "analytics_identifier" : "OT1270",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NCS",
+            "closed_at" : null,
+            "content_id" : "2d16cd11-2040-4711-a4a8-9d09fc425f2f",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "National Citizen Service",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "national-citizen-service"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/national-citizen-service",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Citizen Service",
+         "updated_at" : "2025-06-19T16:59:14.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-citizen-service"
       },
       {
          "analytics_identifier" : "EA929",
@@ -18933,7 +19068,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2024-07-26T07:02:15.000+01:00",
+         "updated_at" : "2025-06-10T15:42:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -18946,7 +19081,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Competition Appeal Tribunal",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "competition-appeal-tribunal"
          },
@@ -19925,8 +20060,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/office-for-the-pay-review-bodies"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/industrial-development-advisory-board",
-               "web_url" : "https://www.gov.uk/government/organisations/industrial-development-advisory-board"
+               "id" : "https://www.gov.uk/api/organisations/office-for-responsible-business-conduct",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
             }
          ],
          "details" : {
@@ -20367,6 +20502,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/education-and-skills-funding-agency",
                "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships-and-technical-education",
+               "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships-and-technical-education"
             }
          ],
          "superseding_organisations" : [],
@@ -20452,6 +20591,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/mining-remediation-authority",
                "web_url" : "https://www.gov.uk/government/organisations/mining-remediation-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/great-british-energy-nuclear",
+               "web_url" : "https://www.gov.uk/government/organisations/great-british-energy-nuclear"
             }
          ],
          "details" : {
@@ -21923,7 +22066,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "economic-and-social-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/economic-and-social-research-council",
          "parent_organisations" : [
             {
@@ -21934,7 +22077,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Economic and Social Research Council",
-         "updated_at" : "2025-02-04T09:54:55.000+00:00",
+         "updated_at" : "2025-06-12T11:12:13.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/economic-and-social-research-council"
       },
       {
@@ -21975,7 +22118,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Employment Agency Standards Inspectorate",
-            "organisation_brand_colour_class_name" : "department-for-business-and-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "employment-agency-standards-inspectorate"
          },
@@ -22063,7 +22206,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "engineering-and-physical-sciences-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/engineering-and-physical-sciences-research-council",
          "parent_organisations" : [
             {
@@ -22074,7 +22217,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Engineering and Physical Sciences Research Council",
-         "updated_at" : "2025-02-04T09:54:12.000+00:00",
+         "updated_at" : "2025-06-12T11:12:38.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/engineering-and-physical-sciences-research-council"
       },
       {
@@ -22296,7 +22439,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Export Control Joint Unit",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "export-control-joint-unit"
          },
@@ -24102,7 +24245,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Operational Research Service",
-         "updated_at" : "2024-01-11T15:50:50.000+00:00",
+         "updated_at" : "2025-06-17T17:22:27.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-government-operational-research-service"
       },
       {
@@ -24636,32 +24779,37 @@
          "web_url" : "https://www.gov.uk/government/organisations/great-british-energy"
       },
       {
-         "analytics_identifier" : "PB1373",
+         "analytics_identifier" : "PB1444",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "GBN",
+            "abbreviation" : "GBE-N",
             "closed_at" : null,
-            "content_id" : "d1c5117f-3277-46a6-98a5-0ff6af37e3d9",
+            "content_id" : "1c2df800-ce5f-453d-861b-fb6e46b0ae49",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Great British Nuclear",
+            "logo_formatted_name" : "Great British Energy â Nuclear",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "great-british-nuclear"
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "great-british-energy-nuclear"
          },
          "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+         "id" : "https://www.gov.uk/api/organisations/great-british-energy-nuclear",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/great-british-nuclear",
+               "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
+            }
+         ],
          "superseding_organisations" : [],
-         "title" : "Great British Nuclear",
-         "updated_at" : "2024-07-02T17:25:14.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/great-british-nuclear"
+         "title" : "Great British Energy â Nuclear",
+         "updated_at" : "2025-06-10T08:50:00.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/great-british-energy-nuclear"
       },
       {
          "analytics_identifier" : "OT551",
@@ -25411,7 +25559,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Prison Service",
-         "updated_at" : "2024-08-29T10:55:29.000+01:00",
+         "updated_at" : "2025-06-16T13:51:14.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/hm-prison-service"
       },
       {
@@ -25553,6 +25701,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/evaluation-task-force",
                "web_url" : "https://www.gov.uk/government/organisations/evaluation-task-force"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
             }
          ],
          "details" : {
@@ -26648,12 +26800,7 @@
          },
          "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/independent-water-commission",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Water Commission",
@@ -26873,39 +27020,6 @@
          "title" : "Insolvency Rules Committee",
          "updated_at" : "2016-07-25T15:12:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/insolvency-rules-committee"
-      },
-      {
-         "analytics_identifier" : "PB1275",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "de9f4888-4cd0-4efd-a14a-34e7c936df73",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Institute for Apprenticeships and Technical Education",
-            "organisation_brand_colour_class_name" : "department-for-education",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "institute-for-apprenticeships-and-technical-education"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships-and-technical-education",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships",
-               "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Institute for Apprenticeships and Technical Education",
-         "updated_at" : "2022-06-29T15:04:24.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships-and-technical-education"
       },
       {
          "analytics_identifier" : "CO1162",
@@ -28031,7 +28145,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "medical-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/medical-research-council",
          "parent_organisations" : [
             {
@@ -28042,7 +28156,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Medical Research Council",
-         "updated_at" : "2025-02-04T09:55:36.000+00:00",
+         "updated_at" : "2025-06-12T11:13:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/medical-research-council"
       },
       {
@@ -28549,6 +28663,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/land-registration-rule-committee",
                "web_url" : "https://www.gov.uk/government/organisations/land-registration-rule-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-control-independent-panel",
+               "web_url" : "https://www.gov.uk/government/organisations/building-control-independent-panel"
             }
          ],
          "details" : {
@@ -28901,34 +29019,6 @@
          "title" : "National Army Museum",
          "updated_at" : "2014-10-15T15:36:05.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-army-museum"
-      },
-      {
-         "analytics_identifier" : "OT1270",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "NCS",
-            "closed_at" : null,
-            "content_id" : "2d16cd11-2040-4711-a4a8-9d09fc425f2f",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "National Citizen Service",
-            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "national-citizen-service"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/national-citizen-service",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-culture-media-and-sport",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "National Citizen Service",
-         "updated_at" : "2019-07-24T18:16:42.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/national-citizen-service"
       },
       {
          "analytics_identifier" : "OT1089",
@@ -29669,7 +29759,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "natural-environment-research-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/natural-environment-research-council",
          "parent_organisations" : [
             {
@@ -29680,7 +29770,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Natural Environment Research Council",
-         "updated_at" : "2025-02-04T09:56:17.000+00:00",
+         "updated_at" : "2025-06-12T11:13:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/natural-environment-research-council"
       },
       {
@@ -31212,7 +31302,7 @@
          "analytics_identifier" : "OT1332",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "OfI",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "a3a3a8c8-18a2-4fb2-aa4c-31e06201e69b",
             "govuk_closed_status" : null,
@@ -31233,7 +31323,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Investment",
-         "updated_at" : "2023-08-10T12:08:17.000+01:00",
+         "updated_at" : "2025-06-18T11:21:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
       },
       {
@@ -31361,6 +31451,34 @@
          "title" : "Office for Product Safety and Standards",
          "updated_at" : "2024-09-24T08:37:42.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards"
+      },
+      {
+         "analytics_identifier" : "OT1445",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ORBC",
+            "closed_at" : null,
+            "content_id" : "1b30dc88-68b4-4991-9f10-3ed90f7807b3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Office for Responsible Business Conduct",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "office-for-responsible-business-conduct"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-responsible-business-conduct",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for Responsible Business Conduct",
+         "updated_at" : "2025-06-24T15:44:33.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
       },
       {
          "analytics_identifier" : "PB1253",
@@ -32064,7 +32182,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofqual",
-         "updated_at" : "2024-08-27T11:08:09.000+01:00",
+         "updated_at" : "2025-06-10T08:19:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofqual"
       },
       {
@@ -33976,7 +34094,7 @@
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "science-and-technology-facilities-council"
          },
-         "format" : "Other",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/science-and-technology-facilities-council",
          "parent_organisations" : [
             {
@@ -33987,7 +34105,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Science and Technology Facilities Council",
-         "updated_at" : "2025-02-04T09:57:52.000+00:00",
+         "updated_at" : "2025-06-12T11:14:26.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-facilities-council"
       },
       {
@@ -36712,7 +36830,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK National Contact Point",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "uk-national-contact-point"
          },
@@ -37605,7 +37723,12 @@
          "format" : "Ministerial department",
          "id" : "https://www.gov.uk/api/organisations/wales-office",
          "parent_organisations" : [],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-wales",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Wales Office",
          "updated_at" : "2024-08-12T16:35:07.000+01:00",
