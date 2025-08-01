@@ -1140,7 +1140,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Biometrics and Surveillance Camera Commissioner",
-         "updated_at" : "2022-01-25T13:07:14.000+00:00",
+         "updated_at" : "2025-07-22T09:29:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/biometrics-and-surveillance-camera-commissioner"
       },
       {
@@ -1254,6 +1254,34 @@
          "title" : "Border Force",
          "updated_at" : "2024-07-17T17:01:53.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/border-force"
+      },
+      {
+         "analytics_identifier" : "OT1448",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "BSC",
+            "closed_at" : null,
+            "content_id" : "c0034ab8-2d0f-45df-a371-52fc430372d7",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Border Security Command",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "border-security-command"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/border-security-command",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Border Security Command",
+         "updated_at" : "2025-07-11T11:11:52.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/border-security-command"
       },
       {
          "analytics_identifier" : "PB337",
@@ -1716,7 +1744,7 @@
             "closed_at" : null,
             "content_id" : "4b1afc93-5f7f-493a-b469-dc463c6d7f63",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Building Control Independent Panel",
             "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
@@ -1733,7 +1761,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Building Control Independent Panel",
-         "updated_at" : "2025-06-27T14:39:59.000+01:00",
+         "updated_at" : "2025-07-16T13:57:09.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-control-independent-panel"
       },
       {
@@ -2093,6 +2121,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/children-and-family-court-advisory-and-support-service"
       },
       {
+         "analytics_identifier" : "OT1447",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CGC",
+            "closed_at" : null,
+            "content_id" : "43d3cfd2-0706-42f8-9258-e35a8d7f9d5d",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Cambridge Growth Company",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "cambridge-growth-company"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/cambridge-growth-company",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Cambridge Growth Company",
+         "updated_at" : "2025-07-02T12:53:47.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/cambridge-growth-company"
+      },
+      {
          "analytics_identifier" : "PB251",
          "child_organisations" : [
             {
@@ -2309,7 +2365,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Centre for Environment, Fisheries and Aquaculture Science",
-         "updated_at" : "2022-03-24T12:34:11.000+00:00",
+         "updated_at" : "2025-07-16T13:16:29.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/centre-for-environment-fisheries-and-aquaculture-science"
       },
       {
@@ -2924,6 +2980,67 @@
          "title" : "Civil Service Group",
          "updated_at" : "2019-05-14T14:11:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-group"
+      },
+      {
+         "analytics_identifier" : "OT1025",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "4dfe21ee-acfa-4fc1-9513-cc764e814205",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Academy for Justice Commissioning",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "academy-for-justice-commissioning"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/academy-for-justice-commissioning",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice-commissioning",
+               "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice-commissioning"
+            }
+         ],
+         "title" : "Academy for Justice Commissioning",
+         "updated_at" : "2025-07-30T15:24:10.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/academy-for-justice-commissioning"
+      },
+      {
+         "analytics_identifier" : "OT1208",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "ce357bdb-6396-426a-9f1f-8cbfb444cffd",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Academy for Social Justice Commissioning",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "academy-for-social-justice-commissioning"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice-commissioning",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/academy-for-justice-commissioning",
+               "web_url" : "https://www.gov.uk/government/organisations/academy-for-justice-commissioning"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice",
+               "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice"
+            }
+         ],
+         "title" : "Academy for Social Justice Commissioning",
+         "updated_at" : "2025-07-30T15:24:10.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice-commissioning"
       },
       {
          "analytics_identifier" : "OT1137",
@@ -19068,7 +19185,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2025-06-10T15:42:36.000+01:00",
+         "updated_at" : "2025-07-18T16:55:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -20796,10 +20913,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
                "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/independent-water-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/independent-water-commission"
             }
          ],
          "details" : {
@@ -20986,6 +21099,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
                "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/research-england",
+               "web_url" : "https://www.gov.uk/government/organisations/research-england"
             }
          ],
          "details" : {
@@ -22609,7 +22726,12 @@
       },
       {
          "analytics_identifier" : "OT1085",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-investment-financial-services",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-investment-financial-services"
+            }
+         ],
          "details" : {
             "abbreviation" : "FCA",
             "closed_at" : null,
@@ -25937,6 +26059,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/immigration-advice-authority",
                "web_url" : "https://www.gov.uk/government/organisations/immigration-advice-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/border-security-command",
+               "web_url" : "https://www.gov.uk/government/organisations/border-security-command"
             }
          ],
          "details" : {
@@ -26427,7 +26553,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Case Examiner",
-         "updated_at" : "2019-03-28T07:41:12.000+00:00",
+         "updated_at" : "2025-07-30T08:33:02.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-case-examiner"
       },
       {
@@ -28249,7 +28375,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Migration Advisory Committee",
-         "updated_at" : "2025-05-29T11:49:48.000+01:00",
+         "updated_at" : "2025-07-31T13:01:12.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/migration-advisory-committee"
       },
       {
@@ -28667,6 +28793,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/building-control-independent-panel",
                "web_url" : "https://www.gov.uk/government/organisations/building-control-independent-panel"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/cambridge-growth-company",
+               "web_url" : "https://www.gov.uk/government/organisations/cambridge-growth-company"
             }
          ],
          "details" : {
@@ -29691,7 +29821,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "National Space\r\nOperations Centre",
-            "organisation_brand_colour_class_name" : "foreign-commonwealth-office",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "national-space-operations-centre"
          },
@@ -29714,7 +29844,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Space Operations Centre",
-         "updated_at" : "2024-05-16T09:57:18.000+01:00",
+         "updated_at" : "2025-07-11T12:06:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
       },
       {
@@ -31300,7 +31430,12 @@
       },
       {
          "analytics_identifier" : "OT1332",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-investment-financial-services",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-investment-financial-services"
+            }
+         ],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -31325,6 +31460,34 @@
          "title" : "Office for Investment",
          "updated_at" : "2025-06-18T11:21:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
+      },
+      {
+         "analytics_identifier" : "OT1449",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OfI:FS",
+            "closed_at" : null,
+            "content_id" : "b050b584-ccea-4dab-9755-da463f601917",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Office for Investment: Financial Services",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-for-investment-financial-services"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/office-for-investment-financial-services",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-investment",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office for Investment: Financial Services",
+         "updated_at" : "2025-07-15T11:28:48.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-for-investment-financial-services"
       },
       {
          "analytics_identifier" : "OT502",
@@ -31355,7 +31518,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Life Sciences",
-         "updated_at" : "2025-04-23T15:14:56.000+01:00",
+         "updated_at" : "2025-07-17T12:55:35.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-life-sciences"
       },
       {
@@ -32798,12 +32961,7 @@
       },
       {
          "analytics_identifier" : "OT1030",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/open-innovation-team",
-               "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : null,
@@ -33617,6 +33775,34 @@
          "title" : "Research Collaboration Advice Team",
          "updated_at" : "2023-01-30T10:08:39.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/research-collaboration-advice-team"
+      },
+      {
+         "analytics_identifier" : "OT1450",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "841c0c71-3ef7-4344-942f-5cabc121207e",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Research England",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "research-england"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/research-england",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-research-and-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-research-and-innovation"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Research England",
+         "updated_at" : "2025-07-24T11:57:46.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/research-england"
       },
       {
          "analytics_identifier" : "OT1065",
@@ -35790,7 +35976,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Pension Protection Fund Ombudsman",
-         "updated_at" : "2019-09-12T11:19:08.000+01:00",
+         "updated_at" : "2025-07-16T16:18:51.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/pension-protection-fund-ombudsman"
       },
       {
@@ -36922,6 +37108,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/science-and-technology-facilities-council",
                "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-facilities-council"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/research-england",
+               "web_url" : "https://www.gov.uk/government/organisations/research-england"
             }
          ],
          "details" : {
