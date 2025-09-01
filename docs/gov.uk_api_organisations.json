@@ -709,7 +709,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Animals in Science Committee",
-         "updated_at" : "2019-03-15T16:34:49.000+00:00",
+         "updated_at" : "2025-08-19T09:42:19.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/animals-in-science-committee"
       },
       {
@@ -1634,7 +1634,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "British Technology Investments Ltd",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-and-technology",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "british-technology-investments-ltd"
          },
@@ -9096,12 +9096,7 @@
       },
       {
          "analytics_identifier" : "OT1271",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/government-geography-profession",
-               "web_url" : "https://www.gov.uk/government/organisations/government-geography-profession"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : null,
             "closed_at" : "2025-01-21T00:00:00.000+00:00",
@@ -18803,7 +18798,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Commission for Countering Extremism",
-         "updated_at" : "2024-02-28T15:25:35.000+00:00",
+         "updated_at" : "2025-08-18T11:46:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/commission-for-countering-extremism"
       },
       {
@@ -20454,7 +20449,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2024-05-01T14:49:09.000+01:00",
+         "updated_at" : "2025-08-06T13:21:37.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -21099,10 +21094,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
                "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/research-england",
-               "web_url" : "https://www.gov.uk/government/organisations/research-england"
             }
          ],
          "details" : {
@@ -22699,13 +22690,13 @@
             "closed_at" : null,
             "content_id" : "446eeab8-addd-4311-91a8-f6b75e5baac3",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "FCDO Services",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "fcdo-services"
          },
-         "format" : "Other",
+         "format" : "Executive agency",
          "id" : "https://www.gov.uk/api/organisations/fcdo-services",
          "parent_organisations" : [
             {
@@ -22721,7 +22712,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "FCDO Services ",
-         "updated_at" : "2024-11-26T09:11:53.000+00:00",
+         "updated_at" : "2025-08-04T09:47:40.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/fcdo-services"
       },
       {
@@ -24990,6 +24981,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/health-and-safety-executive"
       },
       {
+         "analytics_identifier" : "PB1453",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "HEHPI",
+            "closed_at" : null,
+            "content_id" : "ddbcf126-26cf-4f12-bcae-7c41fffc8ae8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Health Equity in Health Protection Initiative",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "health-equity-in-health-protection-initiative"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/health-equity-in-health-protection-initiative",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-health-security-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-health-security-agency"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Health Equity in Health Protection Initiative",
+         "updated_at" : "2025-08-28T10:19:13.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/health-equity-in-health-protection-initiative"
+      },
+      {
          "analytics_identifier" : "OT483",
          "child_organisations" : [],
          "details" : {
@@ -26995,7 +27014,7 @@
             "govuk_status" : "live",
             "logo_formatted_name" : "Industrial Strategy Advisory Council",
             "organisation_brand_colour_class_name" : "department-for-business-trade",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "industrial-strategy-advisory-council"
          },
          "format" : "Other",
@@ -27004,7 +27023,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Industrial Strategy Advisory Council",
-         "updated_at" : "2024-12-17T09:00:04.000+00:00",
+         "updated_at" : "2025-08-06T10:38:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/industrial-strategy-advisory-council"
       },
       {
@@ -28375,7 +28394,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Migration Advisory Committee",
-         "updated_at" : "2025-07-31T13:01:12.000+01:00",
+         "updated_at" : "2025-08-01T15:15:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/migration-advisory-committee"
       },
       {
@@ -32228,7 +32247,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Trade Sanctions Implementation",
-         "updated_at" : "2024-09-12T14:03:34.000+01:00",
+         "updated_at" : "2025-08-04T13:41:21.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
       },
       {
@@ -34772,7 +34791,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2024-02-22T17:43:24.000+00:00",
+         "updated_at" : "2025-08-13T10:06:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
@@ -35566,7 +35585,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2024-04-24T14:58:59.000+01:00",
+         "updated_at" : "2025-08-07T07:59:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -36303,7 +36322,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Trade and Agriculture Commission",
-            "organisation_brand_colour_class_name" : "department-for-international-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "trade-and-agriculture-commission"
          },
@@ -36313,7 +36332,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Trade and Agriculture Commission",
-         "updated_at" : "2022-11-09T10:58:55.000+00:00",
+         "updated_at" : "2025-08-04T11:04:50.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/trade-and-agriculture-commission"
       },
       {
@@ -36470,7 +36489,7 @@
          "analytics_identifier" : "PB462",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "TLS",
+            "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "d514dc11-5204-452e-9c43-1c040fdb6005",
             "govuk_closed_status" : null,
@@ -36491,7 +36510,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Trinity House",
-         "updated_at" : "2014-10-15T15:36:31.000+01:00",
+         "updated_at" : "2025-08-28T09:59:33.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/trinity-house"
       },
       {
@@ -36796,6 +36815,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/the-centre-for-climate-health-security",
                "web_url" : "https://www.gov.uk/government/organisations/the-centre-for-climate-health-security"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/health-equity-in-health-protection-initiative",
+               "web_url" : "https://www.gov.uk/government/organisations/health-equity-in-health-protection-initiative"
             }
          ],
          "details" : {
