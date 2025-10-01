@@ -22,7 +22,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/academy-for-social-justice-commissioning",
+               "web_url" : "https://www.gov.uk/government/organisations/academy-for-social-justice-commissioning"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Academy for Social Justice",
          "updated_at" : "2024-08-28T10:59:08.000+01:00",
@@ -450,7 +455,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Council on the Misuse of Drugs",
-         "updated_at" : "2025-05-29T09:17:26.000+01:00",
+         "updated_at" : "2025-09-17T15:44:55.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
       },
       {
@@ -988,7 +993,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-organisation"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/atomic-weapons-establishment",
+               "web_url" : "https://www.gov.uk/government/organisations/atomic-weapons-establishment"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "AWE Nuclear Security Technologies",
          "updated_at" : "2025-05-21T09:33:13.000+01:00",
@@ -1072,39 +1082,6 @@
          "title" : "BBC World Service",
          "updated_at" : "2024-10-03T14:00:18.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/bbc-world-service"
-      },
-      {
-         "analytics_identifier" : "PB1222",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "ca38b91f-33c1-478b-a5c1-d4b4d7a42ee6",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Biometrics and Forensics \r\nEthics Group",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "custom",
-            "slug" : "biometrics-and-forensics-ethics-group"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/biometrics-and-forensics-ethics-group",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/home-office",
-               "web_url" : "https://www.gov.uk/government/organisations/home-office"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/national-dna-database-ethics-group",
-               "web_url" : "https://www.gov.uk/government/organisations/national-dna-database-ethics-group"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Biometrics and Forensics Ethics Group",
-         "updated_at" : "2023-02-28T16:33:05.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/biometrics-and-forensics-ethics-group"
       },
       {
          "analytics_identifier" : "IM1345",
@@ -2421,7 +2398,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Chancery Division of the High Court",
-         "updated_at" : "2016-08-22T15:27:43.000+01:00",
+         "updated_at" : "2025-09-10T16:30:03.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/chancery-division-of-the-high-court"
       },
       {
@@ -3961,6 +3938,44 @@
          "title" : "Billy Wright Inquiry",
          "updated_at" : "2014-10-15T15:38:22.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/billy-wright-inquiry"
+      },
+      {
+         "analytics_identifier" : "PB1222",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-09-16T00:00:00.000+01:00",
+            "content_id" : "ca38b91f-33c1-478b-a5c1-d4b4d7a42ee6",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Biometrics and Forensics \r\nEthics Group",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "biometrics-and-forensics-ethics-group"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/biometrics-and-forensics-ethics-group",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-dna-database-ethics-group",
+               "web_url" : "https://www.gov.uk/government/organisations/national-dna-database-ethics-group"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/science-and-technology-ethics-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-ethics-advisory-committee"
+            }
+         ],
+         "title" : "Biometrics and Forensics Ethics Group",
+         "updated_at" : "2025-09-16T11:47:34.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/biometrics-and-forensics-ethics-group"
       },
       {
          "analytics_identifier" : "OT548",
@@ -17135,6 +17150,44 @@
          "web_url" : "https://www.gov.uk/government/organisations/stoke-education-action-zone"
       },
       {
+         "analytics_identifier" : "OT1300",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-09-01T00:00:00.000+01:00",
+            "content_id" : "b668cba4-a269-45fa-9e1f-03061c09d017",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Strategic Command",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "strategic-command"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/strategic-command",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/joint-forces-command",
+               "web_url" : "https://www.gov.uk/government/organisations/joint-forces-command"
+            }
+         ],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cyber-and-specialist-operations-command",
+               "web_url" : "https://www.gov.uk/government/organisations/cyber-and-specialist-operations-command"
+            }
+         ],
+         "title" : "Strategic Command",
+         "updated_at" : "2025-09-01T10:07:01.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/strategic-command"
+      },
+      {
          "analytics_identifier" : "OT794",
          "child_organisations" : [],
          "details" : {
@@ -19567,7 +19620,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Criminal Injuries Compensation Authority",
-         "updated_at" : "2025-01-08T12:11:02.000+00:00",
+         "updated_at" : "2025-09-19T17:09:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority"
       },
       {
@@ -19681,6 +19734,44 @@
          "title" : "Crown Prosecution Service",
          "updated_at" : "2014-10-15T15:35:31.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/crown-prosecution-service"
+      },
+      {
+         "analytics_identifier" : "OT1454",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/jhub-defence-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/jhub-defence-innovation"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "CSOC",
+            "closed_at" : null,
+            "content_id" : "a637cb8a-5d68-4321-82a9-aaa0ba6faf56",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Cyber & Specialist \r\nOperations Command",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "cyber-and-specialist-operations-command"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/cyber-and-specialist-operations-command",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/strategic-command",
+               "web_url" : "https://www.gov.uk/government/organisations/strategic-command"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Cyber & Specialist Operations Command",
+         "updated_at" : "2025-09-01T11:39:55.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/cyber-and-specialist-operations-command"
       },
       {
          "analytics_identifier" : "OT217",
@@ -22008,7 +22099,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Disclosure and Barring Service",
-         "updated_at" : "2024-10-22T10:59:26.000+01:00",
+         "updated_at" : "2025-09-04T13:14:06.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/disclosure-and-barring-service"
       },
       {
@@ -24988,7 +25079,7 @@
             "closed_at" : null,
             "content_id" : "ddbcf126-26cf-4f12-bcae-7c41fffc8ae8",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Health Equity in Health Protection Initiative",
             "organisation_brand_colour_class_name" : "department-of-health",
             "organisation_logo_type_class_name" : "single-identity",
@@ -25005,7 +25096,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Health Equity in Health Protection Initiative",
-         "updated_at" : "2025-08-28T10:19:13.000+01:00",
+         "updated_at" : "2025-09-11T09:52:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/health-equity-in-health-protection-initiative"
       },
       {
@@ -26082,6 +26173,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/border-security-command",
                "web_url" : "https://www.gov.uk/government/organisations/border-security-command"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/science-and-technology-ethics-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-ethics-advisory-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-independent-prevent-commissioner",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-independent-prevent-commissioner"
             }
          ],
          "details" : {
@@ -27224,7 +27323,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Intellectual Property Office",
-         "updated_at" : "2022-08-10T09:25:18.000+01:00",
+         "updated_at" : "2025-09-22T09:49:28.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/intellectual-property-office"
       },
       {
@@ -27417,14 +27516,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/strategic-command",
-               "web_url" : "https://www.gov.uk/government/organisations/strategic-command"
+               "id" : "https://www.gov.uk/api/organisations/cyber-and-specialist-operations-command",
+               "web_url" : "https://www.gov.uk/government/organisations/cyber-and-specialist-operations-command"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "jHub Defence Innovation",
-         "updated_at" : "2018-04-09T14:05:41.000+01:00",
+         "updated_at" : "2025-09-02T05:38:27.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/jhub-defence-innovation"
       },
       {
@@ -28703,6 +28802,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/awe-nuclear-security-technologies",
                "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/cyber-and-specialist-operations-command",
+               "web_url" : "https://www.gov.uk/government/organisations/cyber-and-specialist-operations-command"
             }
          ],
          "details" : {
@@ -28727,7 +28830,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Defence",
-         "updated_at" : "2025-05-08T16:46:55.000+01:00",
+         "updated_at" : "2025-09-10T14:29:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
       },
       {
@@ -29840,7 +29943,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "National Space\r\nOperations Centre",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "national-space-operations-centre"
          },
@@ -29863,7 +29966,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Space Operations Centre",
-         "updated_at" : "2025-07-11T12:06:35.000+01:00",
+         "updated_at" : "2025-09-23T11:47:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
       },
       {
@@ -31992,6 +32095,34 @@
          "title" : "Office of the Children's Commissioner",
          "updated_at" : "2014-10-15T15:36:23.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-children-s-commissioner"
+      },
+      {
+         "analytics_identifier" : "PB1456",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "OIPC",
+            "closed_at" : null,
+            "content_id" : "03a4164b-a15b-4f42-857b-0a9ffc6e4ae8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Office of the Independent \r\nPrevent Commissioner",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "office-of-the-independent-prevent-commissioner"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/office-of-the-independent-prevent-commissioner",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Office of the Independent Prevent Commissioner",
+         "updated_at" : "2025-09-04T16:36:22.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/office-of-the-independent-prevent-commissioner"
       },
       {
          "analytics_identifier" : "D21",
@@ -34286,6 +34417,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
       },
       {
+         "analytics_identifier" : "PB1455",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "STEAC",
+            "closed_at" : null,
+            "content_id" : "030fe2e9-adfe-4f50-b908-ae67ec1482e3",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Science and Technology Ethics\r\nAdvisory Committee",
+            "organisation_brand_colour_class_name" : "home-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "science-and-technology-ethics-advisory-committee"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/science-and-technology-ethics-advisory-committee",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Science and Technology Ethics Advisory Committee",
+         "updated_at" : "2025-09-16T11:34:27.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-ethics-advisory-committee"
+      },
+      {
          "analytics_identifier" : "PB135",
          "child_organisations" : [],
          "details" : {
@@ -34769,7 +34928,7 @@
             "closed_at" : null,
             "content_id" : "29fe29c8-e6d3-4c61-abb1-bdd13e23b48d",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Single Source Regulations Office",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "custom",
@@ -34791,7 +34950,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2025-08-13T10:06:54.000+01:00",
+         "updated_at" : "2025-09-02T16:04:49.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
@@ -35177,44 +35336,6 @@
          "title" : "Standards and Testing Agency",
          "updated_at" : "2023-10-11T11:44:36.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/standards-and-testing-agency"
-      },
-      {
-         "analytics_identifier" : "OT1300",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/jhub-defence-innovation",
-               "web_url" : "https://www.gov.uk/government/organisations/jhub-defence-innovation"
-            }
-         ],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "b668cba4-a269-45fa-9e1f-03061c09d017",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Strategic Command",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "strategic-command"
-         },
-         "format" : "Sub organisation",
-         "id" : "https://www.gov.uk/api/organisations/strategic-command",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/joint-forces-command",
-               "web_url" : "https://www.gov.uk/government/organisations/joint-forces-command"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Strategic Command",
-         "updated_at" : "2024-02-21T09:27:32.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/strategic-command"
       },
       {
          "analytics_identifier" : "PB27",
@@ -36176,6 +36297,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/animal-and-plant-health-agency",
                "web_url" : "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-national-screening-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
             }
          ],
          "details" : {
@@ -36216,6 +36341,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/scottish-sports-council",
                "web_url" : "https://www.gov.uk/government/organisations/scottish-sports-council"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/scottish-office",
+               "web_url" : "https://www.gov.uk/government/organisations/scottish-office"
             }
          ],
          "superseding_organisations" : [],
@@ -37054,7 +37183,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Contact Point",
-         "updated_at" : "2020-07-24T13:57:55.000+01:00",
+         "updated_at" : "2025-09-18T10:46:20.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-contact-point"
       },
       {
@@ -37094,7 +37223,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Screening Committee",
-         "updated_at" : "2024-01-19T08:50:10.000+00:00",
+         "updated_at" : "2025-09-22T09:43:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
       },
       {
