@@ -455,7 +455,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Council on the Misuse of Drugs",
-         "updated_at" : "2025-09-17T15:44:55.000+01:00",
+         "updated_at" : "2025-10-14T11:35:34.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
       },
       {
@@ -727,7 +727,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Architects Registration Board",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "architects-registration-board"
          },
@@ -1270,7 +1270,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Boundary Commission for England",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "boundary-commission-for-england"
          },
@@ -2019,6 +2019,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
                "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ethics-and-integrity-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/ethics-and-integrity-commission"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-people-function",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
             }
          ],
          "details" : {
@@ -2843,6 +2851,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-project-delivery",
                "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-people-function",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
             }
          ],
          "details" : {
@@ -5351,6 +5363,39 @@
          "title" : "Commissioner for Shale Gas",
          "updated_at" : "2023-04-19T11:11:24.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/shale-commissioner"
+      },
+      {
+         "analytics_identifier" : "PB158",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "CSPL",
+            "closed_at" : "2025-10-13T00:00:00.000+01:00",
+            "content_id" : "844f5a92-4ea1-4a40-90f2-1ad9c9d6778b",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Committee on Standards in Public Life",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-committee-on-standards-in-public-life"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/the-committee-on-standards-in-public-life",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ethics-and-integrity-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/ethics-and-integrity-commission"
+            }
+         ],
+         "title" : "Committee on Standards in Public Life",
+         "updated_at" : "2025-10-13T11:07:18.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
          "analytics_identifier" : "OT760",
@@ -10191,7 +10236,7 @@
             "abbreviation" : null,
             "closed_at" : null,
             "content_id" : "72a4d3ba-f55b-4cbd-9cd2-fbed71166875",
-            "govuk_closed_status" : "merged",
+            "govuk_closed_status" : "replaced",
             "govuk_status" : "closed",
             "logo_formatted_name" : "HR Profession",
             "organisation_brand_colour_class_name" : "cabinet-office",
@@ -10209,12 +10254,12 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/civil-service-hr",
-               "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
+               "id" : "https://www.gov.uk/api/organisations/government-people-function",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
             }
          ],
          "title" : "Human Resources Profession",
-         "updated_at" : "2020-11-12T14:28:15.000+00:00",
+         "updated_at" : "2025-10-17T17:05:09.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-human-resources-profession"
       },
       {
@@ -15093,6 +15138,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/phoenix-sports"
       },
       {
+         "analytics_identifier" : "OT1289",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : "2025-01-31T00:00:00.000+00:00",
+            "content_id" : "357bbff0-9d2c-414b-bba8-b5dfed43edad",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Phone-paid Services Authority",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "phone-paid-services-authority"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/phone-paid-services-authority",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ofcom",
+               "web_url" : "https://www.gov.uk/government/organisations/ofcom"
+            }
+         ],
+         "title" : "Phone-paid Services Authority",
+         "updated_at" : "2025-10-21T18:02:37.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/phone-paid-services-authority"
+      },
+      {
          "analytics_identifier" : "OT714",
          "child_organisations" : [],
          "details" : {
@@ -15859,6 +15937,39 @@
          "title" : "Regulatory Delivery",
          "updated_at" : "2018-02-06T15:14:13.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/regulatory-delivery"
+      },
+      {
+         "analytics_identifier" : "OT1414",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "RHC",
+            "closed_at" : "2025-10-21T00:00:00.000+01:00",
+            "content_id" : "bf5cddce-406a-4e41-a719-856fb1bea395",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Regulatory Horizons Council",
+            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "regulatory-horizons-council"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/regulatory-horizons-council",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/regulatory-innovation-office",
+               "web_url" : "https://www.gov.uk/government/organisations/regulatory-innovation-office"
+            }
+         ],
+         "title" : "Regulatory Horizons Council",
+         "updated_at" : "2025-10-21T08:55:35.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/regulatory-horizons-council"
       },
       {
          "analytics_identifier" : "PB350",
@@ -18952,14 +19063,9 @@
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "committee-on-fuel-poverty"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/committee-on-fuel-poverty",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/the-fuel-poverty-advisory-group",
@@ -18968,7 +19074,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Committee on Fuel Poverty",
-         "updated_at" : "2020-09-23T09:45:37.000+01:00",
+         "updated_at" : "2025-10-30T13:55:34.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-fuel-poverty"
       },
       {
@@ -19017,47 +19123,14 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "committee-on-radioactive-waste-management"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/committee-on-radioactive-waste-management",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
-            }
-         ],
+         "parent_organisations" : [],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Radioactive Waste Management",
-         "updated_at" : "2023-08-23T15:03:49.000+01:00",
+         "updated_at" : "2025-10-30T13:34:54.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-radioactive-waste-management"
-      },
-      {
-         "analytics_identifier" : "PB158",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "CSPL",
-            "closed_at" : null,
-            "content_id" : "844f5a92-4ea1-4a40-90f2-1ad9c9d6778b",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Committee on Standards in Public Life",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "the-committee-on-standards-in-public-life"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/the-committee-on-standards-in-public-life",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Committee on Standards in Public Life",
-         "updated_at" : "2024-11-29T15:48:57.000+00:00",
-         "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
       },
       {
          "analytics_identifier" : "PB576",
@@ -20516,6 +20589,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/s4c",
                "web_url" : "https://www.gov.uk/government/organisations/s4c"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-football-regulator",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-football-regulator"
             }
          ],
          "details" : {
@@ -21185,6 +21262,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
                "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/regulatory-innovation-office",
+               "web_url" : "https://www.gov.uk/government/organisations/regulatory-innovation-office"
             }
          ],
          "details" : {
@@ -22099,7 +22180,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Disclosure and Barring Service",
-         "updated_at" : "2025-09-04T13:14:06.000+01:00",
+         "updated_at" : "2025-10-16T14:22:48.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/disclosure-and-barring-service"
       },
       {
@@ -22567,6 +22648,39 @@
          "title" : "Estyn",
          "updated_at" : "2015-02-26T14:25:56.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/estyn"
+      },
+      {
+         "analytics_identifier" : "PB1458",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "EIC",
+            "closed_at" : null,
+            "content_id" : "dce66d9b-2ed5-4249-8e38-885109128505",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Ethics and\r\nIntegrity\r\nCommission",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "ethics-and-integrity-commission"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/ethics-and-integrity-commission",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-committee-on-standards-in-public-life",
+               "web_url" : "https://www.gov.uk/government/organisations/the-committee-on-standards-in-public-life"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Ethics and Integrity Commission",
+         "updated_at" : "2025-10-13T11:01:03.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/ethics-and-integrity-commission"
       },
       {
          "analytics_identifier" : "OT1348",
@@ -24481,6 +24595,43 @@
          "web_url" : "https://www.gov.uk/government/organisations/government-partnerships-international"
       },
       {
+         "analytics_identifier" : "OT1460",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "GPF",
+            "closed_at" : null,
+            "content_id" : "792482c4-5d74-443f-b62f-6f74d6f67c93",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Government \r\nPeople Function",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "government-people-function"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/government-people-function",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/civil-service-human-resources-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/civil-service-human-resources-profession"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Government People Function",
+         "updated_at" : "2025-10-27T15:13:59.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
+      },
+      {
          "analytics_identifier" : "D1397",
          "child_organisations" : [
             {
@@ -24498,6 +24649,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-skills",
                "web_url" : "https://www.gov.uk/government/organisations/government-skills"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-people-function",
+               "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
             }
          ],
          "details" : {
@@ -25068,7 +25223,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Health and Safety Executive",
-         "updated_at" : "2020-09-23T11:58:43.000+01:00",
+         "updated_at" : "2025-10-02T11:59:52.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/health-and-safety-executive"
       },
       {
@@ -25641,7 +25796,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "HM Land Registry",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "land-registry"
          },
@@ -25937,6 +26092,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-infrastructure-and-service-transformation-authority",
                "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-wealth-fund",
+               "web_url" : "https://www.gov.uk/government/organisations/national-wealth-fund"
             }
          ],
          "details" : {
@@ -26339,7 +26498,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Housing Ombudsman",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "housing-ombudsman"
          },
@@ -26803,6 +26962,34 @@
          "title" : "Independent Family Returns Panel",
          "updated_at" : "2019-03-15T16:40:31.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-family-returns-panel"
+      },
+      {
+         "analytics_identifier" : "PB1461",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "IFR",
+            "closed_at" : null,
+            "content_id" : "05947dfd-a662-4a05-a44b-be6badb39d85",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Independent\r\nFootball\r\nRegulator",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "independent-football-regulator"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/independent-football-regulator",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Independent Football Regulator",
+         "updated_at" : "2025-10-28T11:48:04.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/independent-football-regulator"
       },
       {
          "analytics_identifier" : "PB1017",
@@ -27909,7 +28096,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Leasehold Advisory Service",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "leasehold-advisory-service"
          },
@@ -28105,7 +28292,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Local Government and Social Care Ombudsman",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "local-government-ombudsman"
          },
@@ -29970,6 +30157,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-space-operations-centre"
       },
       {
+         "analytics_identifier" : "PB1457",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NWF",
+            "closed_at" : null,
+            "content_id" : "1e9b0871-913c-40fd-aed6-3bd689bce30c",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "National Wealth Fund",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "national-wealth-fund"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/national-wealth-fund",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Wealth Fund",
+         "updated_at" : "2025-10-13T11:27:42.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/national-wealth-fund"
+      },
+      {
          "analytics_identifier" : "PB202",
          "child_organisations" : [],
          "details" : {
@@ -29994,7 +30209,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Natural England",
-         "updated_at" : "2024-04-02T09:28:14.000+01:00",
+         "updated_at" : "2025-10-17T11:17:47.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/natural-england"
       },
       {
@@ -32876,34 +33091,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/pension-protection-fund"
       },
       {
-         "analytics_identifier" : "OT1289",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : null,
-            "closed_at" : null,
-            "content_id" : "357bbff0-9d2c-414b-bba8-b5dfed43edad",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Phone-paid Services Authority",
-            "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "phone-paid-services-authority"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/phone-paid-services-authority",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Phone-paid Services Authority",
-         "updated_at" : "2019-07-24T16:41:00.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/phone-paid-services-authority"
-      },
-      {
          "analytics_identifier" : "CO1156",
          "child_organisations" : [],
          "details" : {
@@ -33614,7 +33801,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Queen Elizabeth II \r\nConference Centre",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "queen-elizabeth-ii-conference-centre"
          },
@@ -33815,32 +34002,37 @@
          "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
       },
       {
-         "analytics_identifier" : "OT1414",
+         "analytics_identifier" : "OT1459",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "RHC",
+            "abbreviation" : "RIO",
             "closed_at" : null,
-            "content_id" : "bf5cddce-406a-4e41-a719-856fb1bea395",
+            "content_id" : "62aad2ff-f427-43dc-a0be-3327baacbdbd",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
-            "logo_formatted_name" : "Regulatory Horizons Council",
+            "logo_formatted_name" : "Regulatory Innovation Office",
             "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
             "organisation_logo_type_class_name" : "single-identity",
-            "slug" : "regulatory-horizons-council"
+            "slug" : "regulatory-innovation-office"
          },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/regulatory-horizons-council",
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/regulatory-innovation-office",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/regulatory-horizons-council",
+               "web_url" : "https://www.gov.uk/government/organisations/regulatory-horizons-council"
+            }
+         ],
          "superseding_organisations" : [],
-         "title" : "Regulatory Horizons Council",
-         "updated_at" : "2024-05-15T14:43:12.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/regulatory-horizons-council"
+         "title" : "Regulatory Innovation Office",
+         "updated_at" : "2025-10-21T08:46:44.000+01:00",
+         "web_url" : "https://www.gov.uk/government/organisations/regulatory-innovation-office"
       },
       {
          "analytics_identifier" : "PB354",
@@ -33867,7 +34059,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Regulatory Policy Committee",
-         "updated_at" : "2023-03-17T14:39:47.000+00:00",
+         "updated_at" : "2025-10-20T15:06:01.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
       },
       {
@@ -34438,7 +34630,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/home-office"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/biometrics-and-forensics-ethics-group",
+               "web_url" : "https://www.gov.uk/government/organisations/biometrics-and-forensics-ethics-group"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Science and Technology Ethics Advisory Committee",
          "updated_at" : "2025-09-16T11:34:27.000+01:00",
@@ -37066,7 +37263,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Industrial Fusion Solutions",
-         "updated_at" : "2025-02-06T10:07:54.000+00:00",
+         "updated_at" : "2025-10-06T10:06:57.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
       },
       {
@@ -37722,7 +37919,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Valuation \r\nTribunal for \r\nEngland ",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "valuation-tribunal-for-england"
          },
@@ -37750,7 +37947,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Valuation Tribunal Service",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "valuation-tribunal-service-for-england-valuation-tribunal-service"
          },
@@ -38073,7 +38270,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Wales Office",
-         "updated_at" : "2024-08-12T16:35:07.000+01:00",
+         "updated_at" : "2025-10-14T14:52:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/wales-office"
       },
       {
@@ -38295,7 +38492,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Windrush Commemoration Committee",
-            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-and-local-government",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "windrush-commemoration-committee"
          },
