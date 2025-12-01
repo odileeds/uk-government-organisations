@@ -1117,7 +1117,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Biometrics and Surveillance Camera Commissioner",
-         "updated_at" : "2025-07-22T09:29:49.000+01:00",
+         "updated_at" : "2025-11-05T10:31:44.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/biometrics-and-surveillance-camera-commissioner"
       },
       {
@@ -1746,9 +1746,9 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "BDUK",
-            "closed_at" : null,
+            "closed_at" : "2025-11-01T00:00:00.000+00:00",
             "content_id" : "120a16f4-37db-451d-9034-a9038a5c65f4",
-            "govuk_closed_status" : null,
+            "govuk_closed_status" : "merged",
             "govuk_status" : "live",
             "logo_formatted_name" : "Building Digital UK",
             "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
@@ -1764,9 +1764,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
          "title" : "Building Digital UK",
-         "updated_at" : "2023-10-09T09:43:40.000+01:00",
+         "updated_at" : "2025-11-03T10:45:07.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -2027,6 +2032,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-people-function",
                "web_url" : "https://www.gov.uk/government/organisations/government-people-function"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-infected-blood-memorial-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/the-infected-blood-memorial-committee"
             }
          ],
          "details" : {
@@ -19306,7 +19315,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2025-07-18T16:55:19.000+01:00",
+         "updated_at" : "2025-11-25T14:20:52.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -19693,7 +19702,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Criminal Injuries Compensation Authority",
-         "updated_at" : "2025-09-19T17:09:34.000+01:00",
+         "updated_at" : "2025-11-04T10:02:08.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/criminal-injuries-compensation-authority"
       },
       {
@@ -20338,6 +20347,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-responsible-business-conduct",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -20754,6 +20767,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/skills-england",
                "web_url" : "https://www.gov.uk/government/organisations/skills-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -21298,6 +21315,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-artificial-intelligence",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-artificial-intelligence"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
             }
          ],
          "superseding_organisations" : [],
@@ -21614,6 +21635,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/single-financial-guidance-body",
                "web_url" : "https://www.gov.uk/government/organisations/single-financial-guidance-body"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -22895,7 +22920,7 @@
             "closed_at" : null,
             "content_id" : "446eeab8-addd-4311-91a8-f6b75e5baac3",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "FCDO Services",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -22917,17 +22942,12 @@
          ],
          "superseding_organisations" : [],
          "title" : "FCDO Services ",
-         "updated_at" : "2025-08-04T09:47:40.000+01:00",
+         "updated_at" : "2025-11-12T11:20:49.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/fcdo-services"
       },
       {
          "analytics_identifier" : "OT1085",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-investment-financial-services",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-investment-financial-services"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : "FCA",
             "closed_at" : null,
@@ -26096,6 +26116,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-wealth-fund",
                "web_url" : "https://www.gov.uk/government/organisations/national-wealth-fund"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -26340,6 +26364,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/office-of-the-independent-prevent-commissioner",
                "web_url" : "https://www.gov.uk/government/organisations/office-of-the-independent-prevent-commissioner"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -26971,7 +26999,7 @@
             "closed_at" : null,
             "content_id" : "05947dfd-a662-4a05-a44b-be6badb39d85",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Independent\r\nFootball\r\nRegulator",
             "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "custom",
@@ -26988,7 +27016,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Football Regulator",
-         "updated_at" : "2025-10-28T11:48:04.000+00:00",
+         "updated_at" : "2025-11-14T11:44:06.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/independent-football-regulator"
       },
       {
@@ -27334,6 +27362,34 @@
          "title" : "Infected Blood Compensation Authority",
          "updated_at" : "2025-02-04T11:12:54.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/infected-blood-compensation-authority"
+      },
+      {
+         "analytics_identifier" : "OT1462",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "4505b7e2-9a91-40c5-846f-88b0e03a5d66",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Infected Blood \r\nMemorial Committee",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "the-infected-blood-memorial-committee"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/the-infected-blood-memorial-committee",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Infected Blood Memorial Committee",
+         "updated_at" : "2025-11-17T10:00:01.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/the-infected-blood-memorial-committee"
       },
       {
          "analytics_identifier" : "PB298",
@@ -27908,6 +27964,50 @@
          "title" : "King's Harbour Master",
          "updated_at" : "2023-02-02T16:16:29.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/kings-harbour-master"
+      },
+      {
+         "analytics_identifier" : "PB1464",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "LMEG",
+            "closed_at" : null,
+            "content_id" : "017953c5-8d9d-4a12-ab1f-bb2ddc80d97a",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Labour Market\r\nEvidence Group",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "labour-market-evidence-group"
+         },
+         "format" : "Ad-hoc advisory group",
+         "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/home-office",
+               "web_url" : "https://www.gov.uk/government/organisations/home-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Labour Market Evidence Group",
+         "updated_at" : "2025-11-25T16:47:33.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
       },
       {
          "analytics_identifier" : "EA752",
@@ -30486,6 +30586,14 @@
             {
                "id" : "https://www.gov.uk/api/organisations/nhs-improvement",
                "web_url" : "https://www.gov.uk/government/organisations/nhs-improvement"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/nhs-digital",
+               "web_url" : "https://www.gov.uk/government/organisations/nhs-digital"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/health-education-england",
+               "web_url" : "https://www.gov.uk/government/organisations/health-education-england"
             }
          ],
          "superseding_organisations" : [],
@@ -32738,7 +32846,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Ofsted",
-         "updated_at" : "2020-03-27T13:55:00.000+00:00",
+         "updated_at" : "2025-11-10T13:32:17.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/ofsted"
       },
       {
@@ -33295,6 +33403,29 @@
          "title" : "Police Service of Northern Ireland",
          "updated_at" : "2018-10-16T12:12:54.000+01:00",
          "web_url" : "https://www.gov.uk/government/organisations/police-service-of-northern-ireland"
+      },
+      {
+         "analytics_identifier" : "OT1463",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : null,
+            "closed_at" : null,
+            "content_id" : "1252b26f-a837-4682-9da4-e55dff8bfb5d",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Policy Lab",
+            "organisation_brand_colour_class_name" : "department-for-education",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "policy-lab"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/policy-lab",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Policy Lab",
+         "updated_at" : "2025-11-06T15:05:55.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/policy-lab"
       },
       {
          "analytics_identifier" : "OT1030",
@@ -35147,7 +35278,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Single Source Regulations Office",
-         "updated_at" : "2025-09-02T16:04:49.000+01:00",
+         "updated_at" : "2025-11-13T11:36:36.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/single-source-regulations-office"
       },
       {
