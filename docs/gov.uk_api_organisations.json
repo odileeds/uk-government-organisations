@@ -1229,7 +1229,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Border Force",
-         "updated_at" : "2024-07-17T17:01:53.000+01:00",
+         "updated_at" : "2025-12-15T16:27:38.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/border-force"
       },
       {
@@ -1773,6 +1773,34 @@
          "title" : "Building Digital UK",
          "updated_at" : "2025-11-03T10:45:07.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
+      },
+      {
+         "analytics_identifier" : "PB1465",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "BSR",
+            "closed_at" : null,
+            "content_id" : "cc6cdcfe-7756-4737-bd88-1199c8e6bb8f",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Building\r\nSafety\r\nRegulator ",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "building-safety-regulator"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/building-safety-regulator",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Building Safety Regulator ",
+         "updated_at" : "2025-12-19T16:19:07.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/building-safety-regulator"
       },
       {
          "analytics_identifier" : "D2",
@@ -16412,6 +16440,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/schools-commissioners-group"
       },
       {
+         "analytics_identifier" : "PB402",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "SACMILL",
+            "closed_at" : "2025-11-30T00:00:00.000+00:00",
+            "content_id" : "c746a78d-c490-44da-8ed5-7733fc8da353",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
+            "logo_formatted_name" : "Scientific Advisory Committee \r\non the Medical Implications of \r\nLess-Lethal Weapons",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons",
+         "updated_at" : "2025-12-08T14:48:19.000+00:00",
+         "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons"
+      },
+      {
          "analytics_identifier" : "OT762",
          "child_organisations" : [],
          "details" : {
@@ -19384,7 +19440,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Construction Industry\r\nTraining Board",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-work-pensions",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "construction-industry-training-board"
          },
@@ -19392,14 +19448,14 @@
          "id" : "https://www.gov.uk/api/organisations/construction-industry-training-board",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Construction Industry Training Board",
-         "updated_at" : "2016-07-25T15:04:59.000+01:00",
+         "updated_at" : "2025-12-10T10:59:37.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/construction-industry-training-board"
       },
       {
@@ -20697,14 +20753,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/uk-commission-for-employment-and-skills"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/construction-industry-training-board",
-               "web_url" : "https://www.gov.uk/government/organisations/construction-industry-training-board"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/engineering-construction-industry-training-board",
-               "web_url" : "https://www.gov.uk/government/organisations/engineering-construction-industry-training-board"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/education-and-skills-funding-agency",
                "web_url" : "https://www.gov.uk/government/organisations/education-and-skills-funding-agency"
             },
@@ -20763,10 +20811,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/oak-national-academy",
                "web_url" : "https://www.gov.uk/government/organisations/oak-national-academy"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/skills-england",
-               "web_url" : "https://www.gov.uk/government/organisations/skills-england"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
@@ -21639,6 +21683,18 @@
             {
                "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
                "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/skills-england",
+               "web_url" : "https://www.gov.uk/government/organisations/skills-england"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/construction-industry-training-board",
+               "web_url" : "https://www.gov.uk/government/organisations/construction-industry-training-board"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/engineering-construction-industry-training-board",
+               "web_url" : "https://www.gov.uk/government/organisations/engineering-construction-industry-training-board"
             }
          ],
          "details" : {
@@ -22535,7 +22591,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Engineering Construction \r\nIndustry Training Board",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-work-pensions",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "engineering-construction-industry-training-board"
          },
@@ -22543,14 +22599,14 @@
          "id" : "https://www.gov.uk/api/organisations/engineering-construction-industry-training-board",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Engineering Construction Industry Training Board",
-         "updated_at" : "2016-07-25T15:06:09.000+01:00",
+         "updated_at" : "2025-12-10T11:21:59.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/engineering-construction-industry-training-board"
       },
       {
@@ -22942,7 +22998,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "FCDO Services ",
-         "updated_at" : "2025-11-12T11:20:49.000+00:00",
+         "updated_at" : "2025-12-03T09:17:11.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/fcdo-services"
       },
       {
@@ -24823,7 +24879,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Property Agency",
-         "updated_at" : "2022-03-07T12:18:40.000+00:00",
+         "updated_at" : "2025-12-12T15:02:38.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/government-property-agency"
       },
       {
@@ -29206,6 +29262,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/cambridge-growth-company",
                "web_url" : "https://www.gov.uk/government/organisations/cambridge-growth-company"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-safety-regulator",
+               "web_url" : "https://www.gov.uk/government/organisations/building-safety-regulator"
             }
          ],
          "details" : {
@@ -34829,34 +34889,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/science-museum-group"
       },
       {
-         "analytics_identifier" : "PB402",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "SACMILL",
-            "closed_at" : null,
-            "content_id" : "c746a78d-c490-44da-8ed5-7733fc8da353",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Scientific Advisory Committee \r\non the Medical Implications of \r\nLess-Lethal Weapons",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "mod",
-            "slug" : "science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons",
-         "updated_at" : "2017-08-22T17:32:01.000+01:00",
-         "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committee-on-the-medical-implications-of-less-lethal-weapons"
-      },
-      {
          "analytics_identifier" : "OT1311",
          "child_organisations" : [],
          "details" : {
@@ -35319,7 +35351,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Skills England",
-            "organisation_brand_colour_class_name" : "department-for-education",
+            "organisation_brand_colour_class_name" : "department-for-work-pensions",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "skills-england"
          },
@@ -35327,14 +35359,14 @@
          "id" : "https://www.gov.uk/api/organisations/skills-england",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Skills England",
-         "updated_at" : "2025-05-27T09:31:10.000+01:00",
+         "updated_at" : "2025-12-10T10:58:04.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/skills-england"
       },
       {
@@ -37466,7 +37498,7 @@
             "closed_at" : null,
             "content_id" : "f8028bf4-9ea1-4436-b558-9e5b71300f71",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "UK National Authority for Counter-Eavesdropping",
             "organisation_brand_colour_class_name" : "foreign-commonwealth-development-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -37483,7 +37515,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Authority for Counter-Eavesdropping",
-         "updated_at" : "2022-10-13T08:57:03.000+01:00",
+         "updated_at" : "2025-12-09T13:34:12.000+00:00",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-authority-for-counter-eavesdropping"
       },
       {
