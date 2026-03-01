@@ -632,7 +632,7 @@
             "govuk_status" : "joining",
             "logo_formatted_name" : "Advisory Committee <br/>on the Microbiological <br/>Safety of Food",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-the-microbiological-safety-of-food"
          },
          "format" : "Advisory non-departmental public body",
@@ -650,7 +650,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on the Microbiological Safety of Food",
-         "updated_at" : "2026-01-30T10:07:03Z",
+         "updated_at" : "2026-02-17T12:02:47Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food"
       },
       {
@@ -5697,7 +5697,7 @@
             "closed_at" : null,
             "content_id" : "b61e9dd6-8797-4179-830d-7ef98dd00d55",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "Committee on Toxicity of <br/>Chemicals in Food, <br/>Consumer Products <br/>and the Environment",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "single-identity",
@@ -5714,7 +5714,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",
-         "updated_at" : "2021-04-15T09:01:24Z",
+         "updated_at" : "2026-02-17T19:32:24Z",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
       },
       {
@@ -5937,7 +5937,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2025-11-25T14:20:52Z",
+         "updated_at" : "2026-02-26T10:42:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -7094,10 +7094,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "DASA",
-            "closed_at" : null,
+            "closed_at" : "2026-02-02T00:00:00.000+00:00",
             "content_id" : "54f97e9d-33ac-4813-93fb-623e184c4e22",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Defence and Security <br/>Accelerator",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "single-identity",
@@ -7117,9 +7117,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/centre-for-defence-enterprise"
             }
          ],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-defence-innovation",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-defence-innovation"
+            }
+         ],
          "title" : "Defence and Security Accelerator",
-         "updated_at" : "2025-12-02T10:30:46Z",
+         "updated_at" : "2026-02-02T14:40:16Z",
          "web_url" : "https://www.gov.uk/government/organisations/defence-and-security-accelerator"
       },
       {
@@ -7505,7 +7510,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Science and Technology Laboratory",
-         "updated_at" : "2025-02-12T10:11:58Z",
+         "updated_at" : "2026-02-12T14:19:29Z",
          "web_url" : "https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory"
       },
       {
@@ -7892,10 +7897,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
-               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/fair-work-agency",
                "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
             }
@@ -7926,7 +7927,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Business and Trade",
-         "updated_at" : "2025-06-13T14:04:47Z",
+         "updated_at" : "2026-02-19T09:32:17Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
       },
       {
@@ -8783,6 +8784,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/great-british-energy-nuclear",
                "web_url" : "https://www.gov.uk/government/organisations/great-british-energy-nuclear"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/united-kingdom-national-nuclear-laboratory",
+               "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-national-nuclear-laboratory"
             }
          ],
          "details" : {
@@ -8807,7 +8812,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2024-11-21T09:51:30Z",
+         "updated_at" : "2026-02-16T13:06:39Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -10777,7 +10782,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "DfT Operator Limited",
-         "updated_at" : "2025-07-21T06:09:09Z",
+         "updated_at" : "2026-02-02T09:57:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
       },
       {
@@ -13438,6 +13443,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
                "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/science-council",
+               "web_url" : "https://www.gov.uk/government/organisations/science-council"
             }
          ],
          "details" : {
@@ -15328,9 +15337,9 @@
             "closed_at" : null,
             "content_id" : "7a9d8933-f61b-48b9-bfd5-d1170175e682",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Government<br/>Project Delivery",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "hm-revenue-customs",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "government-project-delivery"
          },
@@ -15354,7 +15363,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government Project Delivery",
-         "updated_at" : "2026-01-21T15:58:11Z",
+         "updated_at" : "2026-02-23T12:07:57Z",
          "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
       },
       {
@@ -17756,7 +17765,12 @@
       },
       {
          "analytics_identifier" : "PB1232",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/national-housing-bank",
+               "web_url" : "https://www.gov.uk/government/organisations/national-housing-bank"
+            }
+         ],
          "details" : {
             "abbreviation" : "Homes England",
             "closed_at" : null,
@@ -17784,7 +17798,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Homes England",
-         "updated_at" : "2026-01-21T09:45:41Z",
+         "updated_at" : "2026-02-24T13:32:11Z",
          "web_url" : "https://www.gov.uk/government/organisations/homes-england"
       },
       {
@@ -20020,7 +20034,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Judicial Appointments and Conduct Ombudsman",
-         "updated_at" : "2021-04-15T09:00:21Z",
+         "updated_at" : "2026-02-16T10:47:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/judicial-appointments-and-conduct-ombudsman"
       },
       {
@@ -20234,10 +20248,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/home-office"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/hm-treasury",
                "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
             }
@@ -20245,7 +20255,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Labour Market Evidence Group",
-         "updated_at" : "2025-11-25T16:47:33Z",
+         "updated_at" : "2026-02-12T15:16:04Z",
          "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
       },
       {
@@ -23351,6 +23361,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-highways"
       },
       {
+         "analytics_identifier" : "OT1469",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NHB",
+            "closed_at" : null,
+            "content_id" : "ff75095f-3643-46a9-a63e-c553b8e86eed",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "National<br/>Housing <br/>Bank",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "national-housing-bank"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/national-housing-bank",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/homes-england",
+               "web_url" : "https://www.gov.uk/government/organisations/homes-england"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Housing Bank",
+         "updated_at" : "2026-02-24T15:23:43Z",
+         "web_url" : "https://www.gov.uk/government/organisations/national-housing-bank"
+      },
+      {
          "analytics_identifier" : "OT1090",
          "child_organisations" : [],
          "details" : {
@@ -23393,7 +23431,12 @@
       },
       {
          "analytics_identifier" : "OT1438",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-project-delivery",
+               "web_url" : "https://www.gov.uk/government/organisations/government-project-delivery"
+            }
+         ],
          "details" : {
             "abbreviation" : "NISTA",
             "closed_at" : null,
@@ -28149,7 +28192,7 @@
             "closed_at" : null,
             "content_id" : "03a4164b-a15b-4f42-857b-0a9ffc6e4ae8",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Office of the Independent <br/>Prevent Commissioner",
             "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "custom",
@@ -28166,7 +28209,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Independent Prevent Commissioner",
-         "updated_at" : "2026-01-30T15:59:22Z",
+         "updated_at" : "2026-02-05T14:40:46Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-independent-prevent-commissioner"
       },
       {
@@ -31227,7 +31270,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Regulator of Social Housing",
-         "updated_at" : "2025-10-22T10:51:49Z",
+         "updated_at" : "2026-02-02T08:18:02Z",
          "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
       },
       {
@@ -31358,7 +31401,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Regulatory Policy Committee",
-         "updated_at" : "2025-12-30T17:33:56Z",
+         "updated_at" : "2026-02-20T15:06:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
       },
       {
@@ -32398,6 +32441,34 @@
          "title" : "Science and Technology Facilities Council",
          "updated_at" : "2025-06-12T10:14:27Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-facilities-council"
+      },
+      {
+         "analytics_identifier" : "OT1470",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "SC",
+            "closed_at" : null,
+            "content_id" : "47dfdd8b-cb96-4050-84c4-45a6b28bd18e",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Science<br/>Council",
+            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "science-council"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/science-council",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/food-standards-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Science Council",
+         "updated_at" : "2026-02-27T12:09:51Z",
+         "web_url" : "https://www.gov.uk/government/organisations/science-council"
       },
       {
          "analytics_identifier" : "PB177",
@@ -35588,7 +35659,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Water Services Regulation Authority ",
-         "updated_at" : "2021-04-15T08:59:59Z",
+         "updated_at" : "2026-02-24T10:33:44Z",
          "web_url" : "https://www.gov.uk/government/organisations/the-water-services-regulation-authority"
       },
       {
@@ -36297,7 +36368,7 @@
             "closed_at" : null,
             "content_id" : "3f9cb840-473f-493a-ad28-ff48b8a22fac",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "UK Defence <br/>Innovation",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "mod",
@@ -36311,10 +36382,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/defence-and-security-accelerator",
+               "web_url" : "https://www.gov.uk/government/organisations/defence-and-security-accelerator"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "UK Defence Innovation",
-         "updated_at" : "2026-01-30T10:09:39Z",
+         "updated_at" : "2026-02-16T16:13:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-innovation"
       },
       {
@@ -36801,7 +36877,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK National Screening Committee",
-         "updated_at" : "2025-09-22T09:16:11Z",
+         "updated_at" : "2026-02-16T11:53:21Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-screening-committee"
       },
       {
@@ -37257,7 +37333,12 @@
          },
          "format" : "Public corporation",
          "id" : "https://www.gov.uk/api/organisations/united-kingdom-national-nuclear-laboratory",
-         "parent_organisations" : [],
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-energy-security-and-net-zero",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
+            }
+         ],
          "superseded_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/national-nuclear-laboratory",
@@ -37266,7 +37347,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "United Kingdom National Nuclear Laboratory",
-         "updated_at" : "2024-12-19T10:34:45Z",
+         "updated_at" : "2026-02-19T16:18:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-national-nuclear-laboratory"
       },
       {
