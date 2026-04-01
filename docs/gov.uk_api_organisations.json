@@ -388,6 +388,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/advantage-west-midlands"
       },
       {
+         "analytics_identifier" : "OT1471",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "ACSS",
+            "closed_at" : null,
+            "content_id" : "84a579e2-e8d3-4b21-8f59-6df3a3b90767",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Advisory Committee<br/>for Social Science",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "advisory-committee-for-social-science"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/advisory-committee-for-social-science",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/food-standards-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Advisory Committee for Social Science",
+         "updated_at" : "2026-03-18T18:21:29Z",
+         "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-for-social-science"
+      },
+      {
          "analytics_identifier" : "PB573",
          "child_organisations" : [],
          "details" : {
@@ -395,10 +423,10 @@
             "closed_at" : null,
             "content_id" : "b02a8db0-6bbb-4010-9584-1a6623dc7012",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Advisory Committee on <br/>Animal Feedingstuffs",
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Advisory Committee <br/>on Animal Feedingstuffs",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-animal-feedingstuffs"
          },
          "format" : "Advisory non-departmental public body",
@@ -412,7 +440,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Animal Feedingstuffs",
-         "updated_at" : "2021-04-15T09:01:23Z",
+         "updated_at" : "2026-03-18T18:20:00Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-animal-feedingstuffs"
       },
       {
@@ -545,10 +573,10 @@
             "closed_at" : null,
             "content_id" : "c175500c-c1f1-46e3-9e4d-02ef02202264",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "Advisory Committee <br/>on Novel Foods <br/>and Processes",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-novel-foods-and-processes"
          },
          "format" : "Advisory non-departmental public body",
@@ -562,7 +590,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Novel Foods and Processes",
-         "updated_at" : "2021-04-15T09:01:24Z",
+         "updated_at" : "2026-03-18T18:19:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-novel-foods-and-processes"
       },
       {
@@ -635,22 +663,18 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-the-microbiological-safety-of-food"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-the-microbiological-safety-of-food",
          "parent_organisations" : [
             {
                "id" : "https://www.gov.uk/api/organisations/food-standards-agency",
                "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
-               "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on the Microbiological Safety of Food",
-         "updated_at" : "2026-02-17T12:02:47Z",
+         "updated_at" : "2026-03-18T18:19:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food"
       },
       {
@@ -3151,7 +3175,7 @@
             }
          ],
          "title" : "Building Digital UK",
-         "updated_at" : "2026-01-23T13:06:51Z",
+         "updated_at" : "2026-03-13T08:51:12Z",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -3541,6 +3565,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/the-infected-blood-memorial-committee",
                "web_url" : "https://www.gov.uk/government/organisations/the-infected-blood-memorial-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-commercial-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
             }
          ],
          "details" : {
@@ -4051,16 +4079,12 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-transport",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Centre for Connected and Autonomous Vehicles ",
-         "updated_at" : "2025-06-09T14:23:00Z",
+         "updated_at" : "2026-03-26T12:25:40Z",
          "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
       },
       {
@@ -5698,9 +5722,9 @@
             "content_id" : "b61e9dd6-8797-4179-830d-7ef98dd00d55",
             "govuk_closed_status" : null,
             "govuk_status" : "joining",
-            "logo_formatted_name" : "Committee on Toxicity of <br/>Chemicals in Food, <br/>Consumer Products <br/>and the Environment",
+            "logo_formatted_name" : "Committee on Toxicity<br/>of Chemicals in Food, <br/>Consumer Products <br/>and the Environment",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
          },
          "format" : "Advisory non-departmental public body",
@@ -5714,7 +5738,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",
-         "updated_at" : "2026-02-17T19:32:24Z",
+         "updated_at" : "2026-03-18T18:23:14Z",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
       },
       {
@@ -5937,7 +5961,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2026-02-26T10:42:37Z",
+         "updated_at" : "2026-03-25T12:36:19Z",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -6898,10 +6922,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "CCS",
-            "closed_at" : null,
+            "closed_at" : "2026-03-31T00:00:00.000+01:00",
             "content_id" : "8437e374-dfa7-4b52-bd88-ebc29032a9e4",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Crown<br/>Commercial <br/>Service",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -6916,9 +6940,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-commercial-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
+            }
+         ],
          "title" : "Crown Commercial Service",
-         "updated_at" : "2021-10-01T14:47:15Z",
+         "updated_at" : "2026-03-31T11:24:58Z",
          "web_url" : "https://www.gov.uk/government/organisations/crown-commercial-service"
       },
       {
@@ -7700,34 +7729,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/defence-press-and-broadcasting-advisory-committee"
       },
       {
-         "analytics_identifier" : "PB211",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "SAC",
-            "closed_at" : null,
-            "content_id" : "43559ac9-1d97-43c2-b77d-0541c799c643",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Defra&#39;s Science Advisory Council",
-            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "science-advisory-council"
-         },
-         "format" : "Advisory non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/science-advisory-council",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "Defra's Science Advisory Council",
-         "updated_at" : "2023-04-26T11:41:55Z",
-         "web_url" : "https://www.gov.uk/government/organisations/science-advisory-council"
-      },
-      {
          "analytics_identifier" : "OT798",
          "child_organisations" : [],
          "details" : {
@@ -7867,10 +7868,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/post-office",
                "web_url" : "https://www.gov.uk/government/organisations/post-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/centre-for-connected-and-autonomous-vehicles",
-               "web_url" : "https://www.gov.uk/government/organisations/centre-for-connected-and-autonomous-vehicles"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
@@ -8607,10 +8604,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/oak-national-academy",
                "web_url" : "https://www.gov.uk/government/organisations/oak-national-academy"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
-               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -9408,6 +9401,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/regulatory-innovation-office",
                "web_url" : "https://www.gov.uk/government/organisations/regulatory-innovation-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-cyber-profession",
+               "web_url" : "https://www.gov.uk/government/organisations/government-cyber-profession"
             }
          ],
          "details" : {
@@ -9679,6 +9676,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/dft-operator-limited",
                "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/platform4",
+               "web_url" : "https://www.gov.uk/government/organisations/platform4"
             }
          ],
          "details" : {
@@ -9788,10 +9789,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/single-financial-guidance-body",
                "web_url" : "https://www.gov.uk/government/organisations/single-financial-guidance-body"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
-               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/skills-england",
@@ -10782,7 +10779,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "DfT Operator Limited",
-         "updated_at" : "2026-02-02T09:57:09Z",
+         "updated_at" : "2026-03-20T12:15:10Z",
          "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
       },
       {
@@ -11088,14 +11085,14 @@
          "id" : "https://www.gov.uk/api/organisations/district-valuer-services-dvs",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/valuation-office-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
+               "id" : "https://www.gov.uk/api/organisations/hm-revenue-customs",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-revenue-customs"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "District Valuer Services",
-         "updated_at" : "2024-04-24T13:59:53Z",
+         "updated_at" : "2026-03-31T18:12:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/district-valuer-services-dvs"
       },
       {
@@ -12459,7 +12456,7 @@
             "closed_at" : null,
             "content_id" : "41462bd8-0630-476b-97de-52985a96fbd1",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Fair Work<br/>Agency",
             "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "single-identity",
@@ -12476,7 +12473,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Fair Work Agency",
-         "updated_at" : "2026-01-05T11:53:08Z",
+         "updated_at" : "2026-03-11T14:00:30Z",
          "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
       },
       {
@@ -13087,7 +13084,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "First-tier Tribunal (Property Chamber)",
-         "updated_at" : "2021-04-15T09:04:06Z",
+         "updated_at" : "2026-03-16T11:02:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/first-tier-tribunal-property-chamber"
       },
       {
@@ -13447,6 +13444,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/science-council",
                "web_url" : "https://www.gov.uk/government/organisations/science-council"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/advisory-committee-for-social-science",
+               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-for-social-science"
             }
          ],
          "details" : {
@@ -13630,7 +13631,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Foreign, Commonwealth & Development Office",
-         "updated_at" : "2025-06-06T14:59:44Z",
+         "updated_at" : "2026-03-24T08:59:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
       },
       {
@@ -14389,6 +14390,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/government-chemist"
       },
       {
+         "analytics_identifier" : "EA1474",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "GCA",
+            "closed_at" : null,
+            "content_id" : "9e7b181f-0183-49ed-9f20-17d50b1da113",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Government <br/>Commercial<br/>Agency",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-commercial-agency"
+         },
+         "format" : "Executive agency",
+         "id" : "https://www.gov.uk/api/organisations/government-commercial-agency",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
+               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/crown-commercial-service",
+               "web_url" : "https://www.gov.uk/government/organisations/crown-commercial-service"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Government Commercial Agency",
+         "updated_at" : "2026-03-31T15:01:11Z",
+         "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
+      },
+      {
          "analytics_identifier" : "OT1116",
          "child_organisations" : [],
          "details" : {
@@ -14525,6 +14559,34 @@
          "title" : "Government Corporate Finance Profession",
          "updated_at" : "2021-04-15T09:03:35Z",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-corporate-finance-profession-cfp"
+      },
+      {
+         "analytics_identifier" : "OT1475",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "01a685e2-0f7d-4c20-ba8f-9af4a55168b8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Government Cyber Profession",
+            "organisation_brand_colour_class_name" : "civil-service",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "government-cyber-profession"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/government-cyber-profession",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Government Cyber Profession",
+         "updated_at" : "2026-03-26T11:29:36Z",
+         "web_url" : "https://www.gov.uk/government/organisations/government-cyber-profession"
       },
       {
          "analytics_identifier" : "OT1317",
@@ -17131,7 +17193,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Land Registry",
-         "updated_at" : "2025-04-22T14:40:22Z",
+         "updated_at" : "2026-03-09T10:13:08Z",
          "web_url" : "https://www.gov.uk/government/organisations/land-registry"
       },
       {
@@ -17279,6 +17341,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/the-adjudicator-s-office",
                "web_url" : "https://www.gov.uk/government/organisations/the-adjudicator-s-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/district-valuer-services-dvs",
+               "web_url" : "https://www.gov.uk/government/organisations/district-valuer-services-dvs"
             }
          ],
          "details" : {
@@ -17299,6 +17365,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-inland-revenue",
                "web_url" : "https://www.gov.uk/government/organisations/department-of-inland-revenue"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/valuation-office-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
             }
          ],
          "superseding_organisations" : [],
@@ -17416,10 +17486,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/national-wealth-fund",
                "web_url" : "https://www.gov.uk/government/organisations/national-wealth-fund"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
-               "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
             }
          ],
          "details" : {
@@ -17798,7 +17864,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Homes England",
-         "updated_at" : "2026-02-24T13:32:11Z",
+         "updated_at" : "2026-03-31T11:24:43Z",
          "web_url" : "https://www.gov.uk/government/organisations/homes-england"
       },
       {
@@ -18484,7 +18550,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Chief Inspector of Borders and Immigration ",
-         "updated_at" : "2021-04-15T09:00:11Z",
+         "updated_at" : "2026-03-05T11:33:29Z",
          "web_url" : "https://www.gov.uk/government/organisations/independent-chief-inspector-of-borders-and-immigration"
       },
       {
@@ -20236,26 +20302,14 @@
          "id" : "https://www.gov.uk/api/organisations/labour-market-evidence-group",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-education",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/department-for-work-pensions",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/home-office",
                "web_url" : "https://www.gov.uk/government/organisations/home-office"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
-               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Labour Market Evidence Group",
-         "updated_at" : "2026-02-12T15:16:04Z",
+         "updated_at" : "2026-03-13T16:21:11Z",
          "web_url" : "https://www.gov.uk/government/organisations/labour-market-evidence-group"
       },
       {
@@ -22389,7 +22443,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Justice",
-         "updated_at" : "2024-08-20T14:14:57Z",
+         "updated_at" : "2026-03-19T10:13:00Z",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
       },
       {
@@ -23368,7 +23422,7 @@
             "closed_at" : null,
             "content_id" : "ff75095f-3643-46a9-a63e-c553b8e86eed",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "National<br/>Housing <br/>Bank",
             "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "custom",
@@ -23385,7 +23439,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Housing Bank",
-         "updated_at" : "2026-02-24T15:23:43Z",
+         "updated_at" : "2026-03-31T16:55:53Z",
          "web_url" : "https://www.gov.uk/government/organisations/national-housing-bank"
       },
       {
@@ -24400,7 +24454,12 @@
       },
       {
          "analytics_identifier" : "OT1244",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/platform4",
+               "web_url" : "https://www.gov.uk/government/organisations/platform4"
+            }
+         ],
          "details" : {
             "abbreviation" : "",
             "closed_at" : null,
@@ -26692,7 +26751,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Nuclear Restoration Services",
-         "updated_at" : "2025-04-01T15:32:41Z",
+         "updated_at" : "2026-03-20T10:21:06Z",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-restoration-services"
       },
       {
@@ -29726,6 +29785,38 @@
          "web_url" : "https://www.gov.uk/government/organisations/plant-varieties-and-seeds-tribunal"
       },
       {
+         "analytics_identifier" : "PC1473",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "ca533080-d070-4d1b-ac90-f32c9f6aa80f",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Platform4",
+            "organisation_brand_colour_class_name" : "department-for-transport",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "platform4"
+         },
+         "format" : "Public corporation",
+         "id" : "https://www.gov.uk/api/organisations/platform4",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/network-rail",
+               "web_url" : "https://www.gov.uk/government/organisations/network-rail"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-transport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Platform4",
+         "updated_at" : "2026-03-17T14:24:26Z",
+         "web_url" : "https://www.gov.uk/government/organisations/platform4"
+      },
+      {
          "analytics_identifier" : "OT739",
          "child_organisations" : [],
          "details" : {
@@ -32350,7 +32441,12 @@
       },
       {
          "analytics_identifier" : "PB1394",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-the-microbiological-safety-of-food",
+               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food"
+            }
+         ],
          "details" : {
             "abbreviation" : "SACs",
             "closed_at" : null,
@@ -32378,7 +32474,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Science Advisory Committees",
-         "updated_at" : "2026-01-27T11:45:10Z",
+         "updated_at" : "2026-03-11T13:12:58Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
       },
       {
@@ -32452,7 +32548,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "joining",
             "logo_formatted_name" : "Science<br/>Council",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
             "slug" : "science-council"
          },
@@ -32467,7 +32563,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Science Council",
-         "updated_at" : "2026-02-27T12:09:51Z",
+         "updated_at" : "2026-03-18T18:22:53Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-council"
       },
       {
@@ -32548,6 +32644,39 @@
          "title" : "Scientific Advisory Group for Emergencies",
          "updated_at" : "2021-08-03T10:53:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies"
+      },
+      {
+         "analytics_identifier" : "D1423",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-scotland",
+               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-scotland"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "63953ed9-98ac-4d08-a1b9-8ea38dbd0832",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Scotland Office",
+            "organisation_brand_colour_class_name" : "scotland-office",
+            "organisation_logo_type_class_name" : "so",
+            "slug" : "scotland-office"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/scotland-office",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Scotland Office",
+         "updated_at" : "2024-09-26T08:46:22Z",
+         "web_url" : "https://www.gov.uk/government/organisations/scotland-office"
       },
       {
          "analytics_identifier" : "OT762",
@@ -34992,7 +35121,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Insolvency Service",
-         "updated_at" : "2024-09-18T14:51:07Z",
+         "updated_at" : "2026-03-24T14:13:51Z",
          "web_url" : "https://www.gov.uk/government/organisations/insolvency-service"
       },
       {
@@ -35216,7 +35345,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Oil and Pipelines Agency",
-         "updated_at" : "2022-10-25T14:39:11Z",
+         "updated_at" : "2026-03-26T10:26:54Z",
          "web_url" : "https://www.gov.uk/government/organisations/oil-and-pipelines-agency"
       },
       {
@@ -35766,7 +35895,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Trade Remedies Authority",
-         "updated_at" : "2025-04-23T13:27:51Z",
+         "updated_at" : "2026-03-27T10:16:36Z",
          "web_url" : "https://www.gov.uk/government/organisations/trade-remedies-authority"
       },
       {
@@ -36102,6 +36231,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-industrial-fusion-solutions",
                "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-fusion-energy",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-fusion-energy"
             }
          ],
          "details" : {
@@ -36126,7 +36259,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Atomic Energy Authority",
-         "updated_at" : "2025-09-30T07:48:36Z",
+         "updated_at" : "2026-03-19T08:48:36Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
       },
       {
@@ -36482,6 +36615,39 @@
          "web_url" : "https://www.gov.uk/government/organisations/uk-financial-investments-limited"
       },
       {
+         "analytics_identifier" : "OT1472",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "UKFE",
+            "closed_at" : null,
+            "content_id" : "e2193247-d27f-4509-b0ae-45abbc391cc1",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "UK Fusion Energy",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "uk-fusion-energy"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/uk-fusion-energy",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-atomic-energy-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-industrial-fusion-solutions",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "UK Fusion Energy",
+         "updated_at" : "2026-03-17T10:07:34Z",
+         "web_url" : "https://www.gov.uk/government/organisations/uk-fusion-energy"
+      },
+      {
          "analytics_identifier" : "EA844",
          "child_organisations" : [],
          "details" : {
@@ -36700,10 +36866,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "UKIFS",
-            "closed_at" : null,
+            "closed_at" : "2026-03-17T00:00:00.000+00:00",
             "content_id" : "55ae6ee0-138e-4031-97fd-616d1174b348",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "UK Industrial<br/>Fusion Solutions",
             "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
             "organisation_logo_type_class_name" : "ukaea",
@@ -36718,9 +36884,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-fusion-energy",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-fusion-energy"
+            }
+         ],
          "title" : "UK Industrial Fusion Solutions",
-         "updated_at" : "2025-10-14T12:26:54Z",
+         "updated_at" : "2026-03-17T14:01:04Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
       },
       {
@@ -37550,20 +37721,16 @@
          "analytics_identifier" : "EA87",
          "child_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/district-valuer-services-dvs",
-               "web_url" : "https://www.gov.uk/government/organisations/district-valuer-services-dvs"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/the-adjudicator-s-office",
                "web_url" : "https://www.gov.uk/government/organisations/the-adjudicator-s-office"
             }
          ],
          "details" : {
             "abbreviation" : "VOA",
-            "closed_at" : null,
+            "closed_at" : "2026-04-01T00:00:00.000+01:00",
             "content_id" : "ae98edb5-87b4-4a69-a31a-e0e5298f949d",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Valuation Office Agency",
             "organisation_brand_colour_class_name" : "hm-revenue-customs",
             "organisation_logo_type_class_name" : "single-identity",
@@ -37578,9 +37745,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-revenue-customs",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-revenue-customs"
+            }
+         ],
          "title" : "Valuation Office Agency",
-         "updated_at" : "2025-09-08T10:28:25Z",
+         "updated_at" : "2026-03-31T18:30:51Z",
          "web_url" : "https://www.gov.uk/government/organisations/valuation-office-agency"
       },
       {
