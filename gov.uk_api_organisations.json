@@ -395,7 +395,7 @@
             "closed_at" : null,
             "content_id" : "84a579e2-e8d3-4b21-8f59-6df3a3b90767",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "joining",
             "logo_formatted_name" : "Advisory Committee<br/>for Social Science",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -412,7 +412,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee for Social Science",
-         "updated_at" : "2026-03-18T18:21:29Z",
+         "updated_at" : "2026-04-10T09:53:18Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-for-social-science"
       },
       {
@@ -429,7 +429,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-animal-feedingstuffs"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-animal-feedingstuffs",
          "parent_organisations" : [
             {
@@ -440,7 +440,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Animal Feedingstuffs",
-         "updated_at" : "2026-03-18T18:20:00Z",
+         "updated_at" : "2026-04-10T09:49:25Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-animal-feedingstuffs"
       },
       {
@@ -579,7 +579,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "advisory-committee-on-novel-foods-and-processes"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-novel-foods-and-processes",
          "parent_organisations" : [
             {
@@ -590,7 +590,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Novel Foods and Processes",
-         "updated_at" : "2026-03-18T18:19:41Z",
+         "updated_at" : "2026-04-10T09:26:32Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-novel-foods-and-processes"
       },
       {
@@ -1152,7 +1152,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Animal and Plant Health Agency",
-         "updated_at" : "2024-10-28T10:36:19Z",
+         "updated_at" : "2026-04-20T11:52:34Z",
          "web_url" : "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
       },
       {
@@ -2993,7 +2993,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "British Transport Police Authority",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "british-transport-police-authority"
          },
          "format" : "Executive non-departmental public body",
@@ -3007,7 +3007,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "British Transport Police Authority",
-         "updated_at" : "2021-07-09T14:21:01Z",
+         "updated_at" : "2026-04-30T11:56:18Z",
          "web_url" : "https://www.gov.uk/government/organisations/british-transport-police-authority"
       },
       {
@@ -4444,7 +4444,7 @@
             "closed_at" : null,
             "content_id" : "4635462d-6bf0-4d41-9f86-8fdb27ddddd1",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Child Safeguarding Practice Review Panel",
             "organisation_brand_colour_class_name" : "department-for-education",
             "organisation_logo_type_class_name" : "single-identity",
@@ -4461,7 +4461,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Child Safeguarding Practice Review Panel",
-         "updated_at" : "2022-07-25T11:07:43Z",
+         "updated_at" : "2026-04-29T12:18:16Z",
          "web_url" : "https://www.gov.uk/government/organisations/child-safeguarding-practice-review-panel"
       },
       {
@@ -4554,7 +4554,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Civil Aviation Authority",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "civil-aviation-authority"
          },
          "format" : "Public corporation",
@@ -4568,7 +4568,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Civil Aviation Authority",
-         "updated_at" : "2021-04-15T09:00:50Z",
+         "updated_at" : "2026-04-30T11:45:48Z",
          "web_url" : "https://www.gov.uk/government/organisations/civil-aviation-authority"
       },
       {
@@ -5727,7 +5727,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment",
          "parent_organisations" : [
             {
@@ -5738,7 +5738,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",
-         "updated_at" : "2026-03-18T18:23:14Z",
+         "updated_at" : "2026-04-13T16:24:30Z",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
       },
       {
@@ -5961,7 +5961,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2026-03-25T12:36:19Z",
+         "updated_at" : "2026-04-09T08:30:04Z",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -6603,7 +6603,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Court of Protection",
-         "updated_at" : "2021-04-15T09:03:52Z",
+         "updated_at" : "2026-04-15T14:29:20Z",
          "web_url" : "https://www.gov.uk/government/organisations/court-of-protection"
       },
       {
@@ -6877,7 +6877,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Crossrail<br/>International",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "crossrail-international"
          },
          "format" : "Public corporation",
@@ -6891,7 +6891,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Crossrail International",
-         "updated_at" : "2021-04-15T09:05:04Z",
+         "updated_at" : "2026-04-30T11:47:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/crossrail-international"
       },
       {
@@ -7729,6 +7729,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/defence-press-and-broadcasting-advisory-committee"
       },
       {
+         "analytics_identifier" : "PB211",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "SAC",
+            "closed_at" : null,
+            "content_id" : "43559ac9-1d97-43c2-b77d-0541c799c643",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Defra&#39;s Science Advisory Council",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "science-advisory-council"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/science-advisory-council",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Defra's Science Advisory Council",
+         "updated_at" : "2023-04-26T11:41:55Z",
+         "web_url" : "https://www.gov.uk/government/organisations/science-advisory-council"
+      },
+      {
          "analytics_identifier" : "OT798",
          "child_organisations" : [],
          "details" : {
@@ -8417,7 +8445,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2026-01-26T12:53:30Z",
+         "updated_at" : "2026-04-07T08:59:10Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -8640,7 +8668,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Education",
-         "updated_at" : "2025-05-19T12:00:35Z",
+         "updated_at" : "2026-04-14T11:23:39Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
       },
       {
@@ -9006,7 +9034,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Environment, Food & Rural Affairs",
-         "updated_at" : "2026-01-20T13:23:33Z",
+         "updated_at" : "2026-04-23T17:48:16Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
       },
       {
@@ -11421,7 +11449,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "East West Railway Company Limited",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "east-west-railway-company"
          },
          "format" : "Executive non-departmental public body",
@@ -11435,7 +11463,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "East West Railway Company Limited",
-         "updated_at" : "2022-09-20T09:24:45Z",
+         "updated_at" : "2026-04-30T11:59:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/east-west-railway-company"
       },
       {
@@ -11704,10 +11732,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "EAS",
-            "closed_at" : null,
+            "closed_at" : "2026-04-06T00:00:00.000+01:00",
             "content_id" : "0e90b2b0-dd95-4fd2-89ed-47672cf19ae3",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Employment Agency Standards Inspectorate",
             "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
@@ -11722,9 +11750,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/fair-work-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
+            }
+         ],
          "title" : "Employment Agency Standards Inspectorate",
-         "updated_at" : "2024-08-20T12:10:47Z",
+         "updated_at" : "2026-04-07T08:02:06Z",
          "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
       },
       {
@@ -12005,7 +12038,7 @@
             }
          ],
          "details" : {
-            "abbreviation" : "EA",
+            "abbreviation" : "",
             "closed_at" : null,
             "content_id" : "16628142-57b2-4611-bc03-5912785acee3",
             "govuk_closed_status" : null,
@@ -12026,7 +12059,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Environment Agency",
-         "updated_at" : "2024-03-26T07:31:23Z",
+         "updated_at" : "2026-04-21T10:17:46Z",
          "web_url" : "https://www.gov.uk/government/organisations/environment-agency"
       },
       {
@@ -12470,10 +12503,19 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/employment-agency-standards-inspectorate",
+               "web_url" : "https://www.gov.uk/government/organisations/employment-agency-standards-inspectorate"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/gangmasters-and-labour-abuse-authority",
+               "web_url" : "https://www.gov.uk/government/organisations/gangmasters-and-labour-abuse-authority"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Fair Work Agency",
-         "updated_at" : "2026-03-11T14:00:30Z",
+         "updated_at" : "2026-04-10T14:48:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
       },
       {
@@ -13324,7 +13366,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Flood Forecasting Centre",
-         "updated_at" : "2026-01-22T17:11:25Z",
+         "updated_at" : "2026-04-28T14:53:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/flood-forecasting-centre"
       },
       {
@@ -13979,10 +14021,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "GLAA",
-            "closed_at" : null,
+            "closed_at" : "2026-04-06T00:00:00.000+01:00",
             "content_id" : "95347397-3f2f-410f-886e-4c96636c6c80",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Gangmasters and<br/>Labour Abuse Authority",
             "organisation_brand_colour_class_name" : "home-office",
             "organisation_logo_type_class_name" : "ho",
@@ -14002,9 +14044,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/gangmasters-licensing-authority"
             }
          ],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/fair-work-agency",
+               "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
+            }
+         ],
          "title" : "Gangmasters and Labour Abuse Authority",
-         "updated_at" : "2021-04-15T09:04:42Z",
+         "updated_at" : "2026-04-07T16:07:24Z",
          "web_url" : "https://www.gov.uk/government/organisations/gangmasters-and-labour-abuse-authority"
       },
       {
@@ -14397,7 +14444,7 @@
             "closed_at" : null,
             "content_id" : "9e7b181f-0183-49ed-9f20-17d50b1da113",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Government <br/>Commercial<br/>Agency",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -14419,7 +14466,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government Commercial Agency",
-         "updated_at" : "2026-03-31T15:01:11Z",
+         "updated_at" : "2026-04-02T10:00:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
       },
       {
@@ -18776,7 +18823,7 @@
             "organisation_logo_type_class_name" : "mod",
             "slug" : "independent-medical-expert-group"
          },
-         "format" : "Advisory non-departmental public body",
+         "format" : "Other",
          "id" : "https://www.gov.uk/api/organisations/independent-medical-expert-group",
          "parent_organisations" : [
             {
@@ -18787,7 +18834,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Medical Expert Group",
-         "updated_at" : "2021-04-15T09:03:25Z",
+         "updated_at" : "2026-04-16T12:16:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/independent-medical-expert-group"
       },
       {
@@ -20968,13 +21015,13 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "LCR",
-            "closed_at" : null,
+            "closed_at" : "2025-11-18T00:00:00.000+00:00",
             "content_id" : "a9a27d7f-c0d2-4a1b-9ad2-baf38f4dc1db",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "London and Continental <br/>Railways Limited",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "single-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "london-and-continental-railways-ltd"
          },
          "format" : "Public corporation",
@@ -20983,12 +21030,21 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-for-transport",
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/network-rail",
+               "web_url" : "https://www.gov.uk/government/organisations/network-rail"
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/platform4",
+               "web_url" : "https://www.gov.uk/government/organisations/platform4"
+            }
+         ],
          "title" : "London and Continental Railways Limited",
-         "updated_at" : "2021-04-15T09:00:54Z",
+         "updated_at" : "2026-04-30T10:32:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/london-and-continental-railways-ltd"
       },
       {
@@ -22020,6 +22076,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/uk-defence-innovation",
                "web_url" : "https://www.gov.uk/government/organisations/uk-defence-innovation"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/nuclear-research-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-committee"
             }
          ],
          "details" : {
@@ -23392,7 +23452,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "National Highways",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "national-highways"
          },
          "format" : "Executive non-departmental public body",
@@ -23411,7 +23471,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "National Highways",
-         "updated_at" : "2022-09-20T09:23:08Z",
+         "updated_at" : "2026-04-30T12:57:30Z",
          "web_url" : "https://www.gov.uk/government/organisations/national-highways"
       },
       {
@@ -23439,7 +23499,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Housing Bank",
-         "updated_at" : "2026-03-31T16:55:53Z",
+         "updated_at" : "2026-04-15T16:17:11Z",
          "web_url" : "https://www.gov.uk/government/organisations/national-housing-bank"
       },
       {
@@ -23740,7 +23800,7 @@
             "content_id" : "a2a82282-91a6-467e-b396-494cf770d02c",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : "Royal Naval Museum",
+            "logo_formatted_name" : "Royal Navy Museums",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "royal-naval-museum"
@@ -23756,7 +23816,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "National Museum of the Royal Navy",
-         "updated_at" : "2023-12-20T12:10:32Z",
+         "updated_at" : "2026-04-29T09:19:36Z",
          "web_url" : "https://www.gov.uk/government/organisations/royal-naval-museum"
       },
       {
@@ -24458,6 +24518,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/platform4",
                "web_url" : "https://www.gov.uk/government/organisations/platform4"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/london-and-continental-railways-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/london-and-continental-railways-ltd"
             }
          ],
          "details" : {
@@ -24468,7 +24532,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Network Rail",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "network-rail"
          },
          "format" : "Executive non-departmental public body",
@@ -24482,7 +24546,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Network Rail",
-         "updated_at" : "2022-09-20T09:25:08Z",
+         "updated_at" : "2026-04-30T10:39:54Z",
          "web_url" : "https://www.gov.uk/government/organisations/network-rail"
       },
       {
@@ -26490,7 +26554,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Northern Lighthouse Board",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "northern-lighthouse-board"
          },
          "format" : "Executive non-departmental public body",
@@ -26504,7 +26568,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Northern Lighthouse Board",
-         "updated_at" : "2021-04-15T09:00:48Z",
+         "updated_at" : "2026-04-30T10:44:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/northern-lighthouse-board"
       },
       {
@@ -26690,14 +26754,47 @@
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-liabilities-financing-assurance-board"
       },
       {
-         "analytics_identifier" : "PB400",
+         "analytics_identifier" : "OT1476",
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "NRAC",
             "closed_at" : null,
-            "content_id" : "92963897-7720-443f-81aa-65bb6be7e6f5",
+            "content_id" : "aa023106-cae6-499f-a247-54af11f72429",
             "govuk_closed_status" : null,
             "govuk_status" : "live",
+            "logo_formatted_name" : "Nuclear Research<br/>Advisory Committee",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "nuclear-research-advisory-committee"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/nuclear-research-advisory-committee",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/nuclear-research-advisory-council",
+               "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-council"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Nuclear Research Advisory Committee",
+         "updated_at" : "2026-04-17T12:14:04Z",
+         "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-committee"
+      },
+      {
+         "analytics_identifier" : "PB400",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NRAC",
+            "closed_at" : "2026-04-01T00:00:00.000+01:00",
+            "content_id" : "92963897-7720-443f-81aa-65bb6be7e6f5",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Nuclear Research <br/>Advisory Council",
             "organisation_brand_colour_class_name" : "ministry-of-defence",
             "organisation_logo_type_class_name" : "mod",
@@ -26712,9 +26809,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/nuclear-research-advisory-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-committee"
+            }
+         ],
          "title" : "Nuclear Research Advisory Council",
-         "updated_at" : "2021-04-15T09:00:35Z",
+         "updated_at" : "2026-04-16T15:55:44Z",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-council"
       },
       {
@@ -27229,7 +27331,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Investment",
-         "updated_at" : "2025-06-18T10:21:25Z",
+         "updated_at" : "2026-04-17T09:42:08Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-investment"
       },
       {
@@ -27849,7 +27951,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Office of<br/>Rail and Road",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "office-of-rail-and-road"
          },
          "format" : "Non-ministerial department",
@@ -27868,7 +27970,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Office of Rail and Road",
-         "updated_at" : "2021-11-29T15:15:21Z",
+         "updated_at" : "2026-04-30T10:38:03Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-rail-and-road"
       },
       {
@@ -28505,7 +28607,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Public Guardian",
-         "updated_at" : "2025-02-27T11:11:27Z",
+         "updated_at" : "2026-04-29T09:52:30Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-public-guardian"
       },
       {
@@ -32563,7 +32665,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Science Council",
-         "updated_at" : "2026-03-18T18:22:53Z",
+         "updated_at" : "2026-04-10T11:14:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-council"
       },
       {
@@ -35993,7 +36095,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Transport Focus",
             "organisation_brand_colour_class_name" : null,
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "transport-focus"
          },
          "format" : "Executive non-departmental public body",
@@ -36012,7 +36114,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Transport Focus",
-         "updated_at" : "2021-04-15T09:03:58Z",
+         "updated_at" : "2026-04-30T11:42:33Z",
          "web_url" : "https://www.gov.uk/government/organisations/transport-focus"
       },
       {
@@ -36120,7 +36222,7 @@
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Trinity House",
             "organisation_brand_colour_class_name" : "department-for-transport",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "trinity-house"
          },
          "format" : "Executive non-departmental public body",
@@ -36134,7 +36236,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Trinity House",
-         "updated_at" : "2025-08-28T08:59:33Z",
+         "updated_at" : "2026-04-30T11:44:01Z",
          "web_url" : "https://www.gov.uk/government/organisations/trinity-house"
       },
       {
@@ -36259,7 +36361,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Atomic Energy Authority",
-         "updated_at" : "2026-03-19T08:48:36Z",
+         "updated_at" : "2026-04-27T08:47:28Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
       },
       {
@@ -37219,7 +37321,7 @@
             "organisation_logo_type_class_name" : "custom",
             "slug" : "uk-space-agency"
          },
-         "format" : "Executive agency",
+         "format" : "Sub organisation",
          "id" : "https://www.gov.uk/api/organisations/uk-space-agency",
          "parent_organisations" : [
             {
@@ -37230,7 +37332,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Space Agency",
-         "updated_at" : "2025-03-06T15:26:53Z",
+         "updated_at" : "2026-04-01T10:28:12Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-space-agency"
       },
       {
@@ -38276,6 +38378,34 @@
          "title" : "Wales Audit Office",
          "updated_at" : "2021-04-15T09:02:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/wales-audit-office"
+      },
+      {
+         "analytics_identifier" : "OT1422",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "99a5828c-79dd-4533-ab18-18069be289cf",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Wales Office",
+            "organisation_brand_colour_class_name" : "wales-office",
+            "organisation_logo_type_class_name" : "wales",
+            "slug" : "wales-office"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/wales-office",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-wales",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Wales Office",
+         "updated_at" : "2025-10-14T13:52:56Z",
+         "web_url" : "https://www.gov.uk/government/organisations/wales-office"
       },
       {
          "analytics_identifier" : "PB187",
