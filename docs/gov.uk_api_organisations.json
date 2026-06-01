@@ -4685,7 +4685,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Civil Procedure Rule Committee",
-         "updated_at" : "2022-02-10T10:59:50Z",
+         "updated_at" : "2026-05-14T13:10:27Z",
          "web_url" : "https://www.gov.uk/government/organisations/civil-procedure-rules-committee"
       },
       {
@@ -7389,6 +7389,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/defence-medical-education-and-training-agency"
       },
       {
+         "analytics_identifier" : "OT1477",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "DNE",
+            "closed_at" : null,
+            "content_id" : "c4f782b3-3cf0-43ba-ba0d-0309930a5320",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Defence<br/>Nuclear Enterprise",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "mod",
+            "slug" : "defence-nuclear-enterprise"
+         },
+         "format" : "Sub organisation",
+         "id" : "https://www.gov.uk/api/organisations/defence-nuclear-enterprise",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Defence Nuclear Enterprise",
+         "updated_at" : "2026-05-14T14:47:37Z",
+         "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-enterprise"
+      },
+      {
          "analytics_identifier" : "OT1250",
          "child_organisations" : [
             {
@@ -9869,7 +9897,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Work and Pensions",
-         "updated_at" : "2024-10-08T10:38:37Z",
+         "updated_at" : "2026-05-20T09:02:43Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-work-pensions"
       },
       {
@@ -10807,7 +10835,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "DfT Operator Limited",
-         "updated_at" : "2026-03-20T12:15:10Z",
+         "updated_at" : "2026-06-01T07:22:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
       },
       {
@@ -12059,7 +12087,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Environment Agency",
-         "updated_at" : "2026-04-21T10:17:46Z",
+         "updated_at" : "2026-05-14T09:47:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/environment-agency"
       },
       {
@@ -13509,7 +13537,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Food Standards Agency",
-         "updated_at" : "2021-04-15T08:59:29Z",
+         "updated_at" : "2026-05-20T15:21:51Z",
          "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
       },
       {
@@ -18707,10 +18735,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "",
-            "closed_at" : null,
+            "closed_at" : "2026-05-26T00:00:00.000+01:00",
             "content_id" : "ec2d53a1-0d51-4c9c-8d14-31cfee762922",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Independent Dormant Assets Commission",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -18722,7 +18750,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Dormant Assets Commission ",
-         "updated_at" : "2021-04-15T09:04:22Z",
+         "updated_at" : "2026-05-27T13:25:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/dormant-assets-commission"
       },
       {
@@ -22080,6 +22108,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/nuclear-research-advisory-committee",
                "web_url" : "https://www.gov.uk/government/organisations/nuclear-research-advisory-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/defence-nuclear-enterprise",
+               "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-enterprise"
             }
          ],
          "details" : {
@@ -22298,7 +22330,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Housing, Communities and Local Government",
-         "updated_at" : "2025-10-17T06:49:48Z",
+         "updated_at" : "2026-05-21T14:34:38Z",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
       },
       {
@@ -26996,9 +27028,9 @@
             "content_id" : "1c117305-51f8-497a-9372-9330d1e59497",
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
-            "logo_formatted_name" : "Office for<br/>Budget<br/>Responsibility",
+            "logo_formatted_name" : "Office for <br/>Budget <br/>Responsibility",
             "organisation_brand_colour_class_name" : "hm-treasury",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "office-for-budget-responsibility"
          },
          "format" : "Executive non-departmental public body",
@@ -27012,7 +27044,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Budget Responsibility",
-         "updated_at" : "2021-12-29T10:50:34Z",
+         "updated_at" : "2026-05-12T14:40:07Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-budget-responsibility"
       },
       {
@@ -29134,7 +29166,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Open Innovation Team",
-         "updated_at" : "2026-01-28T14:54:10Z",
+         "updated_at" : "2026-05-29T09:19:45Z",
          "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
       },
       {
@@ -32609,7 +32641,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Science and Technology Ethics Advisory Committee",
-         "updated_at" : "2025-09-16T10:34:28Z",
+         "updated_at" : "2026-05-21T10:27:33Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-and-technology-ethics-advisory-committee"
       },
       {
@@ -32746,39 +32778,6 @@
          "title" : "Scientific Advisory Group for Emergencies",
          "updated_at" : "2021-08-03T10:53:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies"
-      },
-      {
-         "analytics_identifier" : "D1423",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-scotland",
-               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-scotland"
-            }
-         ],
-         "details" : {
-            "abbreviation" : "",
-            "closed_at" : null,
-            "content_id" : "63953ed9-98ac-4d08-a1b9-8ea38dbd0832",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Scotland Office",
-            "organisation_brand_colour_class_name" : "scotland-office",
-            "organisation_logo_type_class_name" : "so",
-            "slug" : "scotland-office"
-         },
-         "format" : "Ministerial department",
-         "id" : "https://www.gov.uk/api/organisations/scotland-office",
-         "parent_organisations" : [],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Scotland Office",
-         "updated_at" : "2024-09-26T08:46:22Z",
-         "web_url" : "https://www.gov.uk/government/organisations/scotland-office"
       },
       {
          "analytics_identifier" : "OT762",
@@ -34989,7 +34988,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Charity Commission",
-         "updated_at" : "2025-08-07T06:59:58Z",
+         "updated_at" : "2026-06-01T06:54:44Z",
          "web_url" : "https://www.gov.uk/government/organisations/charity-commission"
       },
       {
@@ -36361,7 +36360,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Atomic Energy Authority",
-         "updated_at" : "2026-04-27T08:47:28Z",
+         "updated_at" : "2026-05-14T14:12:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
       },
       {
