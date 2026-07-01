@@ -395,7 +395,7 @@
             "closed_at" : null,
             "content_id" : "84a579e2-e8d3-4b21-8f59-6df3a3b90767",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee<br/>for Social Science",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -409,10 +409,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/social-science-research-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/social-science-research-committee"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Advisory Committee for Social Science",
-         "updated_at" : "2026-04-10T09:53:18Z",
+         "updated_at" : "2026-06-25T08:15:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-for-social-science"
       },
       {
@@ -423,7 +428,7 @@
             "closed_at" : null,
             "content_id" : "b02a8db0-6bbb-4010-9584-1a6623dc7012",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee <br/>on Animal Feedingstuffs",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -440,7 +445,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Animal Feedingstuffs",
-         "updated_at" : "2026-04-10T09:49:25Z",
+         "updated_at" : "2026-06-25T08:16:56Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-animal-feedingstuffs"
       },
       {
@@ -573,7 +578,7 @@
             "closed_at" : null,
             "content_id" : "c175500c-c1f1-46e3-9e4d-02ef02202264",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee <br/>on Novel Foods <br/>and Processes",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -590,7 +595,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on Novel Foods and Processes",
-         "updated_at" : "2026-04-10T09:26:32Z",
+         "updated_at" : "2026-06-25T08:16:19Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-novel-foods-and-processes"
       },
       {
@@ -657,7 +662,7 @@
             "closed_at" : null,
             "content_id" : "53a94971-b4db-48e4-b2c8-2e452f0f090d",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee <br/>on the Microbiological <br/>Safety of Food",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -674,7 +679,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Advisory Committee on the Microbiological Safety of Food",
-         "updated_at" : "2026-03-18T18:19:09Z",
+         "updated_at" : "2026-06-25T08:17:17Z",
          "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food"
       },
       {
@@ -1152,7 +1157,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Animal and Plant Health Agency",
-         "updated_at" : "2026-04-20T11:52:34Z",
+         "updated_at" : "2026-06-09T11:32:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/animal-and-plant-health-agency"
       },
       {
@@ -4247,7 +4252,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Certification Officer",
-         "updated_at" : "2024-02-29T12:35:11Z",
+         "updated_at" : "2026-06-08T14:53:07Z",
          "web_url" : "https://www.gov.uk/government/organisations/certification-officer"
       },
       {
@@ -5645,16 +5650,12 @@
             {
                "id" : "https://www.gov.uk/api/organisations/department-of-health-and-social-care",
                "web_url" : "https://www.gov.uk/government/organisations/department-of-health-and-social-care"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/food-standards-agency",
-               "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",
-         "updated_at" : "2021-04-15T09:01:07Z",
+         "updated_at" : "2026-06-27T08:56:20Z",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-mutagenicity-of-chemicals-in-food-consumer-products-and-the-environment"
       },
       {
@@ -5721,7 +5722,7 @@
             "closed_at" : null,
             "content_id" : "b61e9dd6-8797-4179-830d-7ef98dd00d55",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Committee on Toxicity<br/>of Chemicals in Food, <br/>Consumer Products <br/>and the Environment",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -5738,7 +5739,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",
-         "updated_at" : "2026-04-13T16:24:30Z",
+         "updated_at" : "2026-06-25T08:13:01Z",
          "web_url" : "https://www.gov.uk/government/organisations/committee-on-toxicity-of-chemicals-in-food-consumer-products-and-the-environment"
       },
       {
@@ -5840,7 +5841,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Companies House",
-         "updated_at" : "2025-10-24T11:46:46Z",
+         "updated_at" : "2026-06-08T08:57:49Z",
          "web_url" : "https://www.gov.uk/government/organisations/companies-house"
       },
       {
@@ -7396,7 +7397,7 @@
             "closed_at" : null,
             "content_id" : "c4f782b3-3cf0-43ba-ba0d-0309930a5320",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Defence<br/>Nuclear Enterprise",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "mod",
@@ -7413,7 +7414,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Defence Nuclear Enterprise",
-         "updated_at" : "2026-05-14T14:47:37Z",
+         "updated_at" : "2026-06-04T09:11:50Z",
          "web_url" : "https://www.gov.uk/government/organisations/defence-nuclear-enterprise"
       },
       {
@@ -9038,6 +9039,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/independent-agricultural-appeals-panel",
                "web_url" : "https://www.gov.uk/government/organisations/independent-agricultural-appeals-panel"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/groceries-code-adjudicator",
+               "web_url" : "https://www.gov.uk/government/organisations/groceries-code-adjudicator"
             }
          ],
          "details" : {
@@ -11232,7 +11237,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Driver and Vehicle Licensing Agency",
-         "updated_at" : "2023-10-11T11:46:55Z",
+         "updated_at" : "2026-06-08T08:55:27Z",
          "web_url" : "https://www.gov.uk/government/organisations/driver-and-vehicle-licensing-agency"
       },
       {
@@ -13504,10 +13509,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/social-science-research-committee"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/committee-on-mutagenicity-of-chemicals-in-food-consumer-products-and-the-environment",
-               "web_url" : "https://www.gov.uk/government/organisations/committee-on-mutagenicity-of-chemicals-in-food-consumer-products-and-the-environment"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/science-advisory-committees",
                "web_url" : "https://www.gov.uk/government/organisations/science-advisory-committees"
             },
@@ -13525,10 +13526,10 @@
             "closed_at" : null,
             "content_id" : "447f8075-1c8c-40d3-8119-3e45ea9e6496",
             "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Food Standards Agency",
             "organisation_brand_colour_class_name" : "department-of-health",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "custom",
             "slug" : "food-standards-agency"
          },
          "format" : "Non-ministerial department",
@@ -13537,7 +13538,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Food Standards Agency",
-         "updated_at" : "2026-05-20T15:21:51Z",
+         "updated_at" : "2026-06-25T11:21:28Z",
          "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
       },
       {
@@ -13701,7 +13702,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Foreign, Commonwealth & Development Office",
-         "updated_at" : "2026-03-24T08:59:15Z",
+         "updated_at" : "2026-06-18T12:25:20Z",
          "web_url" : "https://www.gov.uk/government/organisations/foreign-commonwealth-development-office"
       },
       {
@@ -16090,14 +16091,14 @@
          "id" : "https://www.gov.uk/api/organisations/groceries-code-adjudicator",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Groceries Code Adjudicator",
-         "updated_at" : "2023-03-02T09:45:04Z",
+         "updated_at" : "2026-07-01T07:50:10Z",
          "web_url" : "https://www.gov.uk/government/organisations/groceries-code-adjudicator"
       },
       {
@@ -17268,7 +17269,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Land Registry",
-         "updated_at" : "2026-03-09T10:13:08Z",
+         "updated_at" : "2026-06-15T15:29:02Z",
          "web_url" : "https://www.gov.uk/government/organisations/land-registry"
       },
       {
@@ -18354,7 +18355,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Immigration Enforcement",
-         "updated_at" : "2024-08-30T09:56:46Z",
+         "updated_at" : "2026-06-29T16:07:33Z",
          "web_url" : "https://www.gov.uk/government/organisations/immigration-enforcement"
       },
       {
@@ -19310,7 +19311,7 @@
          "analytics_identifier" : "OT1415",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "IBCA",
+            "abbreviation" : "",
             "closed_at" : null,
             "content_id" : "80fc3a6c-b2c4-471d-be00-e3639169d9f8",
             "govuk_closed_status" : null,
@@ -19326,7 +19327,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Infected Blood Compensation Authority",
-         "updated_at" : "2025-02-04T11:12:55Z",
+         "updated_at" : "2026-06-09T10:42:33Z",
          "web_url" : "https://www.gov.uk/government/organisations/infected-blood-compensation-authority"
       },
       {
@@ -20455,8 +20456,8 @@
             "abbreviation" : "",
             "closed_at" : null,
             "content_id" : "94bea512-8422-413b-9c82-bfc4ee5f268b",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "no_longer_exists",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Lammy Review",
             "organisation_brand_colour_class_name" : "ministry-of-justice",
             "organisation_logo_type_class_name" : "single-identity",
@@ -20468,7 +20469,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Lammy Review",
-         "updated_at" : "2021-04-15T09:04:24Z",
+         "updated_at" : "2026-06-02T10:29:08Z",
          "web_url" : "https://www.gov.uk/government/organisations/lammy-review"
       },
       {
@@ -20668,7 +20669,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Legal Aid Agency",
-         "updated_at" : "2025-04-29T15:58:27Z",
+         "updated_at" : "2026-06-25T12:49:05Z",
          "web_url" : "https://www.gov.uk/government/organisations/legal-aid-agency"
       },
       {
@@ -20958,6 +20959,34 @@
          "title" : "Livestock and Meat Commission for Northern Ireland",
          "updated_at" : "2024-11-20T15:00:59Z",
          "web_url" : "https://www.gov.uk/government/organisations/livestock-and-meat-commission-for-northern-ireland"
+      },
+      {
+         "analytics_identifier" : "PB1478",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "b9ea4ea5-ac88-4277-83ce-1c9ca7bf0106",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Local Audit Office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "local-audit-office"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/local-audit-office",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Local Audit Office",
+         "updated_at" : "2026-06-22T11:45:09Z",
+         "web_url" : "https://www.gov.uk/government/organisations/local-audit-office"
       },
       {
          "analytics_identifier" : "OT916",
@@ -22302,6 +22331,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/building-safety-regulator",
                "web_url" : "https://www.gov.uk/government/organisations/building-safety-regulator"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/local-audit-office",
+               "web_url" : "https://www.gov.uk/government/organisations/local-audit-office"
             }
          ],
          "details" : {
@@ -28639,7 +28672,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of the Public Guardian",
-         "updated_at" : "2026-04-29T09:52:30Z",
+         "updated_at" : "2026-06-09T11:22:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-the-public-guardian"
       },
       {
@@ -29166,7 +29199,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Open Innovation Team",
-         "updated_at" : "2026-05-29T09:19:45Z",
+         "updated_at" : "2026-06-26T10:37:39Z",
          "web_url" : "https://www.gov.uk/government/organisations/open-innovation-team"
       },
       {
@@ -29859,7 +29892,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Planning Inspectorate",
-         "updated_at" : "2026-01-06T13:16:05Z",
+         "updated_at" : "2026-06-18T12:37:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/planning-inspectorate"
       },
       {
@@ -31495,7 +31528,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Regulator of Social Housing",
-         "updated_at" : "2026-02-02T08:18:02Z",
+         "updated_at" : "2026-06-04T12:55:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/regulator-of-social-housing"
       },
       {
@@ -32680,7 +32713,7 @@
             "closed_at" : null,
             "content_id" : "47dfdd8b-cb96-4050-84c4-45a6b28bd18e",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Science<br/>Council",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "custom",
@@ -32697,7 +32730,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Science Council",
-         "updated_at" : "2026-04-10T11:14:55Z",
+         "updated_at" : "2026-06-25T08:01:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/science-council"
       },
       {
@@ -32778,6 +32811,39 @@
          "title" : "Scientific Advisory Group for Emergencies",
          "updated_at" : "2021-08-03T10:53:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/scientific-advisory-group-for-emergencies"
+      },
+      {
+         "analytics_identifier" : "D1423",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/boundary-commission-for-scotland",
+               "web_url" : "https://www.gov.uk/government/organisations/boundary-commission-for-scotland"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "63953ed9-98ac-4d08-a1b9-8ea38dbd0832",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Scotland Office",
+            "organisation_brand_colour_class_name" : "scotland-office",
+            "organisation_logo_type_class_name" : "so",
+            "slug" : "scotland-office"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/scotland-office",
+         "parent_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-scotland",
+               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-scotland"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Scotland Office",
+         "updated_at" : "2024-09-26T08:46:22Z",
+         "web_url" : "https://www.gov.uk/government/organisations/scotland-office"
       },
       {
          "analytics_identifier" : "OT762",
@@ -33106,7 +33172,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Senior Courts Costs Office",
-         "updated_at" : "2023-09-11T14:05:32Z",
+         "updated_at" : "2026-06-03T15:43:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/senior-courts-costs-office"
       },
       {
@@ -33707,10 +33773,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "SSRC",
-            "closed_at" : null,
+            "closed_at" : "2018-05-15T00:00:00.000+01:00",
             "content_id" : "4e66f90b-17fe-4d83-83f8-92f42f3071ab",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Social Science <br/>Research Committee",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "single-identity",
@@ -33725,9 +33791,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/advisory-committee-for-social-science",
+               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-for-social-science"
+            }
+         ],
          "title" : "Social Science Research Committee",
-         "updated_at" : "2021-04-15T09:01:25Z",
+         "updated_at" : "2026-06-26T20:54:10Z",
          "web_url" : "https://www.gov.uk/government/organisations/social-science-research-committee"
       },
       {
@@ -36624,7 +36695,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Defence Innovation",
-         "updated_at" : "2026-02-16T16:13:23Z",
+         "updated_at" : "2026-06-03T13:03:04Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-innovation"
       },
       {
@@ -36959,7 +37030,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Hydrographic Office",
-         "updated_at" : "2025-10-15T11:18:42Z",
+         "updated_at" : "2026-06-18T14:06:21Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-hydrographic-office"
       },
       {
@@ -38377,34 +38448,6 @@
          "title" : "Wales Audit Office",
          "updated_at" : "2021-04-15T09:02:55Z",
          "web_url" : "https://www.gov.uk/government/organisations/wales-audit-office"
-      },
-      {
-         "analytics_identifier" : "OT1422",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "",
-            "closed_at" : null,
-            "content_id" : "99a5828c-79dd-4533-ab18-18069be289cf",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
-            "logo_formatted_name" : "Wales Office",
-            "organisation_brand_colour_class_name" : "wales-office",
-            "organisation_logo_type_class_name" : "wales",
-            "slug" : "wales-office"
-         },
-         "format" : "Ministerial department",
-         "id" : "https://www.gov.uk/api/organisations/wales-office",
-         "parent_organisations" : [],
-         "superseded_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-of-the-secretary-of-state-for-wales",
-               "web_url" : "https://www.gov.uk/government/organisations/office-of-the-secretary-of-state-for-wales"
-            }
-         ],
-         "superseding_organisations" : [],
-         "title" : "Wales Office",
-         "updated_at" : "2025-10-14T13:52:56Z",
-         "web_url" : "https://www.gov.uk/government/organisations/wales-office"
       },
       {
          "analytics_identifier" : "PB187",
