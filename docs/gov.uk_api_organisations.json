@@ -104,7 +104,7 @@
             "govuk_closed_status" : "no_longer_exists",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Accelerated <br/>Access <br/>Review",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "accelerated-access-review"
          },
@@ -188,7 +188,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Administration of <br/>Radioactive Substances <br/>Advisory Committee",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "administration-of-radioactive-substances-advisory-committee"
          },
@@ -486,7 +486,7 @@
             "govuk_closed_status" : "replaced",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Advisory Committee on <br/>Clinical Excellence <br/>Awards",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "advisory-committee-on-clinical-excellence-awards"
          },
@@ -519,7 +519,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Advisory Committee on Clinical Impact Awards",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "advisory-committee-on-clinical-impact-awards"
          },
@@ -1783,7 +1783,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "AWE Nuclear Security Technologies",
-         "updated_at" : "2025-05-21T08:33:13Z",
+         "updated_at" : "2026-07-10T14:51:12Z",
          "web_url" : "https://www.gov.uk/government/organisations/awe-nuclear-security-technologies"
       },
       {
@@ -2434,7 +2434,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Border Security Command",
-         "updated_at" : "2025-07-11T10:11:52Z",
+         "updated_at" : "2026-07-10T14:03:18Z",
          "web_url" : "https://www.gov.uk/government/organisations/border-security-command"
       },
       {
@@ -2918,7 +2918,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "British<br/>Pharmacopoeia",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "british-pharmacopoeia"
          },
@@ -3076,7 +3076,7 @@
             "govuk_closed_status" : "no_longer_exists",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Broadmoor<br/>Hospital<br/>investigation",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "investigation-into-the-role-of-jimmy-savile-at-broadmoor-hospital"
          },
@@ -3160,7 +3160,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Building Digital UK",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "building-digital-uk"
          },
@@ -3168,8 +3168,8 @@
          "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
             }
          ],
          "superseded_organisations" : [],
@@ -3180,7 +3180,7 @@
             }
          ],
          "title" : "Building Digital UK",
-         "updated_at" : "2026-03-13T08:51:12Z",
+         "updated_at" : "2026-07-24T08:41:39Z",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -3456,10 +3456,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/civil-service-hr"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/disability-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/disability-unit"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/united-kingdom-security-vetting",
                "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-security-vetting"
             },
@@ -3478,10 +3474,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/the-equality-hub",
                "web_url" : "https://www.gov.uk/government/organisations/the-equality-hub"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/social-mobility-commission",
-               "web_url" : "https://www.gov.uk/government/organisations/social-mobility-commission"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/modernisation-and-reform",
@@ -3540,18 +3532,6 @@
                "web_url" : "https://www.gov.uk/government/organisations/government-skills"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/office-for-equality-and-opportunity",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-equality-and-opportunity"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/race-equality-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/race-equality-unit"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/women-and-equalities-unit",
-               "web_url" : "https://www.gov.uk/government/organisations/women-and-equalities-unit"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/uk-resilience-academy",
                "web_url" : "https://www.gov.uk/government/organisations/uk-resilience-academy"
             },
@@ -3598,7 +3578,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Cabinet Office",
-         "updated_at" : "2023-06-09T13:54:07Z",
+         "updated_at" : "2026-07-20T19:56:05Z",
          "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
       },
       {
@@ -3779,7 +3759,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Care Quality <br/>Commission",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "care-quality-commission"
          },
@@ -3911,8 +3891,8 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Central Arbitration Committee",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
-            "organisation_logo_type_class_name" : "bis",
+            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_logo_type_class_name" : "dbt",
             "slug" : "central-arbitration-committee"
          },
          "format" : "Tribunal",
@@ -3926,7 +3906,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Central Arbitration Committee",
-         "updated_at" : "2025-08-28T15:31:39Z",
+         "updated_at" : "2026-07-29T07:50:51Z",
          "web_url" : "https://www.gov.uk/government/organisations/central-arbitration-committee"
       },
       {
@@ -4046,7 +4026,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Centre for Climate and Health Security",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "the-centre-for-climate-health-security"
          },
@@ -5472,7 +5452,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Commission on Human Medicines",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "commission-on-human-medicines"
          },
@@ -5640,7 +5620,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Committee on Mutagenicity of <br/>Chemicals in Food, Consumer Products <br/>and the Environment",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "committee-on-mutagenicity-of-chemicals-in-food-consumer-products-and-the-environment"
          },
@@ -5962,7 +5942,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2026-04-09T08:30:04Z",
+         "updated_at" : "2026-07-09T14:24:13Z",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -7835,10 +7815,6 @@
          "analytics_identifier" : "D1382",
          "child_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/groceries-code-adjudicator",
-               "web_url" : "https://www.gov.uk/government/organisations/groceries-code-adjudicator"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/office-for-product-safety-and-standards",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-product-safety-and-standards"
             },
@@ -8164,6 +8140,29 @@
          "title" : "Department for Business, Innovation & Skills",
          "updated_at" : "2021-04-15T08:58:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+      },
+      {
+         "analytics_identifier" : "D1480",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "BIST",
+            "closed_at" : null,
+            "content_id" : "d62ba2be-4ae5-4a9c-ac19-7c1dd197deea",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Department for Business, Innovation, Science and Trade",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "department-for-business-innovation-science-and-trade"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-science-and-trade",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Department for Business, Innovation, Science and Trade",
+         "updated_at" : "2026-07-31T14:14:02Z",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade"
       },
       {
          "analytics_identifier" : "D609",
@@ -8503,11 +8502,11 @@
          ],
          "details" : {
             "abbreviation" : "",
-            "closed_at" : null,
+            "closed_at" : "2023-02-07T00:00:00.000+00:00",
             "content_id" : "fd62c5a4-714d-47fe-a612-595d1739251c",
             "govuk_closed_status" : "split",
             "govuk_status" : "closed",
-            "logo_formatted_name" : "Department for<br/>Digital, Culture,<br/>Media &amp; Sport",
+            "logo_formatted_name" : "Department for<br/>Digital, Culture,<br/>Media &amp; Sport<br/>(2017 to 2023)",
             "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-digital-culture-media-sport"
@@ -8535,9 +8534,37 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
             }
          ],
-         "title" : "Department for Digital, Culture, Media & Sport",
-         "updated_at" : "2023-04-21T15:16:58Z",
+         "title" : "Department for Digital, Culture, Media & Sport (2017 to 2023)",
+         "updated_at" : "2026-07-22T07:25:38Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
+      },
+      {
+         "analytics_identifier" : "D1481",
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
+            }
+         ],
+         "details" : {
+            "abbreviation" : "DCMS",
+            "closed_at" : null,
+            "content_id" : "04efa5ed-5a59-40e2-be02-fbf105c94794",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Department for<br/>Digital, Culture,<br/>Media &amp; Sport",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "department-for-digital-culture-media-and-sport"
+         },
+         "format" : "Ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Department for Digital, Culture, Media and Sport",
+         "updated_at" : "2026-07-28T08:04:57Z",
+         "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
       },
       {
          "analytics_identifier" : "D6",
@@ -8693,6 +8720,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/institute-for-apprenticeships-and-technical-education",
                "web_url" : "https://www.gov.uk/government/organisations/institute-for-apprenticeships-and-technical-education"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/located",
+               "web_url" : "https://www.gov.uk/government/organisations/located"
             }
          ],
          "superseding_organisations" : [],
@@ -9043,6 +9074,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/groceries-code-adjudicator",
                "web_url" : "https://www.gov.uk/government/organisations/groceries-code-adjudicator"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/the-drinking-water-inspectorate",
+               "web_url" : "https://www.gov.uk/government/organisations/the-drinking-water-inspectorate"
             }
          ],
          "details" : {
@@ -9067,7 +9102,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Environment, Food & Rural Affairs",
-         "updated_at" : "2026-04-23T17:48:16Z",
+         "updated_at" : "2026-07-31T10:59:24Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
       },
       {
@@ -9339,10 +9374,6 @@
       {
          "analytics_identifier" : "D1381",
          "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
-            },
             {
                "id" : "https://www.gov.uk/api/organisations/office-for-artificial-intelligence",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-artificial-intelligence"
@@ -10411,7 +10442,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department<br/>of Health &amp;<br/>Social Care",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-of-health-and-social-care"
          },
@@ -10998,7 +11029,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Disability Unit",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "disability-unit"
          },
@@ -11006,8 +11037,8 @@
          "id" : "https://www.gov.uk/api/organisations/disability-unit",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
             }
          ],
          "superseded_organisations" : [
@@ -11018,7 +11049,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Disability Unit",
-         "updated_at" : "2024-12-16T12:07:24Z",
+         "updated_at" : "2026-07-23T11:50:01Z",
          "web_url" : "https://www.gov.uk/government/organisations/disability-unit"
       },
       {
@@ -13528,7 +13559,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Food Standards Agency",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "food-standards-agency"
          },
@@ -13538,7 +13569,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Food Standards Agency",
-         "updated_at" : "2026-06-25T11:21:28Z",
+         "updated_at" : "2026-07-01T13:36:46Z",
          "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
       },
       {
@@ -14473,7 +14504,7 @@
             "closed_at" : null,
             "content_id" : "9e7b181f-0183-49ed-9f20-17d50b1da113",
             "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_status" : "exempt",
             "logo_formatted_name" : "Government <br/>Commercial<br/>Agency",
             "organisation_brand_colour_class_name" : "cabinet-office",
             "organisation_logo_type_class_name" : "single-identity",
@@ -14495,7 +14526,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government Commercial Agency",
-         "updated_at" : "2026-04-02T10:00:55Z",
+         "updated_at" : "2026-07-19T18:01:43Z",
          "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
       },
       {
@@ -15279,7 +15310,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "joining",
             "logo_formatted_name" : "Government<br/>Partnerships<br/>International",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "government-partnerships-international"
          },
@@ -15991,7 +16022,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Great British Energy â Nuclear",
-         "updated_at" : "2025-06-10T08:30:34Z",
+         "updated_at" : "2026-07-10T14:51:38Z",
          "web_url" : "https://www.gov.uk/government/organisations/great-british-energy-nuclear"
       },
       {
@@ -16049,6 +16080,34 @@
          "title" : "Great Yarmouth Education Action Zone",
          "updated_at" : "2021-04-15T09:02:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/great-yarmouth-education-action-zone"
+      },
+      {
+         "analytics_identifier" : "OT1483",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "97fdc978-f529-4dd2-939a-ffc79dca53d2",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Greater Cambridge Development Corporation",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "greater-cambridge-development-corporation"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/greater-cambridge-development-corporation",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Greater Cambridge Development Corporation",
+         "updated_at" : "2026-07-30T15:00:11Z",
+         "web_url" : "https://www.gov.uk/government/organisations/greater-cambridge-development-corporation"
       },
       {
          "analytics_identifier" : "OT637",
@@ -16277,7 +16336,7 @@
             "govuk_closed_status" : "changed_name",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Health and <br/>Social Care <br/>Information Centre",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "health-and-social-care-information-centre"
          },
@@ -16315,7 +16374,7 @@
             "govuk_closed_status" : "merged",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Health <br/>Education<br/>England",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "health-education-england"
          },
@@ -16348,7 +16407,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Health Equity in Health Protection Initiative",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "health-equity-in-health-protection-initiative"
          },
@@ -16399,7 +16458,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "The Health <br/>Research <br/>Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "health-research-authority"
          },
@@ -16432,7 +16491,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Health Services Safety Investigations Body",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "health-services-safety-investigations-body"
          },
@@ -18139,7 +18198,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Human Fertilisation <br/>and Embryology <br/>Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "human-fertilisation-and-embryology-authority"
          },
@@ -18200,7 +18259,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Human Tissue <br/>Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "human-tissue-authority"
          },
@@ -18327,7 +18386,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Immigration Advice Authority",
-         "updated_at" : "2025-09-30T15:25:41Z",
+         "updated_at" : "2026-07-14T08:24:07Z",
          "web_url" : "https://www.gov.uk/government/organisations/immigration-advice-authority"
       },
       {
@@ -18461,7 +18520,7 @@
          "analytics_identifier" : "OT1358",
          "child_organisations" : [],
          "details" : {
-            "abbreviation" : "IAMS",
+            "abbreviation" : "The Independent Adviser on Ministerial Standards",
             "closed_at" : null,
             "content_id" : "8e677682-1c88-446c-9c6b-440ce0ea57c6",
             "govuk_closed_status" : null,
@@ -18482,7 +18541,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Independent Adviser on Ministerial Standards",
-         "updated_at" : "2025-10-13T08:32:05Z",
+         "updated_at" : "2026-07-14T14:14:15Z",
          "web_url" : "https://www.gov.uk/government/organisations/independent-adviser-on-ministers-interests"
       },
       {
@@ -18490,10 +18549,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "IAPDC",
-            "closed_at" : null,
+            "closed_at" : "2026-07-29T00:00:00.000+01:00",
             "content_id" : "c815749f-a60c-43c6-91b1-895aceba412f",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "IAPDC",
             "organisation_brand_colour_class_name" : "ministry-of-justice",
             "organisation_logo_type_class_name" : "single-identity",
@@ -18508,10 +18567,48 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-advisory-panel-on-deaths-in-detention",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-detention"
+            }
+         ],
          "title" : "Independent Advisory Panel on Deaths in Custody",
-         "updated_at" : "2021-04-15T09:00:44Z",
+         "updated_at" : "2026-07-29T11:16:37Z",
          "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-custody"
+      },
+      {
+         "analytics_identifier" : "PB1482",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "320b12d5-74a3-4aab-a6dd-1b13753890f5",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Independent Advisory Panel on Deaths in Detention",
+            "organisation_brand_colour_class_name" : "ministry-of-justice",
+            "organisation_logo_type_class_name" : "single-identity",
+            "slug" : "independent-advisory-panel-on-deaths-in-detention"
+         },
+         "format" : "Advisory non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/independent-advisory-panel-on-deaths-in-detention",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-justice",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-advisory-panel-on-deaths-in-custody",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-custody"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Independent Advisory Panel on Deaths in Detention",
+         "updated_at" : "2026-07-29T11:26:58Z",
+         "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-detention"
       },
       {
          "analytics_identifier" : "PB210",
@@ -19044,7 +19141,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Independent <br/>Reconfiguration Panel",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "independent-reconfiguration-panel"
          },
@@ -21044,10 +21141,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "",
-            "closed_at" : null,
+            "closed_at" : "2026-04-01T00:00:00.000+01:00",
             "content_id" : "690082aa-386d-4074-b1f2-0123be7268ac",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
+            "govuk_closed_status" : "merged",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "LocatED",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
@@ -21062,9 +21159,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-education",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-education"
+            }
+         ],
          "title" : "LocatED",
-         "updated_at" : "2021-04-15T09:04:46Z",
+         "updated_at" : "2026-07-23T13:05:01Z",
          "web_url" : "https://www.gov.uk/government/organisations/located"
       },
       {
@@ -21621,7 +21723,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Medicines &amp; Healthcare products<br/>Regulatory Agency",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "medicines-and-healthcare-products-regulatory-agency"
          },
@@ -21904,7 +22006,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Mining Remediation Authority",
-         "updated_at" : "2024-12-04T10:10:42Z",
+         "updated_at" : "2026-07-16T08:46:26Z",
          "web_url" : "https://www.gov.uk/government/organisations/mining-remediation-authority"
       },
       {
@@ -22335,6 +22437,30 @@
             {
                "id" : "https://www.gov.uk/api/organisations/local-audit-office",
                "web_url" : "https://www.gov.uk/government/organisations/local-audit-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-equality-and-opportunity",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-equality-and-opportunity"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/women-and-equalities-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/women-and-equalities-unit"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/race-equality-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/race-equality-unit"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/disability-unit",
+               "web_url" : "https://www.gov.uk/government/organisations/disability-unit"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/social-mobility-commission",
+               "web_url" : "https://www.gov.uk/government/organisations/social-mobility-commission"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/greater-cambridge-development-corporation",
+               "web_url" : "https://www.gov.uk/government/organisations/greater-cambridge-development-corporation"
             }
          ],
          "details" : {
@@ -22540,6 +22666,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/online-procedure-rule-committee",
                "web_url" : "https://www.gov.uk/government/organisations/online-procedure-rule-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/independent-advisory-panel-on-deaths-in-detention",
+               "web_url" : "https://www.gov.uk/government/organisations/independent-advisory-panel-on-deaths-in-detention"
             }
          ],
          "details" : {
@@ -22568,7 +22698,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ministry of Justice",
-         "updated_at" : "2026-03-19T10:13:00Z",
+         "updated_at" : "2026-07-31T09:12:00Z",
          "web_url" : "https://www.gov.uk/government/organisations/ministry-of-justice"
       },
       {
@@ -22647,7 +22777,7 @@
             "govuk_closed_status" : "merged",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Monitor",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "monitor"
          },
@@ -22703,7 +22833,7 @@
             "govuk_closed_status" : "no_longer_exists",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Morecambe Bay <br/>Investigation",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "morecambe-bay-investigation"
          },
@@ -23203,7 +23333,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "National Data<br/>Guardian",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "national-data-guardian"
          },
@@ -23455,7 +23585,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "National Guardian&#39;s Office",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "national-guardians-office"
          },
@@ -23651,7 +23781,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "National Infrastructure and Service Transformation Authority",
-         "updated_at" : "2025-07-17T11:07:21Z",
+         "updated_at" : "2026-07-10T14:04:32Z",
          "web_url" : "https://www.gov.uk/government/organisations/national-infrastructure-and-service-transformation-authority"
       },
       {
@@ -23697,7 +23827,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "National Institute for <br/>Health and Care Excellence",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "national-institute-for-clinical-excellence"
          },
@@ -23855,34 +23985,6 @@
          "title" : "National Measurement Office",
          "updated_at" : "2021-04-15T08:59:06Z",
          "web_url" : "https://www.gov.uk/government/organisations/national-measurement-office"
-      },
-      {
-         "analytics_identifier" : "PB290",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "RNM",
-            "closed_at" : null,
-            "content_id" : "a2a82282-91a6-467e-b396-494cf770d02c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "Royal Navy Museums",
-            "organisation_brand_colour_class_name" : "ministry-of-defence",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "royal-naval-museum"
-         },
-         "format" : "Executive non-departmental public body",
-         "id" : "https://www.gov.uk/api/organisations/royal-naval-museum",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
-               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "National Museum of the Royal Navy",
-         "updated_at" : "2026-04-29T09:19:36Z",
-         "web_url" : "https://www.gov.uk/government/organisations/royal-naval-museum"
       },
       {
          "analytics_identifier" : "OT868",
@@ -24698,7 +24800,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "NHS Blood and Transplant",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-blood-and-transplant"
          },
@@ -24731,7 +24833,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "NHS <br/>Business Services <br/>Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "nhs-business-services-authority"
          },
@@ -24759,7 +24861,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "NHS Counter Fraud Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-counter-fraud-authority"
          },
@@ -24853,7 +24955,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "NHS England",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-england"
          },
@@ -24921,7 +25023,7 @@
             "govuk_closed_status" : "merged",
             "govuk_status" : "closed",
             "logo_formatted_name" : "NHS Improvement",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-improvement"
          },
@@ -25009,7 +25111,7 @@
             "govuk_closed_status" : "changed_name",
             "govuk_status" : "closed",
             "logo_formatted_name" : "NHS Litigation Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-litigation-authority"
          },
@@ -25065,7 +25167,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "NHS <br/>Pay Review <br/>Body",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "nhs-pay-review-body"
          },
@@ -25162,7 +25264,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "NHS Resolution",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-resolution"
          },
@@ -25195,7 +25297,7 @@
             "govuk_closed_status" : "merged",
             "govuk_status" : "closed",
             "logo_formatted_name" : "NHS Trust Development Authority",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "nhs-trust-development-authority"
          },
@@ -26792,7 +26894,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Nuclear Decommissioning Authority",
-         "updated_at" : "2024-10-07T10:37:15Z",
+         "updated_at" : "2026-07-30T13:08:58Z",
          "web_url" : "https://www.gov.uk/government/organisations/nuclear-decommissioning-authority"
       },
       {
@@ -27277,7 +27379,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Equality<br/>and Opportunity",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-equality-and-opportunity"
          },
@@ -27285,8 +27387,8 @@
          "id" : "https://www.gov.uk/api/organisations/office-for-equality-and-opportunity",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
             }
          ],
          "superseded_organisations" : [
@@ -27297,7 +27399,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Office for Equality and Opportunity",
-         "updated_at" : "2025-11-06T14:21:08Z",
+         "updated_at" : "2026-07-23T10:10:40Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-equality-and-opportunity"
       },
       {
@@ -27343,7 +27445,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Health<br/>Improvement <br/>&amp; Disparities",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-health-improvement-and-disparities"
          },
@@ -27659,10 +27761,10 @@
             "closed_at" : null,
             "content_id" : "1b30dc88-68b4-4991-9f10-3ed90f7807b3",
             "govuk_closed_status" : null,
-            "govuk_status" : "joining",
+            "govuk_status" : "live",
             "logo_formatted_name" : "Office for Responsible Business Conduct",
             "organisation_brand_colour_class_name" : "department-for-business-trade",
-            "organisation_logo_type_class_name" : "no-identity",
+            "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-responsible-business-conduct"
          },
          "format" : "Sub organisation",
@@ -27673,10 +27775,15 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/uk-national-contact-point",
+               "web_url" : "https://www.gov.uk/government/organisations/uk-national-contact-point"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Office for Responsible Business Conduct",
-         "updated_at" : "2025-06-24T14:44:33Z",
+         "updated_at" : "2026-07-29T09:23:16Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
       },
       {
@@ -27853,7 +27960,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Veterans' Affairs",
-         "updated_at" : "2025-11-12T12:39:04Z",
+         "updated_at" : "2026-07-30T11:33:38Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-veterans-affairs"
       },
       {
@@ -28873,7 +28980,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office of Trade Sanctions Implementation",
-         "updated_at" : "2025-08-04T12:41:21Z",
+         "updated_at" : "2026-07-30T13:00:07Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-of-trade-sanctions-implementation"
       },
       {
@@ -29977,7 +30084,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-transport"
             }
          ],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/london-and-continental-railways-ltd",
+               "web_url" : "https://www.gov.uk/government/organisations/london-and-continental-railways-ltd"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Platform4",
          "updated_at" : "2026-03-17T14:24:26Z",
@@ -30856,7 +30968,7 @@
             "govuk_closed_status" : "split",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Public Health <br/>England",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "public-health-england"
          },
@@ -31209,7 +31321,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Race<br/>Equality<br/>Unit",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "race-equality-unit"
          },
@@ -31217,12 +31329,12 @@
          "id" : "https://www.gov.uk/api/organisations/race-equality-unit",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/office-for-equality-and-opportunity",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-equality-and-opportunity"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
             }
          ],
          "superseded_organisations" : [
@@ -31233,7 +31345,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Race Equality Unit",
-         "updated_at" : "2024-10-11T08:50:37Z",
+         "updated_at" : "2026-07-23T10:11:24Z",
          "web_url" : "https://www.gov.uk/government/organisations/race-equality-unit"
       },
       {
@@ -31965,7 +32077,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Review Body on <br/>Doctors&#39; and Dentists&#39; <br/>Remuneration",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "review-body-on-doctors-and-dentists-remuneration"
          },
@@ -32323,6 +32435,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/royal-museums-greenwich"
       },
       {
+         "analytics_identifier" : "PB290",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "RNM",
+            "closed_at" : null,
+            "content_id" : "a2a82282-91a6-467e-b396-494cf770d02c",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Royal Navy Museums",
+            "organisation_brand_colour_class_name" : "ministry-of-defence",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "royal-naval-museum"
+         },
+         "format" : "Executive non-departmental public body",
+         "id" : "https://www.gov.uk/api/organisations/royal-naval-museum",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-defence",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-defence"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Royal Navy Museums",
+         "updated_at" : "2026-07-13T15:42:20Z",
+         "web_url" : "https://www.gov.uk/government/organisations/royal-naval-museum"
+      },
+      {
          "analytics_identifier" : "OT409",
          "child_organisations" : [],
          "details" : {
@@ -32463,7 +32603,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Rural Payments Agency",
-         "updated_at" : "2025-04-24T09:56:46Z",
+         "updated_at" : "2026-07-08T14:28:06Z",
          "web_url" : "https://www.gov.uk/government/organisations/rural-payments-agency"
       },
       {
@@ -32608,12 +32748,7 @@
       },
       {
          "analytics_identifier" : "PB1394",
-         "child_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/advisory-committee-on-the-microbiological-safety-of-food",
-               "web_url" : "https://www.gov.uk/government/organisations/advisory-committee-on-the-microbiological-safety-of-food"
-            }
-         ],
+         "child_organisations" : [],
          "details" : {
             "abbreviation" : "SACs",
             "closed_at" : null,
@@ -32621,7 +32756,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "joining",
             "logo_formatted_name" : "Science Advisory Committees",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "science-advisory-committees"
          },
@@ -33745,7 +33880,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Social<br/>Mobility <br/>Commission",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "social-mobility-commission"
          },
@@ -33753,8 +33888,8 @@
          "id" : "https://www.gov.uk/api/organisations/social-mobility-commission",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
             }
          ],
          "superseded_organisations" : [
@@ -33765,7 +33900,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Social Mobility Commission",
-         "updated_at" : "2023-10-18T14:32:52Z",
+         "updated_at" : "2026-07-23T11:51:10Z",
          "web_url" : "https://www.gov.uk/government/organisations/social-mobility-commission"
       },
       {
@@ -34300,7 +34435,7 @@
             "govuk_closed_status" : "merged",
             "govuk_status" : "closed",
             "logo_formatted_name" : "Stabilisation Unit",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "stabilisation-unit"
          },
@@ -35119,6 +35254,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/the-crown-estate"
       },
       {
+         "analytics_identifier" : "OT1479",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "DWI",
+            "closed_at" : null,
+            "content_id" : "80f25c38-ba57-4a2a-9755-5999ffb50f3e",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "The Drinking Water Inspectorate",
+            "organisation_brand_colour_class_name" : "department-for-environment-food-rural-affairs",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "the-drinking-water-inspectorate"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/the-drinking-water-inspectorate",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-environment-food-rural-affairs",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "The Drinking Water Inspectorate",
+         "updated_at" : "2026-07-09T14:28:08Z",
+         "web_url" : "https://www.gov.uk/government/organisations/the-drinking-water-inspectorate"
+      },
+      {
          "analytics_identifier" : "IM1203",
          "child_organisations" : [],
          "details" : {
@@ -35540,7 +35703,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "The Parliamentary and Health Service Ombudsman ",
-         "updated_at" : "2021-04-15T09:01:04Z",
+         "updated_at" : "2026-07-15T09:24:21Z",
          "web_url" : "https://www.gov.uk/government/organisations/the-parliamentary-and-health-service-ombudsman"
       },
       {
@@ -36695,7 +36858,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Defence Innovation",
-         "updated_at" : "2026-06-03T13:03:04Z",
+         "updated_at" : "2026-07-22T12:29:23Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-defence-innovation"
       },
       {
@@ -36949,7 +37112,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Health<br/>Security<br/>Agency",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "uk-health-security-agency"
          },
@@ -37063,7 +37226,7 @@
             }
          ],
          "title" : "UK Industrial Fusion Solutions",
-         "updated_at" : "2026-03-17T14:01:04Z",
+         "updated_at" : "2026-07-10T14:50:54Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-industrial-fusion-solutions"
       },
       {
@@ -37160,10 +37323,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "UK NCP",
-            "closed_at" : null,
+            "closed_at" : "2026-07-02T00:00:00.000+01:00",
             "content_id" : "0c2e4d53-f5d8-466a-af5e-4ca9cb589695",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "UK National Contact Point",
             "organisation_brand_colour_class_name" : "department-for-business-trade",
             "organisation_logo_type_class_name" : "no-identity",
@@ -37178,9 +37341,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-responsible-business-conduct",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-responsible-business-conduct"
+            }
+         ],
          "title" : "UK National Contact Point",
-         "updated_at" : "2025-09-18T09:46:20Z",
+         "updated_at" : "2026-07-02T10:23:47Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-national-contact-point"
       },
       {
@@ -37193,7 +37361,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK National Screening Committee",
-            "organisation_brand_colour_class_name" : "department-of-health",
+            "organisation_brand_colour_class_name" : "department-of-health-social-care",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "uk-national-screening-committee"
          },
@@ -39020,7 +39188,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Women and<br/>Equalities Unit",
-            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_brand_colour_class_name" : "ministry-of-housing-communities-local-government",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "women-and-equalities-unit"
          },
@@ -39028,12 +39196,12 @@
          "id" : "https://www.gov.uk/api/organisations/women-and-equalities-unit",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/cabinet-office",
-               "web_url" : "https://www.gov.uk/government/organisations/cabinet-office"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/office-for-equality-and-opportunity",
                "web_url" : "https://www.gov.uk/government/organisations/office-for-equality-and-opportunity"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ministry-of-housing-communities-local-government",
+               "web_url" : "https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government"
             }
          ],
          "superseded_organisations" : [
@@ -39044,7 +39212,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Women and Equalities Unit",
-         "updated_at" : "2024-10-11T08:57:55Z",
+         "updated_at" : "2026-07-23T10:11:02Z",
          "web_url" : "https://www.gov.uk/government/organisations/women-and-equalities-unit"
       },
       {
