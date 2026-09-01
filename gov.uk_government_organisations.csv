@@ -2,12 +2,11 @@ ID,Name,GOVUK URL,URL
 prime-ministers-office-10-downing-street,"Prime Minister&#39;s Office 10 Downing Street",https://gov.uk/government/organisations/prime-ministers-office-10-downing-street,https://gov.uk/government/organisations/prime-ministers-office-10-downing-street
 attorney-generals-office,"Attorney General&#39;s Office",https://gov.uk/government/organisations/attorney-generals-office,https://gov.uk/government/organisations/attorney-generals-office
 cabinet-office,"Cabinet Office",https://gov.uk/government/organisations/cabinet-office,https://gov.uk/government/organisations/cabinet-office
-department-for-business-and-trade,"Department for Business &amp; Trade",https://gov.uk/government/organisations/department-for-business-and-trade,https://gov.uk/government/organisations/department-for-business-and-trade
-department-for-culture-media-and-sport,"Department for Culture, Media &amp; Sport",https://gov.uk/government/organisations/department-for-culture-media-and-sport,https://gov.uk/government/organisations/department-for-culture-media-and-sport
+department-for-business-innovation-science-and-trade,"Department for Business, Innovation, Science and Trade",https://gov.uk/government/organisations/department-for-business-innovation-science-and-trade,https://gov.uk/government/organisations/department-for-business-innovation-science-and-trade
+department-for-digital-culture-media-and-sport,"Department for Digital, Culture, Media &amp; Sport",https://gov.uk/government/organisations/department-for-digital-culture-media-and-sport,https://gov.uk/government/organisations/department-for-digital-culture-media-and-sport
 department-for-education,"Department for Education",https://gov.uk/government/organisations/department-for-education,https://gov.uk/government/organisations/department-for-education
 department-for-energy-security-and-net-zero,"Department for Energy Security &amp; Net Zero",https://gov.uk/government/organisations/department-for-energy-security-and-net-zero,https://gov.uk/government/organisations/department-for-energy-security-and-net-zero
 department-for-environment-food-rural-affairs,"Department for Environment, Food &amp; Rural Affairs",https://gov.uk/government/organisations/department-for-environment-food-rural-affairs,https://gov.uk/government/organisations/department-for-environment-food-rural-affairs
-department-for-science-innovation-and-technology,"Department for Science, Innovation &amp; Technology",https://gov.uk/government/organisations/department-for-science-innovation-and-technology,https://gov.uk/government/organisations/department-for-science-innovation-and-technology
 department-for-transport,"Department for Transport",https://gov.uk/government/organisations/department-for-transport,https://gov.uk/government/organisations/department-for-transport
 department-for-work-pensions,"Department for Work &amp; Pensions",https://gov.uk/government/organisations/department-for-work-pensions,https://gov.uk/government/organisations/department-for-work-pensions
 department-of-health-and-social-care,"Department of Health &amp; Social Care",https://gov.uk/government/organisations/department-of-health-and-social-care,https://gov.uk/government/organisations/department-of-health-and-social-care
@@ -68,6 +67,7 @@ agriculture-and-horticulture-development-board,"",,
 air-accidents-investigation-branch,"",,
 animal-and-plant-health-agency,"",,
 animals-in-science-committee,"",,
+armed-forces-commissioner,"",,
 armed-forces-covenant-fund-trust,"",,
 armed-forces-pay-review-body,"",,
 arts-council-england,"",,
@@ -140,8 +140,11 @@ defence-nuclear-safety-committee,"",,
 defence-science-and-technology-laboratory,"",,
 defence-and-security-media-advisory-committee,"",,
 science-advisory-council,"",,
+department-for-business-and-trade,"",,
 department-for-communities-northern-ireland,"",,
+department-for-culture-media-and-sport,"",,
 department-for-infrastructure-northern-ireland,"",,
+department-for-science-innovation-and-technology,"",,
 department-for-the-economy-northern-ireland,"",,
 department-of-agriculture-environment-and-rural-affairs-northern-ireland,"",,
 department-of-education,"",,
@@ -403,7 +406,6 @@ security-vetting-appeals-panel,"",,
 sellafield-ltd,"",,
 review-body-on-senior-salaries,"",,
 the-sentencing-council-for-england-and-wales,"",,
-service-complaints-ombudsman,"",,
 service-prosecuting-authority,"",,
 single-source-regulations-office,"",,
 sir-john-soane-s-museum,"",,
@@ -567,6 +569,7 @@ preventing-sexual-violence-in-conflict-initiative,"",,
 probation-service,"",,
 public-sector-fraud-authority,"",,
 race-equality-unit,"",,
+radiation-protection-sciences,"",,
 regional-department-for-education-dfe-directors,"",,
 regulatory-innovation-office,"",,
 research-collaboration-advice-team,"",,
