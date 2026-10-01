@@ -2988,6 +2988,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/british-potato-council"
       },
       {
+         "analytics_identifier" : "PC1487",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "BSL",
+            "closed_at" : null,
+            "content_id" : "bc5e21a3-1fb1-4a98-b1a6-ca9f3c5cf4a8",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "British Steel Limited",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-science-trade",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "british-steel-limited"
+         },
+         "format" : "Public corporation",
+         "id" : "https://www.gov.uk/api/organisations/british-steel-limited",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-science-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "British Steel Limited",
+         "updated_at" : "2026-09-21T12:41:25Z",
+         "web_url" : "https://www.gov.uk/government/organisations/british-steel-limited"
+      },
+      {
          "analytics_identifier" : "OT1395",
          "child_organisations" : [],
          "details" : {
@@ -3188,7 +3216,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Building Digital UK",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "building-digital-uk"
          },
@@ -3196,8 +3224,8 @@
          "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
             }
          ],
          "superseded_organisations" : [],
@@ -3208,7 +3236,7 @@
             }
          ],
          "title" : "Building Digital UK",
-         "updated_at" : "2026-08-13T14:02:00Z",
+         "updated_at" : "2026-09-09T13:52:17Z",
          "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
       },
       {
@@ -3289,6 +3317,39 @@
          "title" : "Building Safety Regulator",
          "updated_at" : "2026-01-27T09:06:05Z",
          "web_url" : "https://www.gov.uk/government/organisations/building-safety-regulator"
+      },
+      {
+         "analytics_identifier" : "CO1488",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "da13130d-43cf-40eb-9a17-3a8d6917ac2b",
+            "govuk_closed_status" : null,
+            "govuk_status" : "live",
+            "logo_formatted_name" : "Business and Property Division of the High Court",
+            "organisation_brand_colour_class_name" : null,
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "business-and-property-division-of-the-high-court"
+         },
+         "format" : "Court",
+         "id" : "https://www.gov.uk/api/organisations/business-and-property-division-of-the-high-court",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-courts-and-tribunals-service",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-courts-and-tribunals-service"
+            }
+         ],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/chancery-division-of-the-high-court",
+               "web_url" : "https://www.gov.uk/government/organisations/chancery-division-of-the-high-court"
+            }
+         ],
+         "superseding_organisations" : [],
+         "title" : "Business and Property Division of the High Court",
+         "updated_at" : "2026-10-01T12:00:00Z",
+         "web_url" : "https://www.gov.uk/government/organisations/business-and-property-division-of-the-high-court"
       },
       {
          "analytics_identifier" : "OT796",
@@ -3578,6 +3639,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-commercial-agency",
                "web_url" : "https://www.gov.uk/government/organisations/government-commercial-agency"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
+               "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
             }
          ],
          "details" : {
@@ -4297,10 +4362,10 @@
          "child_organisations" : [],
          "details" : {
             "abbreviation" : "",
-            "closed_at" : null,
+            "closed_at" : "2026-10-01T00:00:00.000+01:00",
             "content_id" : "6fe5b36c-b875-45d8-bbe4-c29702708d44",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "changed_name",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Chancery Division of the High Court",
             "organisation_brand_colour_class_name" : null,
             "organisation_logo_type_class_name" : "no-identity",
@@ -4315,9 +4380,14 @@
             }
          ],
          "superseded_organisations" : [],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/business-and-property-division-of-the-high-court",
+               "web_url" : "https://www.gov.uk/government/organisations/business-and-property-division-of-the-high-court"
+            }
+         ],
          "title" : "Chancery Division of the High Court",
-         "updated_at" : "2025-09-10T15:30:03Z",
+         "updated_at" : "2026-10-01T07:10:54Z",
          "web_url" : "https://www.gov.uk/government/organisations/chancery-division-of-the-high-court"
       },
       {
@@ -5966,7 +6036,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Competition and Markets Authority",
-         "updated_at" : "2026-08-18T15:30:37Z",
+         "updated_at" : "2026-09-24T12:24:16Z",
          "web_url" : "https://www.gov.uk/government/organisations/competition-and-markets-authority"
       },
       {
@@ -7949,10 +8019,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/fair-work-agency",
                "web_url" : "https://www.gov.uk/government/organisations/fair-work-agency"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/regulatory-policy-committee",
-               "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
             }
          ],
          "details" : {
@@ -8167,7 +8233,16 @@
       },
       {
          "analytics_identifier" : "D1480",
-         "child_organisations" : [],
+         "child_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/regulatory-policy-committee",
+               "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/british-steel-limited",
+               "web_url" : "https://www.gov.uk/government/organisations/british-steel-limited"
+            }
+         ],
          "details" : {
             "abbreviation" : "BIST",
             "closed_at" : null,
@@ -8309,16 +8384,16 @@
          ],
          "details" : {
             "abbreviation" : "",
-            "closed_at" : null,
+            "closed_at" : "2026-07-20T00:00:00.000+01:00",
             "content_id" : "ae9ef2e1-9de0-4ff8-b560-e6ac28a6205c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "live",
+            "govuk_closed_status" : "replaced",
+            "govuk_status" : "closed",
             "logo_formatted_name" : "Department <br/>for Culture,<br/>Media &amp; Sport",
             "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-culture-media-and-sport"
          },
-         "format" : "Other",
+         "format" : "Ministerial department",
          "id" : "https://www.gov.uk/api/organisations/department-for-culture-media-and-sport",
          "parent_organisations" : [],
          "superseded_organisations" : [
@@ -8327,9 +8402,14 @@
                "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-sport"
             }
          ],
-         "superseding_organisations" : [],
+         "superseding_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
+            }
+         ],
          "title" : "Department for Culture, Media and Sport",
-         "updated_at" : "2026-08-20T15:05:12Z",
+         "updated_at" : "2026-09-16T15:11:02Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
       },
       {
@@ -8576,6 +8656,18 @@
             {
                "id" : "https://www.gov.uk/api/organisations/information-commissioner-s-office",
                "web_url" : "https://www.gov.uk/government/organisations/information-commissioner-s-office"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
+               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/office-for-digital-identities-and-attributes",
+               "web_url" : "https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes"
             }
          ],
          "details" : {
@@ -8592,10 +8684,15 @@
          "format" : "Ministerial department",
          "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
          "parent_organisations" : [],
-         "superseded_organisations" : [],
+         "superseded_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/department-for-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-culture-media-and-sport"
+            }
+         ],
          "superseding_organisations" : [],
          "title" : "Department for Digital, Culture, Media and Sport",
-         "updated_at" : "2026-08-20T15:29:44Z",
+         "updated_at" : "2026-09-22T10:12:03Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
       },
       {
@@ -8914,7 +9011,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Department for<br/>Energy Security<br/>&amp; Net Zero",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "department-for-energy-security-and-net-zero"
          },
@@ -8929,7 +9026,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Department for Energy Security and Net Zero",
-         "updated_at" : "2026-02-16T13:06:39Z",
+         "updated_at" : "2026-09-16T11:39:53Z",
          "web_url" : "https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero"
       },
       {
@@ -9495,20 +9592,12 @@
                "web_url" : "https://www.gov.uk/government/organisations/regulatory-horizons-council"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/government-digital-service",
-               "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
-            },
-            {
                "id" : "https://www.gov.uk/api/organisations/central-digital-and-data-office",
                "web_url" : "https://www.gov.uk/government/organisations/central-digital-and-data-office"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/incubator-for-artificial-intelligence",
                "web_url" : "https://www.gov.uk/government/organisations/incubator-for-artificial-intelligence"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/ai-security-institute",
-               "web_url" : "https://www.gov.uk/government/organisations/ai-security-institute"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/regulatory-innovation-office",
@@ -9521,22 +9610,6 @@
             {
                "id" : "https://www.gov.uk/api/organisations/government-office-for-science",
                "web_url" : "https://www.gov.uk/government/organisations/government-office-for-science"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/building-digital-uk",
-               "web_url" : "https://www.gov.uk/government/organisations/building-digital-uk"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/office-for-digital-identities-and-attributes",
-               "web_url" : "https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/ofcom",
-               "web_url" : "https://www.gov.uk/government/organisations/ofcom"
-            },
-            {
-               "id" : "https://www.gov.uk/api/organisations/information-commissioner-s-office",
-               "web_url" : "https://www.gov.uk/government/organisations/information-commissioner-s-office"
             }
          ],
          "details" : {
@@ -10907,7 +10980,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "DfT Operator Limited",
-         "updated_at" : "2026-06-01T07:22:23Z",
+         "updated_at" : "2026-09-21T10:21:09Z",
          "web_url" : "https://www.gov.uk/government/organisations/dft-operator-limited"
       },
       {
@@ -13198,7 +13271,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "First-tier Tribunal (Mental Health)",
-         "updated_at" : "2021-04-15T09:04:00Z",
+         "updated_at" : "2026-09-10T08:50:20Z",
          "web_url" : "https://www.gov.uk/government/organisations/first-tier-tribunal-mental-health"
       },
       {
@@ -13605,7 +13678,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Food Standards Agency",
-         "updated_at" : "2026-07-01T13:36:46Z",
+         "updated_at" : "2026-09-02T07:39:11Z",
          "web_url" : "https://www.gov.uk/government/organisations/food-standards-agency"
       },
       {
@@ -14809,8 +14882,8 @@
          "id" : "https://www.gov.uk/api/organisations/government-digital-service",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
             }
          ],
          "superseded_organisations" : [
@@ -14833,7 +14906,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Government Digital Service",
-         "updated_at" : "2025-01-30T12:38:17Z",
+         "updated_at" : "2026-09-09T13:52:30Z",
          "web_url" : "https://www.gov.uk/government/organisations/government-digital-service"
       },
       {
@@ -15301,7 +15374,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Government Office for Technology Transfer",
-         "updated_at" : "2026-08-19T13:36:04Z",
+         "updated_at" : "2026-09-17T13:32:05Z",
          "web_url" : "https://www.gov.uk/government/organisations/government-office-for-technology-transfer"
       },
       {
@@ -17101,6 +17174,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/financial-remedies-court",
                "web_url" : "https://www.gov.uk/government/organisations/financial-remedies-court"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/business-and-property-division-of-the-high-court",
+               "web_url" : "https://www.gov.uk/government/organisations/business-and-property-division-of-the-high-court"
             }
          ],
          "details" : {
@@ -17364,7 +17441,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "HM Land Registry",
-         "updated_at" : "2026-06-15T15:29:02Z",
+         "updated_at" : "2026-09-08T13:59:43Z",
          "web_url" : "https://www.gov.uk/government/organisations/land-registry"
       },
       {
@@ -17567,8 +17644,8 @@
                "web_url" : "https://www.gov.uk/government/organisations/royal-mint"
             },
             {
-               "id" : "https://www.gov.uk/api/organisations/ns-i",
-               "web_url" : "https://www.gov.uk/government/organisations/ns-i"
+               "id" : "https://www.gov.uk/api/organisations/nsandi",
+               "web_url" : "https://www.gov.uk/government/organisations/nsandi"
             },
             {
                "id" : "https://www.gov.uk/api/organisations/royal-mint-advisory-committee",
@@ -19501,7 +19578,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "Information Commissioner&#39;s Office",
-            "organisation_brand_colour_class_name" : "ministry-of-justice",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "information-commissioner-s-office"
          },
@@ -19516,7 +19593,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Information Commissioner's Office",
-         "updated_at" : "2026-08-20T18:56:41Z",
+         "updated_at" : "2026-09-09T13:52:39Z",
          "web_url" : "https://www.gov.uk/government/organisations/information-commissioner-s-office"
       },
       {
@@ -20038,6 +20115,34 @@
          "title" : "Internal Audit Profession",
          "updated_at" : "2021-04-15T09:03:32Z",
          "web_url" : "https://www.gov.uk/government/organisations/civil-service-internal-audit-profession"
+      },
+      {
+         "analytics_identifier" : "OT1486",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "",
+            "closed_at" : null,
+            "content_id" : "64920a3b-8ab7-4613-b32d-d2f372f5d598",
+            "govuk_closed_status" : null,
+            "govuk_status" : "joining",
+            "logo_formatted_name" : "Intertrade UK",
+            "organisation_brand_colour_class_name" : "northern-ireland-office",
+            "organisation_logo_type_class_name" : "custom",
+            "slug" : "intertrade-uk"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/intertrade-uk",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/northern-ireland-office",
+               "web_url" : "https://www.gov.uk/government/organisations/northern-ireland-office"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Intertrade UK",
+         "updated_at" : "2026-09-15T09:41:24Z",
+         "web_url" : "https://www.gov.uk/government/organisations/intertrade-uk"
       },
       {
          "analytics_identifier" : "OT1338",
@@ -21593,7 +21698,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Maritime and Coastguard Agency",
-         "updated_at" : "2025-02-14T12:43:27Z",
+         "updated_at" : "2026-09-08T10:28:53Z",
          "web_url" : "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
       },
       {
@@ -24363,6 +24468,34 @@
          "web_url" : "https://www.gov.uk/government/organisations/national-records-of-scotland"
       },
       {
+         "analytics_identifier" : "EA104",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "NS&I",
+            "closed_at" : null,
+            "content_id" : "590039e7-1976-48fa-b84d-d688d4661269",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "National Savings <br/>and Investments",
+            "organisation_brand_colour_class_name" : "hm-treasury",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "nsandi"
+         },
+         "format" : "Non-ministerial department",
+         "id" : "https://www.gov.uk/api/organisations/nsandi",
+         "parent_organisations" : [
+            {
+               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
+               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
+            }
+         ],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "National Savings and Investments",
+         "updated_at" : "2026-09-03T12:17:22Z",
+         "web_url" : "https://www.gov.uk/government/organisations/nsandi"
+      },
+      {
          "analytics_identifier" : "OT891",
          "child_organisations" : [],
          "details" : {
@@ -25518,7 +25651,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "North Sea<br/>Transition<br/>Authority",
-            "organisation_brand_colour_class_name" : null,
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "north-sea-transition-authority"
          },
@@ -25538,7 +25671,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "North Sea Transition Authority",
-         "updated_at" : "2023-04-19T10:05:06Z",
+         "updated_at" : "2026-09-16T11:44:40Z",
          "web_url" : "https://www.gov.uk/government/organisations/north-sea-transition-authority"
       },
       {
@@ -26471,6 +26604,10 @@
             {
                "id" : "https://www.gov.uk/api/organisations/the-independent-commission-for-reconciliation-and-information-recovery",
                "web_url" : "https://www.gov.uk/government/organisations/the-independent-commission-for-reconciliation-and-information-recovery"
+            },
+            {
+               "id" : "https://www.gov.uk/api/organisations/intertrade-uk",
+               "web_url" : "https://www.gov.uk/government/organisations/intertrade-uk"
             }
          ],
          "details" : {
@@ -26853,34 +26990,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/northwest-regional-development-agency"
       },
       {
-         "analytics_identifier" : "EA104",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "",
-            "closed_at" : null,
-            "content_id" : "590039e7-1976-48fa-b84d-d688d4661269",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "NS&amp;I",
-            "organisation_brand_colour_class_name" : "hm-treasury",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "ns-i"
-         },
-         "format" : "Non-ministerial department",
-         "id" : "https://www.gov.uk/api/organisations/ns-i",
-         "parent_organisations" : [
-            {
-               "id" : "https://www.gov.uk/api/organisations/hm-treasury",
-               "web_url" : "https://www.gov.uk/government/organisations/hm-treasury"
-            }
-         ],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "NS&I",
-         "updated_at" : "2026-08-21T09:38:08Z",
-         "web_url" : "https://www.gov.uk/government/organisations/ns-i"
-      },
-      {
          "analytics_identifier" : "PB197",
          "child_organisations" : [
             {
@@ -27158,7 +27267,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "Ofcom",
-         "updated_at" : "2026-08-20T18:55:59Z",
+         "updated_at" : "2026-09-09T13:52:51Z",
          "web_url" : "https://www.gov.uk/government/organisations/ofcom"
       },
       {
@@ -27321,7 +27430,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Office for Digital<br/>Identities &amp; Attributes",
-            "organisation_brand_colour_class_name" : "department-for-science-innovation-technology",
+            "organisation_brand_colour_class_name" : "department-for-culture-media-sport",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "office-for-digital-identities-and-attributes"
          },
@@ -27329,14 +27438,14 @@
          "id" : "https://www.gov.uk/api/organisations/office-for-digital-identities-and-attributes",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-science-innovation-and-technology",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology"
+               "id" : "https://www.gov.uk/api/organisations/department-for-digital-culture-media-and-sport",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-digital-culture-media-and-sport"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Office for Digital Identities and Attributes",
-         "updated_at" : "2026-08-13T14:02:03Z",
+         "updated_at" : "2026-09-09T13:52:59Z",
          "web_url" : "https://www.gov.uk/government/organisations/office-for-digital-identities-and-attributes"
       },
       {
@@ -29061,7 +29170,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Offshore Petroleum Regulator <br/>for Environment &amp; Decommissioning",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "offshore-petroleum-regulator-for-environment-and-decommissioning"
          },
@@ -29076,7 +29185,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Offshore Petroleum Regulator for Environment and Decommissioning",
-         "updated_at" : "2024-01-22T10:41:38Z",
+         "updated_at" : "2026-09-16T11:41:33Z",
          "web_url" : "https://www.gov.uk/government/organisations/offshore-petroleum-regulator-for-environment-and-decommissioning"
       },
       {
@@ -29165,7 +29274,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Ofsted",
-         "updated_at" : "2025-11-10T13:33:01Z",
+         "updated_at" : "2026-09-16T12:55:41Z",
          "web_url" : "https://www.gov.uk/government/organisations/ofsted"
       },
       {
@@ -31175,6 +31284,29 @@
          "web_url" : "https://www.gov.uk/government/organisations/public-sector-fraud-authority"
       },
       {
+         "analytics_identifier" : "OT519",
+         "child_organisations" : [],
+         "details" : {
+            "abbreviation" : "The Ombudsman",
+            "closed_at" : null,
+            "content_id" : "8e0d056a-96f7-4240-8ae5-7bd7aa7ce94c",
+            "govuk_closed_status" : null,
+            "govuk_status" : "exempt",
+            "logo_formatted_name" : "Public Service Ombudsman",
+            "organisation_brand_colour_class_name" : "cabinet-office",
+            "organisation_logo_type_class_name" : "no-identity",
+            "slug" : "the-parliamentary-and-health-service-ombudsman"
+         },
+         "format" : "Other",
+         "id" : "https://www.gov.uk/api/organisations/the-parliamentary-and-health-service-ombudsman",
+         "parent_organisations" : [],
+         "superseded_organisations" : [],
+         "superseding_organisations" : [],
+         "title" : "Public Service Ombudsman",
+         "updated_at" : "2026-10-01T07:01:24Z",
+         "web_url" : "https://www.gov.uk/government/organisations/the-parliamentary-and-health-service-ombudsman"
+      },
+      {
          "analytics_identifier" : "OT1344",
          "child_organisations" : [],
          "details" : {
@@ -31824,7 +31956,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "Regulatory Policy Committee",
-            "organisation_brand_colour_class_name" : "department-for-business-trade",
+            "organisation_brand_colour_class_name" : "department-for-business-innovation-science-trade",
             "organisation_logo_type_class_name" : "custom",
             "slug" : "regulatory-policy-committee"
          },
@@ -31832,14 +31964,14 @@
          "id" : "https://www.gov.uk/api/organisations/regulatory-policy-committee",
          "parent_organisations" : [
             {
-               "id" : "https://www.gov.uk/api/organisations/department-for-business-and-trade",
-               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-and-trade"
+               "id" : "https://www.gov.uk/api/organisations/department-for-business-innovation-science-and-trade",
+               "web_url" : "https://www.gov.uk/government/organisations/department-for-business-innovation-science-and-trade"
             }
          ],
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "Regulatory Policy Committee",
-         "updated_at" : "2026-08-20T15:39:03Z",
+         "updated_at" : "2026-09-04T08:14:56Z",
          "web_url" : "https://www.gov.uk/government/organisations/regulatory-policy-committee"
       },
       {
@@ -35757,29 +35889,6 @@
          "web_url" : "https://www.gov.uk/government/organisations/oil-and-pipelines-agency"
       },
       {
-         "analytics_identifier" : "OT519",
-         "child_organisations" : [],
-         "details" : {
-            "abbreviation" : "The Ombudsman",
-            "closed_at" : null,
-            "content_id" : "8e0d056a-96f7-4240-8ae5-7bd7aa7ce94c",
-            "govuk_closed_status" : null,
-            "govuk_status" : "exempt",
-            "logo_formatted_name" : "The Parliamentary <br/>and Health Service<br/>Ombudsman",
-            "organisation_brand_colour_class_name" : "cabinet-office",
-            "organisation_logo_type_class_name" : "no-identity",
-            "slug" : "the-parliamentary-and-health-service-ombudsman"
-         },
-         "format" : "Other",
-         "id" : "https://www.gov.uk/api/organisations/the-parliamentary-and-health-service-ombudsman",
-         "parent_organisations" : [],
-         "superseded_organisations" : [],
-         "superseding_organisations" : [],
-         "title" : "The Parliamentary and Health Service Ombudsman ",
-         "updated_at" : "2026-07-15T09:24:21Z",
-         "web_url" : "https://www.gov.uk/government/organisations/the-parliamentary-and-health-service-ombudsman"
-      },
-      {
          "analytics_identifier" : "PB235",
          "child_organisations" : [],
          "details" : {
@@ -36652,7 +36761,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Atomic <br/>Energy <br/>Authority",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "ukaea",
             "slug" : "uk-atomic-energy-authority"
          },
@@ -36667,7 +36776,7 @@
          "superseded_organisations" : [],
          "superseding_organisations" : [],
          "title" : "UK Atomic Energy Authority",
-         "updated_at" : "2026-08-26T08:45:14Z",
+         "updated_at" : "2026-09-16T11:42:45Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-atomic-energy-authority"
       },
       {
@@ -37032,7 +37141,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "live",
             "logo_formatted_name" : "UK Fusion Energy",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "no-identity",
             "slug" : "uk-fusion-energy"
          },
@@ -37052,7 +37161,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "UK Fusion Energy",
-         "updated_at" : "2026-03-17T10:07:34Z",
+         "updated_at" : "2026-09-16T11:42:59Z",
          "web_url" : "https://www.gov.uk/government/organisations/uk-fusion-energy"
       },
       {
@@ -37915,7 +38024,7 @@
             "govuk_closed_status" : null,
             "govuk_status" : "exempt",
             "logo_formatted_name" : "United Kingdom<br/>National Nuclear<br/>Laboratory",
-            "organisation_brand_colour_class_name" : "department-for-business-innovation-skills",
+            "organisation_brand_colour_class_name" : "department-for-energy-security-net-zero",
             "organisation_logo_type_class_name" : "single-identity",
             "slug" : "united-kingdom-national-nuclear-laboratory"
          },
@@ -37935,7 +38044,7 @@
          ],
          "superseding_organisations" : [],
          "title" : "United Kingdom National Nuclear Laboratory",
-         "updated_at" : "2026-02-19T16:18:23Z",
+         "updated_at" : "2026-09-16T11:44:00Z",
          "web_url" : "https://www.gov.uk/government/organisations/united-kingdom-national-nuclear-laboratory"
       },
       {
